@@ -1,0 +1,501 @@
+Customer_ID,First_Name,Last_Name,Email,Phone,City,State,ZIP_Code,Age,Gender,Registration_Date,Total_Purchases,Total_Spent,Loyalty_Status
+CUST_00001,Ashley,Hernandez,ashley.hernandez@email.com,(209) 570-2670,Austin,FL,29346,42,Female,2023-10-23,11,4633.63,Bronze
+CUST_00002,Lisa,Davis,lisa.davis@email.com,(383) 253-2922,Dallas,PA,54366,55,Female,2020-10-31,41,3626.62,Silver
+CUST_00003,John,Johnson,john.johnson@email.com,(446) 606-9005,Phoenix,PA,88139,79,Male,2023-08-29,48,1908.09,Bronze
+CUST_00004,Christopher,Davis,christopher.davis@email.com,(865) 591-5509,Austin,PA,68342,41,Male,2020-09-02,8,459.05,Platinum
+CUST_00005,James,Hernandez,james.hernandez@email.com,(721) 430-1377,San Jose,AZ,85055,48,Female,2023-11-21,48,518.04,Silver
+CUST_00006,Robert,Davis,robert.davis@email.com,(860) 919-8105,Phoenix,AZ,26414,24,Female,2020-05-10,46,4548.96,Silver
+CUST_00007,Robert,Wilson,robert.wilson@email.com,(917) 220-7451,Dallas,FL,80309,68,Other,2022-09-27,5,2618.56,Bronze
+CUST_00008,Christopher,Gonzalez,christopher.gonzalez@email.com,(412) 874-2922,Chicago,FL,88525,62,Male,2020-01-11,36,2263.8,Gold
+CUST_00009,Jane,Smith,jane.smith@email.com,(331) 788-4378,Austin,CA,21510,53,Female,2020-03-12,6,4900.65,Gold
+CUST_00010,Lisa,Rodriguez,lisa.rodriguez@email.com,(375) 633-1001,Houston,IL,16051,78,Other,2021-08-23,43,2693.81,Silver
+CUST_00011,Jessica,Davis,jessica.davis@email.com,(911) 520-9563,Philadelphia,AZ,80544,50,Male,2023-11-09,7,3329.95,Bronze
+CUST_00012,Sarah,Smith,sarah.smith@email.com,(392) 345-5910,Houston,CA,88924,53,Male,2023-04-26,23,1423.11,Platinum
+CUST_00013,Jane,Rodriguez,jane.rodriguez@email.com,(461) 466-7255,Austin,CA,62436,47,Male,2021-06-04,44,2155.45,Silver
+CUST_00014,William,Brown,william.brown@email.com,(272) 844-5413,Austin,PA,94616,30,Other,2022-02-01,37,3303.72,Silver
+CUST_00015,Robert,Wilson,robert.wilson@email.com,(357) 523-8104,San Antonio,NY,89116,33,Male,2021-07-07,8,2680.78,Platinum
+CUST_00016,Jane,Garcia,jane.garcia@email.com,(855) 291-6944,Philadelphia,FL,45815,27,Male,2021-07-14,1,534.84,Silver
+CUST_00017,Robert,Johnson,robert.johnson@email.com,(326) 379-9625,Jacksonville,IL,87178,70,Female,2020-07-14,34,1777.06,Gold
+CUST_00018,William,Jones,william.jones@email.com,(822) 301-1785,Chicago,IL,61060,29,Female,2023-10-20,35,2780.77,Platinum
+CUST_00019,Emily,Martinez,emily.martinez@email.com,(330) 465-1155,Austin,AZ,30380,60,Male,2020-10-19,25,2859.43,Gold
+CUST_00020,John,Lopez,john.lopez@email.com,(854) 579-5081,Austin,AZ,64820,63,Female,2021-01-09,29,4931.92,Platinum
+CUST_00021,William,Jones,william.jones@email.com,(482) 638-9529,Jacksonville,FL,39984,37,Other,2020-06-27,20,2062.25,Gold
+CUST_00022,Amanda,Johnson,amanda.johnson@email.com,(849) 281-2256,Jacksonville,CA,22272,28,Other,2020-04-27,6,3729.88,Platinum
+CUST_00023,Christopher,Wilson,christopher.wilson@email.com,(210) 634-9334,Jacksonville,CA,72869,49,Other,2023-11-04,44,4446.0,Bronze
+CUST_00024,Robert,Smith,robert.smith@email.com,(831) 394-1119,Jacksonville,TX,80035,65,Female,2021-05-15,48,3322.81,Bronze
+CUST_00025,Jessica,Davis,jessica.davis@email.com,(372) 890-9577,Houston,CA,19846,41,Male,2022-11-18,23,4764.79,Platinum
+CUST_00026,Emily,Miller,emily.miller@email.com,(374) 582-2855,Philadelphia,PA,42737,71,Other,2020-08-29,19,1530.93,Gold
+CUST_00027,David,Brown,david.brown@email.com,(202) 955-7449,Houston,IL,94275,50,Male,2022-08-06,40,4249.34,Bronze
+CUST_00028,Lisa,Smith,lisa.smith@email.com,(830) 671-6382,Phoenix,IL,24046,18,Female,2021-01-16,26,1804.94,Bronze
+CUST_00029,Robert,Davis,robert.davis@email.com,(402) 286-9668,Dallas,CA,63833,25,Female,2020-01-15,10,3858.77,Gold
+CUST_00030,Sarah,Davis,sarah.davis@email.com,(604) 583-5903,Philadelphia,TX,33878,52,Female,2020-08-10,29,3298.58,Platinum
+CUST_00031,Michael,Williams,michael.williams@email.com,(562) 965-8110,New York,IL,36013,25,Male,2021-08-06,3,711.72,Platinum
+CUST_00032,Ashley,Garcia,ashley.garcia@email.com,(232) 364-4260,San Diego,PA,44838,25,Female,2022-09-28,36,2503.06,Silver
+CUST_00033,Lisa,Gonzalez,lisa.gonzalez@email.com,(982) 999-7551,Dallas,PA,60967,26,Male,2020-08-08,2,674.31,Gold
+CUST_00034,William,Smith,william.smith@email.com,(985) 900-4874,New York,PA,54845,45,Other,2020-01-17,28,2426.96,Gold
+CUST_00035,Emily,Johnson,emily.johnson@email.com,(979) 639-5059,San Jose,CA,77009,29,Male,2021-07-29,50,619.35,Gold
+CUST_00036,Ashley,Brown,ashley.brown@email.com,(882) 639-4250,San Diego,PA,23508,62,Other,2022-10-25,40,946.88,Silver
+CUST_00037,Sarah,Johnson,sarah.johnson@email.com,(335) 610-1628,Phoenix,CA,29163,45,Male,2023-06-16,13,500.13,Bronze
+CUST_00038,Robert,Miller,robert.miller@email.com,(737) 513-4791,Houston,IL,65846,48,Male,2022-11-10,28,3237.17,Gold
+CUST_00039,Jane,Jones,jane.jones@email.com,(572) 487-6751,Jacksonville,TX,42370,38,Male,2021-01-07,3,52.65,Gold
+CUST_00040,Sarah,Jones,sarah.jones@email.com,(683) 486-2650,San Antonio,CA,43064,78,Female,2022-01-14,22,1556.57,Bronze
+CUST_00041,James,Smith,james.smith@email.com,(899) 765-3134,Philadelphia,IL,57367,65,Other,2022-12-19,39,1889.38,Gold
+CUST_00042,Sarah,Martinez,sarah.martinez@email.com,(593) 289-2742,Chicago,PA,88883,25,Male,2023-04-16,42,4096.18,Silver
+CUST_00043,Ashley,Davis,ashley.davis@email.com,(301) 276-9955,San Jose,IL,49515,64,Female,2021-02-17,35,3617.81,Bronze
+CUST_00044,Michael,Brown,michael.brown@email.com,(628) 763-5137,Dallas,IL,57973,46,Other,2020-08-28,28,385.16,Platinum
+CUST_00045,William,Rodriguez,william.rodriguez@email.com,(222) 370-5491,Jacksonville,CA,47965,20,Other,2020-05-04,45,991.45,Platinum
+CUST_00046,Emily,Hernandez,emily.hernandez@email.com,(745) 725-2228,Chicago,TX,76752,42,Other,2022-03-10,26,3055.73,Silver
+CUST_00047,Michael,Smith,michael.smith@email.com,(363) 785-4568,San Jose,PA,11161,74,Other,2022-07-21,33,3553.38,Gold
+CUST_00048,David,Wilson,david.wilson@email.com,(425) 503-5399,Dallas,NY,32427,32,Male,2022-12-28,16,1494.62,Silver
+CUST_00049,Daniel,Jones,daniel.jones@email.com,(336) 476-1844,Austin,CA,37521,52,Male,2020-01-03,42,1769.94,Gold
+CUST_00050,Lisa,Johnson,lisa.johnson@email.com,(922) 762-5326,Jacksonville,CA,63522,75,Other,2021-08-26,21,4927.04,Bronze
+CUST_00051,Amanda,Garcia,amanda.garcia@email.com,(424) 948-5582,Chicago,IL,12049,52,Other,2023-04-09,7,3626.88,Platinum
+CUST_00052,James,Jones,james.jones@email.com,(841) 849-4377,San Diego,CA,52501,35,Male,2023-04-06,41,4048.28,Platinum
+CUST_00053,Michael,Davis,michael.davis@email.com,(437) 947-8109,Philadelphia,CA,72784,23,Female,2021-01-06,30,965.89,Silver
+CUST_00054,Sarah,Martinez,sarah.martinez@email.com,(702) 946-3955,Austin,IL,12758,37,Male,2020-12-29,26,3452.47,Silver
+CUST_00055,Jane,Williams,jane.williams@email.com,(273) 636-5018,San Diego,PA,62757,24,Other,2022-12-14,9,3647.48,Bronze
+CUST_00056,Jessica,Johnson,jessica.johnson@email.com,(586) 593-1339,Los Angeles,FL,11776,66,Other,2020-03-30,9,1279.3,Bronze
+CUST_00057,David,Williams,david.williams@email.com,(842) 814-1221,New York,FL,23938,52,Other,2021-11-24,46,470.58,Silver
+CUST_00058,Emily,Gonzalez,emily.gonzalez@email.com,(776) 654-3672,Phoenix,IL,72771,27,Male,2020-04-24,35,3475.6,Bronze
+CUST_00059,John,Wilson,john.wilson@email.com,(245) 305-9923,Phoenix,NY,77048,74,Female,2020-10-17,1,4565.23,Bronze
+CUST_00060,Sarah,Miller,sarah.miller@email.com,(594) 350-6788,Austin,IL,39607,76,Other,2022-02-26,44,4426.91,Bronze
+CUST_00061,Emily,Williams,emily.williams@email.com,(312) 429-2666,Phoenix,IL,19999,57,Female,2020-08-30,24,4620.43,Bronze
+CUST_00062,Daniel,Smith,daniel.smith@email.com,(819) 354-3917,San Antonio,AZ,53888,56,Male,2023-10-23,28,793.59,Gold
+CUST_00063,Jessica,Wilson,jessica.wilson@email.com,(493) 556-2702,Phoenix,TX,96734,41,Female,2023-12-27,5,3954.84,Silver
+CUST_00064,Christopher,Hernandez,christopher.hernandez@email.com,(350) 527-3421,San Antonio,TX,72709,70,Male,2020-08-19,37,2165.89,Gold
+CUST_00065,Michael,Johnson,michael.johnson@email.com,(530) 330-3979,San Antonio,IL,51853,49,Female,2022-09-12,45,4865.6,Gold
+CUST_00066,Michael,Gonzalez,michael.gonzalez@email.com,(869) 451-7278,San Antonio,AZ,75156,52,Other,2022-10-05,35,2704.25,Silver
+CUST_00067,Robert,Johnson,robert.johnson@email.com,(794) 932-7911,Dallas,AZ,38748,62,Male,2021-04-26,24,64.19,Bronze
+CUST_00068,Lisa,Rodriguez,lisa.rodriguez@email.com,(685) 336-2804,New York,IL,57298,72,Male,2021-08-26,30,763.49,Platinum
+CUST_00069,Sarah,Brown,sarah.brown@email.com,(429) 257-3257,Los Angeles,PA,28753,42,Other,2020-02-23,45,4826.32,Gold
+CUST_00070,John,Lopez,john.lopez@email.com,(308) 878-2208,San Diego,FL,87847,73,Male,2020-03-02,10,1857.96,Bronze
+CUST_00071,Sarah,Johnson,sarah.johnson@email.com,(212) 782-7823,Chicago,FL,33910,48,Other,2020-10-13,48,2660.88,Gold
+CUST_00072,Emily,Miller,emily.miller@email.com,(939) 545-8274,Austin,PA,11731,36,Male,2020-11-15,4,4411.73,Bronze
+CUST_00073,Jessica,Gonzalez,jessica.gonzalez@email.com,(377) 715-3627,New York,TX,65524,61,Female,2023-02-08,46,4156.12,Gold
+CUST_00074,Ashley,Brown,ashley.brown@email.com,(633) 360-5453,Los Angeles,AZ,59487,80,Male,2021-03-09,26,3114.27,Silver
+CUST_00075,Robert,Williams,robert.williams@email.com,(963) 772-2264,Jacksonville,TX,72575,38,Other,2023-08-07,26,4144.91,Silver
+CUST_00076,John,Gonzalez,john.gonzalez@email.com,(580) 862-7950,Houston,IL,24208,24,Male,2022-01-12,39,3905.05,Gold
+CUST_00077,John,Brown,john.brown@email.com,(488) 366-9873,Los Angeles,NY,37775,56,Male,2021-09-25,13,2780.87,Bronze
+CUST_00078,Sarah,Jones,sarah.jones@email.com,(287) 783-1735,San Jose,FL,73413,20,Male,2021-10-06,6,4720.37,Bronze
+CUST_00079,Lisa,Gonzalez,lisa.gonzalez@email.com,(489) 607-9195,Houston,IL,61202,64,Female,2020-09-22,45,3389.7,Gold
+CUST_00080,Robert,Lopez,robert.lopez@email.com,(715) 303-9227,Chicago,NY,86962,68,Female,2022-09-03,38,4350.62,Bronze
+CUST_00081,David,Williams,david.williams@email.com,(355) 898-8587,Los Angeles,PA,22227,78,Other,2021-04-19,14,4047.01,Silver
+CUST_00082,Christopher,Lopez,christopher.lopez@email.com,(364) 713-9459,Jacksonville,AZ,95379,51,Female,2022-07-05,9,1728.15,Gold
+CUST_00083,Jessica,Wilson,jessica.wilson@email.com,(641) 240-7350,Houston,CA,90004,56,Male,2020-11-08,37,3157.56,Platinum
+CUST_00084,Jane,Gonzalez,jane.gonzalez@email.com,(215) 346-6071,Dallas,FL,21425,49,Male,2022-07-20,21,890.1,Gold
+CUST_00085,Michael,Johnson,michael.johnson@email.com,(486) 790-6952,Philadelphia,NY,19323,29,Other,2022-08-01,17,4931.41,Gold
+CUST_00086,Christopher,Davis,christopher.davis@email.com,(865) 343-3031,San Jose,TX,15189,41,Female,2022-04-01,27,4292.15,Silver
+CUST_00087,Emily,Garcia,emily.garcia@email.com,(724) 839-6138,Philadelphia,NY,99417,44,Other,2022-07-10,17,4393.17,Bronze
+CUST_00088,Jessica,Hernandez,jessica.hernandez@email.com,(258) 958-5011,Jacksonville,FL,83505,18,Male,2020-08-03,19,1910.32,Platinum
+CUST_00089,Amanda,Johnson,amanda.johnson@email.com,(428) 597-8573,Austin,NY,55735,47,Female,2023-08-08,35,4505.63,Platinum
+CUST_00090,Jane,Johnson,jane.johnson@email.com,(384) 949-2775,San Antonio,FL,66769,30,Female,2021-11-04,5,1620.56,Platinum
+CUST_00091,Sarah,Lopez,sarah.lopez@email.com,(959) 687-2873,Phoenix,TX,15017,52,Male,2022-08-20,10,3219.07,Gold
+CUST_00092,Jessica,Smith,jessica.smith@email.com,(815) 992-7230,New York,FL,57381,68,Female,2022-08-27,14,317.68,Bronze
+CUST_00093,Christopher,Hernandez,christopher.hernandez@email.com,(633) 476-5129,Austin,CA,20956,27,Male,2021-07-14,26,454.46,Platinum
+CUST_00094,Amanda,Miller,amanda.miller@email.com,(737) 419-5250,Chicago,FL,17044,23,Female,2021-12-01,49,1519.68,Silver
+CUST_00095,Lisa,Miller,lisa.miller@email.com,(693) 686-9773,Jacksonville,FL,31061,79,Other,2022-06-13,23,4567.36,Platinum
+CUST_00096,Amanda,Smith,amanda.smith@email.com,(774) 811-4253,Los Angeles,PA,97551,55,Other,2020-10-23,21,3337.11,Gold
+CUST_00097,John,Williams,john.williams@email.com,(669) 351-9182,Philadelphia,NY,98335,44,Female,2022-12-02,47,68.2,Platinum
+CUST_00098,Amanda,Wilson,amanda.wilson@email.com,(328) 849-8361,Austin,AZ,22772,20,Male,2021-01-19,27,3497.41,Silver
+CUST_00099,Jessica,Miller,jessica.miller@email.com,(421) 556-4436,Houston,PA,85607,79,Male,2022-01-28,24,130.15,Gold
+CUST_00100,William,Wilson,william.wilson@email.com,(327) 916-9177,Austin,TX,64270,44,Female,2021-12-22,35,2157.95,Gold
+CUST_00101,Jane,Williams,jane.williams@email.com,(669) 638-7113,Chicago,AZ,87973,28,Other,2022-06-11,25,1460.89,Platinum
+CUST_00102,James,Jones,james.jones@email.com,(918) 835-2625,Los Angeles,FL,23606,23,Other,2020-02-03,40,4665.86,Bronze
+CUST_00103,Emily,Lopez,emily.lopez@email.com,(969) 838-9924,Los Angeles,PA,68209,50,Other,2020-03-07,43,1485.03,Platinum
+CUST_00104,Sarah,Brown,sarah.brown@email.com,(995) 665-7243,Los Angeles,CA,71548,78,Male,2021-12-19,30,2094.03,Platinum
+CUST_00105,John,Garcia,john.garcia@email.com,(429) 719-5646,Phoenix,PA,44668,37,Female,2023-10-10,16,70.58,Platinum
+CUST_00106,John,Smith,john.smith@email.com,(226) 357-7134,Dallas,FL,88636,38,Female,2020-12-15,37,4964.5,Silver
+CUST_00107,William,Miller,william.miller@email.com,(397) 831-7444,New York,FL,85740,45,Male,2023-07-27,25,4887.91,Silver
+CUST_00108,Robert,Garcia,robert.garcia@email.com,(729) 362-8166,Houston,NY,26558,50,Male,2023-07-17,37,3932.19,Gold
+CUST_00109,Amanda,Rodriguez,amanda.rodriguez@email.com,(362) 530-4338,Los Angeles,NY,13360,45,Male,2023-07-11,50,2986.78,Bronze
+CUST_00110,Jessica,Lopez,jessica.lopez@email.com,(756) 280-7265,New York,PA,27111,80,Female,2023-07-23,41,3899.07,Silver
+CUST_00111,Sarah,Hernandez,sarah.hernandez@email.com,(427) 504-4175,Dallas,FL,42145,64,Female,2021-06-17,43,306.16,Bronze
+CUST_00112,Daniel,Williams,daniel.williams@email.com,(842) 223-2694,Los Angeles,TX,88105,25,Male,2020-10-17,19,1346.87,Silver
+CUST_00113,Jane,Johnson,jane.johnson@email.com,(706) 570-4407,San Antonio,NY,74361,68,Male,2022-04-27,5,2458.26,Bronze
+CUST_00114,Sarah,Hernandez,sarah.hernandez@email.com,(629) 584-6137,Austin,TX,31116,29,Female,2020-01-21,12,3315.35,Bronze
+CUST_00115,Jane,Garcia,jane.garcia@email.com,(555) 695-9953,New York,CA,78386,65,Female,2020-09-06,13,3050.25,Bronze
+CUST_00116,William,Rodriguez,william.rodriguez@email.com,(979) 356-4543,Philadelphia,NY,38437,19,Female,2020-10-10,15,463.04,Silver
+CUST_00117,David,Jones,david.jones@email.com,(693) 404-2506,Philadelphia,PA,82285,59,Female,2022-08-14,48,4054.61,Platinum
+CUST_00118,William,Miller,william.miller@email.com,(397) 456-3833,Houston,PA,46842,79,Female,2020-07-29,38,3976.11,Gold
+CUST_00119,Michael,Gonzalez,michael.gonzalez@email.com,(410) 939-8992,San Antonio,TX,65540,56,Other,2021-07-10,21,3133.41,Platinum
+CUST_00120,Robert,Brown,robert.brown@email.com,(780) 561-7126,Austin,FL,18423,46,Male,2020-03-10,33,1302.67,Platinum
+CUST_00121,David,Martinez,david.martinez@email.com,(860) 743-6771,San Antonio,NY,25027,29,Female,2022-05-29,12,1820.84,Bronze
+CUST_00122,Sarah,Hernandez,sarah.hernandez@email.com,(580) 580-3376,Philadelphia,NY,11262,38,Other,2020-01-23,46,1677.9,Platinum
+CUST_00123,Jessica,Gonzalez,jessica.gonzalez@email.com,(529) 438-2085,San Antonio,IL,88879,31,Other,2021-03-21,7,2826.75,Bronze
+CUST_00124,Jessica,Hernandez,jessica.hernandez@email.com,(631) 898-8130,Philadelphia,FL,51958,30,Male,2020-04-11,32,2518.32,Gold
+CUST_00125,Robert,Johnson,robert.johnson@email.com,(327) 663-3803,San Jose,IL,87485,42,Male,2023-03-26,2,1460.93,Bronze
+CUST_00126,Daniel,Davis,daniel.davis@email.com,(491) 334-7599,New York,AZ,79142,20,Female,2023-08-13,2,393.8,Bronze
+CUST_00127,Amanda,Gonzalez,amanda.gonzalez@email.com,(625) 940-5931,Phoenix,IL,55327,43,Male,2023-02-13,50,1600.21,Bronze
+CUST_00128,Robert,Jones,robert.jones@email.com,(913) 665-9082,Austin,NY,59008,78,Other,2020-07-29,2,1158.87,Bronze
+CUST_00129,Michael,Johnson,michael.johnson@email.com,(530) 904-8138,Houston,CA,21536,30,Other,2022-01-25,35,4948.35,Bronze
+CUST_00130,David,Gonzalez,david.gonzalez@email.com,(244) 313-1786,Phoenix,NY,44567,39,Other,2023-06-08,25,1386.06,Silver
+CUST_00131,Daniel,Williams,daniel.williams@email.com,(797) 671-2964,Chicago,IL,29398,66,Other,2022-04-26,41,2261.56,Bronze
+CUST_00132,William,Rodriguez,william.rodriguez@email.com,(446) 791-8830,Austin,TX,46771,38,Other,2022-09-15,15,504.41,Gold
+CUST_00133,Ashley,Johnson,ashley.johnson@email.com,(561) 771-4971,Austin,PA,36986,62,Male,2020-06-02,32,348.32,Bronze
+CUST_00134,James,Brown,james.brown@email.com,(679) 594-4078,San Diego,NY,54623,31,Other,2022-12-16,33,4299.37,Gold
+CUST_00135,Ashley,Davis,ashley.davis@email.com,(871) 357-9265,Los Angeles,CA,38676,76,Female,2022-02-28,29,4345.9,Silver
+CUST_00136,Christopher,Miller,christopher.miller@email.com,(392) 270-5552,San Antonio,CA,99950,37,Other,2023-08-20,7,779.08,Bronze
+CUST_00137,Ashley,Johnson,ashley.johnson@email.com,(446) 216-8550,Chicago,IL,13746,48,Other,2022-12-23,29,1792.19,Bronze
+CUST_00138,Daniel,Rodriguez,daniel.rodriguez@email.com,(286) 562-8069,Houston,CA,62026,50,Female,2022-11-06,22,313.13,Gold
+CUST_00139,Lisa,Johnson,lisa.johnson@email.com,(250) 864-7267,Jacksonville,TX,35419,36,Male,2022-04-04,12,2990.54,Platinum
+CUST_00140,William,Miller,william.miller@email.com,(311) 897-1817,Austin,CA,24559,32,Male,2020-04-18,3,2897.39,Silver
+CUST_00141,Jane,Rodriguez,jane.rodriguez@email.com,(303) 482-4710,San Jose,PA,63026,43,Female,2020-07-26,15,3682.93,Gold
+CUST_00142,Emily,Brown,emily.brown@email.com,(375) 408-6695,Austin,IL,88159,36,Other,2020-01-07,7,966.14,Platinum
+CUST_00143,Ashley,Jones,ashley.jones@email.com,(904) 444-3789,Philadelphia,PA,19103,28,Male,2021-11-11,30,752.08,Bronze
+CUST_00144,James,Davis,james.davis@email.com,(638) 542-1341,Chicago,IL,20089,28,Other,2020-01-20,39,1793.11,Platinum
+CUST_00145,Jessica,Smith,jessica.smith@email.com,(700) 453-8742,Los Angeles,NY,12279,54,Other,2021-08-18,15,2650.08,Silver
+CUST_00146,Christopher,Williams,christopher.williams@email.com,(993) 296-2638,Phoenix,FL,53997,46,Female,2021-12-19,35,1323.83,Platinum
+CUST_00147,David,Garcia,david.garcia@email.com,(669) 213-6777,Phoenix,PA,53743,75,Other,2023-09-21,39,2447.56,Gold
+CUST_00148,James,Rodriguez,james.rodriguez@email.com,(945) 855-1339,Chicago,TX,38869,60,Male,2022-01-01,32,202.98,Platinum
+CUST_00149,Lisa,Brown,lisa.brown@email.com,(962) 291-4175,San Antonio,PA,24146,79,Female,2023-07-07,44,2747.34,Platinum
+CUST_00150,Daniel,Rodriguez,daniel.rodriguez@email.com,(379) 471-6715,Philadelphia,TX,87220,44,Female,2021-09-25,13,253.44,Gold
+CUST_00151,Amanda,Martinez,amanda.martinez@email.com,(325) 643-8455,San Jose,FL,55481,36,Male,2020-01-18,32,4639.8,Silver
+CUST_00152,Emily,Hernandez,emily.hernandez@email.com,(353) 735-5747,San Jose,AZ,97073,28,Female,2022-09-24,19,369.85,Gold
+CUST_00153,John,Davis,john.davis@email.com,(241) 422-5636,San Jose,NY,16972,49,Female,2020-01-11,28,1793.66,Bronze
+CUST_00154,John,Jones,john.jones@email.com,(341) 558-5641,Dallas,PA,83498,27,Male,2023-12-31,18,756.09,Silver
+CUST_00155,Robert,Martinez,robert.martinez@email.com,(282) 497-4585,New York,TX,56482,33,Other,2023-07-28,25,2141.69,Bronze
+CUST_00156,Daniel,Jones,daniel.jones@email.com,(509) 811-6091,Chicago,AZ,67123,61,Female,2023-03-30,9,3432.44,Silver
+CUST_00157,David,Williams,david.williams@email.com,(626) 767-4268,Phoenix,IL,21219,37,Other,2023-07-10,30,2751.86,Platinum
+CUST_00158,Christopher,Wilson,christopher.wilson@email.com,(647) 298-3270,Dallas,TX,51059,50,Other,2023-12-30,23,2368.48,Platinum
+CUST_00159,Emily,Miller,emily.miller@email.com,(620) 672-1453,Dallas,NY,65170,23,Male,2023-06-13,20,3943.83,Gold
+CUST_00160,Michael,Martinez,michael.martinez@email.com,(756) 779-5806,New York,FL,61466,26,Female,2023-10-04,1,2340.9,Platinum
+CUST_00161,Amanda,Smith,amanda.smith@email.com,(286) 256-5426,Austin,NY,53710,56,Male,2021-08-18,37,2433.27,Gold
+CUST_00162,Amanda,Smith,amanda.smith@email.com,(324) 958-9369,Jacksonville,PA,16949,62,Male,2022-11-23,10,2832.14,Platinum
+CUST_00163,Michael,Brown,michael.brown@email.com,(891) 855-3535,Phoenix,PA,50749,64,Male,2022-09-20,40,3454.48,Bronze
+CUST_00164,Jane,Smith,jane.smith@email.com,(356) 818-2983,Dallas,NY,42401,31,Male,2022-08-28,2,4172.0,Platinum
+CUST_00165,Robert,Smith,robert.smith@email.com,(324) 507-7628,San Diego,CA,40792,71,Other,2021-06-17,40,3422.54,Bronze
+CUST_00166,Robert,Williams,robert.williams@email.com,(851) 222-4027,Chicago,FL,96175,33,Male,2022-11-13,48,3513.16,Silver
+CUST_00167,Emily,Davis,emily.davis@email.com,(496) 496-2638,San Jose,TX,58147,60,Female,2022-03-12,25,3503.38,Bronze
+CUST_00168,Emily,Miller,emily.miller@email.com,(635) 351-1458,Phoenix,TX,25745,54,Female,2020-01-23,38,1548.67,Platinum
+CUST_00169,John,Garcia,john.garcia@email.com,(342) 679-8509,Phoenix,NY,30750,40,Other,2022-10-27,14,1776.73,Platinum
+CUST_00170,William,Johnson,william.johnson@email.com,(378) 871-3480,Philadelphia,PA,83812,39,Female,2020-10-13,18,3935.56,Gold
+CUST_00171,Daniel,Miller,daniel.miller@email.com,(269) 860-8925,San Antonio,TX,89408,60,Male,2023-03-25,46,4640.69,Gold
+CUST_00172,Michael,Lopez,michael.lopez@email.com,(531) 802-6703,San Jose,AZ,62923,22,Male,2020-03-01,47,837.94,Bronze
+CUST_00173,James,Johnson,james.johnson@email.com,(711) 895-8805,Philadelphia,FL,40347,80,Other,2021-04-29,7,4503.98,Silver
+CUST_00174,Ashley,Miller,ashley.miller@email.com,(973) 630-2054,New York,AZ,42831,25,Male,2020-05-29,29,3828.59,Bronze
+CUST_00175,Daniel,Williams,daniel.williams@email.com,(528) 310-8364,San Antonio,CA,93544,54,Other,2021-02-13,13,1299.85,Platinum
+CUST_00176,James,Jones,james.jones@email.com,(430) 406-3655,San Antonio,FL,79275,69,Male,2020-06-25,38,170.0,Bronze
+CUST_00177,Sarah,Smith,sarah.smith@email.com,(343) 205-6891,San Antonio,AZ,81641,73,Male,2021-11-28,12,3427.69,Platinum
+CUST_00178,Sarah,Wilson,sarah.wilson@email.com,(412) 784-8761,Dallas,IL,56725,57,Other,2020-10-09,5,2222.45,Platinum
+CUST_00179,Amanda,Johnson,amanda.johnson@email.com,(782) 280-3083,Dallas,IL,23226,25,Female,2021-04-17,4,3027.37,Gold
+CUST_00180,John,Brown,john.brown@email.com,(496) 457-7396,Jacksonville,IL,18906,73,Male,2021-08-12,5,2695.4,Silver
+CUST_00181,Amanda,Rodriguez,amanda.rodriguez@email.com,(825) 712-6115,San Antonio,AZ,17424,52,Other,2020-08-15,38,2381.34,Gold
+CUST_00182,James,Smith,james.smith@email.com,(233) 546-7904,Phoenix,CA,53848,74,Male,2020-10-12,14,2758.08,Gold
+CUST_00183,Daniel,Gonzalez,daniel.gonzalez@email.com,(879) 263-4860,San Diego,NY,83905,75,Other,2023-12-10,49,4047.06,Gold
+CUST_00184,Jane,Miller,jane.miller@email.com,(812) 957-2320,Dallas,TX,26969,35,Other,2020-03-26,7,226.22,Silver
+CUST_00185,James,Garcia,james.garcia@email.com,(641) 689-5971,Houston,NY,17255,19,Male,2022-12-30,39,4308.46,Bronze
+CUST_00186,William,Davis,william.davis@email.com,(253) 596-7180,Jacksonville,CA,66324,62,Female,2023-01-30,9,622.14,Bronze
+CUST_00187,Daniel,Martinez,daniel.martinez@email.com,(576) 560-4172,Philadelphia,TX,17592,33,Male,2020-07-07,38,99.75,Platinum
+CUST_00188,Ashley,Gonzalez,ashley.gonzalez@email.com,(749) 781-1750,New York,FL,42757,70,Male,2020-06-05,4,677.24,Silver
+CUST_00189,David,Smith,david.smith@email.com,(521) 558-5001,Phoenix,CA,89445,43,Female,2023-09-08,8,3300.12,Bronze
+CUST_00190,David,Rodriguez,david.rodriguez@email.com,(410) 706-6848,Houston,TX,49677,78,Female,2023-02-03,19,4351.41,Silver
+CUST_00191,William,Jones,william.jones@email.com,(526) 914-9870,Dallas,NY,17077,40,Female,2023-12-15,40,2456.73,Bronze
+CUST_00192,Sarah,Williams,sarah.williams@email.com,(733) 436-5996,Jacksonville,AZ,37625,25,Female,2020-10-17,3,4890.65,Platinum
+CUST_00193,James,Gonzalez,james.gonzalez@email.com,(664) 316-1348,San Diego,FL,14424,35,Female,2023-04-19,25,1537.04,Bronze
+CUST_00194,John,Jones,john.jones@email.com,(824) 593-9115,New York,FL,60146,42,Female,2020-03-31,15,1068.36,Silver
+CUST_00195,James,Miller,james.miller@email.com,(745) 253-5999,New York,AZ,55587,77,Male,2023-05-31,49,4471.19,Gold
+CUST_00196,Christopher,Gonzalez,christopher.gonzalez@email.com,(805) 421-1448,Philadelphia,PA,91465,45,Female,2020-04-26,7,2788.81,Gold
+CUST_00197,Amanda,Rodriguez,amanda.rodriguez@email.com,(674) 634-9501,Phoenix,CA,59976,47,Other,2021-05-02,9,4543.18,Gold
+CUST_00198,Christopher,Hernandez,christopher.hernandez@email.com,(480) 287-5094,Dallas,IL,54241,54,Female,2020-03-20,40,1407.64,Gold
+CUST_00199,James,Jones,james.jones@email.com,(868) 990-1202,Los Angeles,IL,84506,60,Female,2021-06-25,12,2246.85,Bronze
+CUST_00200,Emily,Smith,emily.smith@email.com,(677) 237-6877,San Diego,PA,82955,31,Female,2020-04-29,38,4697.23,Gold
+CUST_00201,Daniel,Martinez,daniel.martinez@email.com,(764) 521-2049,San Diego,CA,43817,67,Female,2021-06-15,32,679.75,Silver
+CUST_00202,Michael,Wilson,michael.wilson@email.com,(832) 871-1812,Houston,NY,95799,20,Male,2023-11-02,33,4309.82,Gold
+CUST_00203,John,Rodriguez,john.rodriguez@email.com,(934) 433-1996,Jacksonville,IL,43743,19,Other,2021-12-24,35,3605.68,Silver
+CUST_00204,Lisa,Johnson,lisa.johnson@email.com,(279) 719-8271,Los Angeles,AZ,20151,33,Male,2021-10-29,37,1888.23,Platinum
+CUST_00205,Jane,Hernandez,jane.hernandez@email.com,(636) 489-3344,New York,IL,89556,68,Female,2021-11-17,27,4492.09,Gold
+CUST_00206,Emily,Jones,emily.jones@email.com,(836) 231-3626,Philadelphia,NY,48125,77,Male,2023-04-25,2,575.85,Silver
+CUST_00207,Christopher,Garcia,christopher.garcia@email.com,(723) 932-9326,San Jose,PA,55095,78,Male,2022-02-14,38,211.37,Silver
+CUST_00208,Robert,Gonzalez,robert.gonzalez@email.com,(864) 280-2266,Houston,AZ,75994,54,Other,2023-01-27,47,2119.5,Bronze
+CUST_00209,Amanda,Rodriguez,amanda.rodriguez@email.com,(252) 821-8738,Austin,AZ,78201,46,Female,2021-07-05,13,4188.24,Gold
+CUST_00210,Daniel,Brown,daniel.brown@email.com,(536) 448-6930,Houston,TX,51263,65,Male,2023-11-20,16,2252.79,Platinum
+CUST_00211,Lisa,Johnson,lisa.johnson@email.com,(560) 773-9284,Los Angeles,IL,95633,48,Other,2021-04-16,29,3942.21,Silver
+CUST_00212,Jessica,Wilson,jessica.wilson@email.com,(328) 750-5013,San Antonio,PA,86645,60,Male,2023-05-25,17,3989.49,Gold
+CUST_00213,Lisa,Johnson,lisa.johnson@email.com,(283) 618-7898,Dallas,CA,85499,49,Other,2021-02-09,12,4388.21,Bronze
+CUST_00214,Michael,Johnson,michael.johnson@email.com,(628) 469-8698,Jacksonville,NY,26567,73,Male,2022-06-02,2,3465.73,Bronze
+CUST_00215,Michael,Rodriguez,michael.rodriguez@email.com,(742) 597-7919,Philadelphia,CA,62732,62,Other,2021-05-09,46,1502.29,Gold
+CUST_00216,Daniel,Wilson,daniel.wilson@email.com,(544) 805-2765,Jacksonville,NY,19666,65,Female,2022-07-08,27,3172.62,Platinum
+CUST_00217,David,Gonzalez,david.gonzalez@email.com,(688) 916-3205,Jacksonville,CA,87274,76,Other,2020-06-20,10,4483.22,Gold
+CUST_00218,James,Hernandez,james.hernandez@email.com,(664) 588-6250,San Diego,CA,76672,64,Other,2021-07-26,50,529.65,Gold
+CUST_00219,Emily,Garcia,emily.garcia@email.com,(249) 777-9481,Dallas,AZ,76614,72,Female,2021-08-07,21,1951.14,Silver
+CUST_00220,Michael,Smith,michael.smith@email.com,(952) 948-4451,San Antonio,AZ,46471,54,Other,2021-10-05,7,1769.36,Silver
+CUST_00221,Jane,Jones,jane.jones@email.com,(480) 698-8191,Houston,CA,47811,78,Female,2023-05-26,49,575.29,Silver
+CUST_00222,James,Jones,james.jones@email.com,(344) 298-4388,Dallas,FL,76676,66,Male,2020-02-26,39,4517.58,Silver
+CUST_00223,John,Davis,john.davis@email.com,(226) 578-4328,Phoenix,AZ,65902,64,Female,2022-12-02,9,4163.64,Gold
+CUST_00224,Daniel,Johnson,daniel.johnson@email.com,(933) 923-2965,San Diego,TX,74651,34,Male,2020-10-07,18,3671.59,Bronze
+CUST_00225,Lisa,Gonzalez,lisa.gonzalez@email.com,(280) 962-4644,Jacksonville,NY,52875,28,Other,2021-11-17,18,2294.65,Bronze
+CUST_00226,Ashley,Lopez,ashley.lopez@email.com,(522) 239-8100,Los Angeles,PA,78327,38,Male,2023-02-17,43,4196.29,Bronze
+CUST_00227,James,Hernandez,james.hernandez@email.com,(208) 451-3242,San Jose,TX,38863,61,Male,2021-06-27,31,799.59,Silver
+CUST_00228,Ashley,Davis,ashley.davis@email.com,(489) 334-4253,Austin,NY,77673,72,Other,2021-03-14,1,2199.88,Platinum
+CUST_00229,William,Martinez,william.martinez@email.com,(413) 927-3918,New York,TX,44481,57,Female,2023-07-16,38,1211.84,Gold
+CUST_00230,Emily,Rodriguez,emily.rodriguez@email.com,(872) 384-5916,Houston,IL,97552,49,Female,2023-07-14,26,3009.32,Platinum
+CUST_00231,David,Johnson,david.johnson@email.com,(424) 315-5706,San Antonio,TX,52650,33,Other,2022-05-20,8,922.16,Gold
+CUST_00232,James,Johnson,james.johnson@email.com,(555) 913-7522,Jacksonville,CA,73404,71,Female,2023-05-15,27,3451.75,Bronze
+CUST_00233,David,Jones,david.jones@email.com,(719) 420-7701,New York,AZ,52361,34,Other,2021-10-12,27,1987.32,Platinum
+CUST_00234,Robert,Miller,robert.miller@email.com,(466) 255-5396,San Diego,PA,38697,39,Other,2020-04-03,20,2265.8,Silver
+CUST_00235,Jessica,Williams,jessica.williams@email.com,(748) 411-2807,San Jose,AZ,53212,26,Other,2023-01-10,2,4753.88,Bronze
+CUST_00236,Christopher,Miller,christopher.miller@email.com,(292) 999-6460,Philadelphia,FL,82468,22,Other,2020-04-10,34,1091.79,Silver
+CUST_00237,Michael,Wilson,michael.wilson@email.com,(748) 605-4757,Phoenix,FL,31155,76,Female,2021-11-09,27,1117.29,Silver
+CUST_00238,John,Smith,john.smith@email.com,(220) 973-9627,Los Angeles,AZ,62158,68,Female,2020-03-27,11,1451.29,Bronze
+CUST_00239,Sarah,Hernandez,sarah.hernandez@email.com,(990) 904-5051,New York,IL,26206,70,Female,2023-09-04,26,699.41,Gold
+CUST_00240,Amanda,Johnson,amanda.johnson@email.com,(278) 275-9265,Jacksonville,PA,64444,19,Male,2023-01-14,39,4598.92,Bronze
+CUST_00241,Ashley,Martinez,ashley.martinez@email.com,(600) 398-6114,Philadelphia,TX,77155,65,Male,2021-09-10,18,2321.58,Bronze
+CUST_00242,David,Hernandez,david.hernandez@email.com,(790) 682-7169,Phoenix,TX,22197,32,Female,2023-02-22,18,2442.58,Silver
+CUST_00243,Robert,Smith,robert.smith@email.com,(708) 945-7449,Philadelphia,FL,81641,63,Male,2022-07-15,15,2910.5,Bronze
+CUST_00244,Robert,Gonzalez,robert.gonzalez@email.com,(437) 657-7059,San Diego,AZ,24280,59,Female,2021-11-11,10,4057.92,Bronze
+CUST_00245,Jane,Rodriguez,jane.rodriguez@email.com,(373) 412-9025,San Jose,CA,20995,27,Female,2023-06-16,31,2640.86,Silver
+CUST_00246,John,Gonzalez,john.gonzalez@email.com,(705) 458-7747,Phoenix,PA,54285,71,Male,2020-03-15,21,3460.54,Platinum
+CUST_00247,Amanda,Smith,amanda.smith@email.com,(474) 906-4427,Dallas,FL,74058,52,Female,2021-10-03,42,1216.91,Platinum
+CUST_00248,Ashley,Davis,ashley.davis@email.com,(726) 768-2334,Los Angeles,TX,20158,42,Male,2020-01-28,11,2623.7,Bronze
+CUST_00249,Michael,Brown,michael.brown@email.com,(648) 316-1639,San Antonio,TX,32376,58,Other,2022-09-24,9,3757.52,Platinum
+CUST_00250,Robert,Smith,robert.smith@email.com,(503) 320-8134,Phoenix,PA,98694,35,Other,2021-10-22,40,4453.25,Silver
+CUST_00251,Michael,Jones,michael.jones@email.com,(735) 901-4349,San Jose,PA,58660,51,Other,2021-05-29,31,2341.26,Gold
+CUST_00252,Daniel,Lopez,daniel.lopez@email.com,(937) 338-3690,Dallas,PA,72111,18,Female,2022-05-02,12,794.23,Bronze
+CUST_00253,John,Jones,john.jones@email.com,(918) 392-4264,Jacksonville,NY,80481,47,Female,2020-07-12,4,3143.62,Silver
+CUST_00254,Jane,Garcia,jane.garcia@email.com,(851) 772-4703,Philadelphia,PA,11851,77,Male,2021-07-16,19,4112.73,Platinum
+CUST_00255,Jessica,Lopez,jessica.lopez@email.com,(513) 576-7607,Phoenix,AZ,80912,59,Other,2021-02-18,5,2983.56,Bronze
+CUST_00256,Ashley,Brown,ashley.brown@email.com,(486) 382-5307,San Jose,NY,26607,69,Other,2023-04-17,42,3841.97,Gold
+CUST_00257,Jessica,Gonzalez,jessica.gonzalez@email.com,(806) 819-5542,Jacksonville,FL,90725,60,Female,2021-03-04,11,63.22,Silver
+CUST_00258,Sarah,Johnson,sarah.johnson@email.com,(829) 350-3348,Chicago,TX,10032,38,Male,2020-04-16,9,2582.94,Platinum
+CUST_00259,Robert,Hernandez,robert.hernandez@email.com,(683) 534-5957,Dallas,FL,25374,33,Other,2022-03-16,25,3880.9,Platinum
+CUST_00260,Lisa,Jones,lisa.jones@email.com,(734) 524-9694,Los Angeles,AZ,38036,79,Male,2023-07-21,18,3571.17,Platinum
+CUST_00261,William,Davis,william.davis@email.com,(701) 911-5104,Austin,NY,83125,75,Female,2023-08-28,23,931.16,Gold
+CUST_00262,Amanda,Davis,amanda.davis@email.com,(989) 886-6668,Jacksonville,TX,38020,57,Other,2021-01-26,25,1902.32,Bronze
+CUST_00263,Sarah,Davis,sarah.davis@email.com,(569) 738-4193,New York,AZ,50683,39,Male,2022-01-25,17,2538.83,Bronze
+CUST_00264,Jessica,Jones,jessica.jones@email.com,(234) 862-5504,Austin,TX,62205,20,Other,2023-12-13,17,1407.16,Bronze
+CUST_00265,Jessica,Wilson,jessica.wilson@email.com,(231) 935-8713,San Jose,PA,69569,49,Male,2022-08-27,48,4380.94,Bronze
+CUST_00266,John,Garcia,john.garcia@email.com,(229) 827-3509,Jacksonville,PA,33187,73,Male,2020-06-18,27,4178.62,Bronze
+CUST_00267,John,Davis,john.davis@email.com,(852) 927-2021,Philadelphia,NY,81314,35,Male,2023-09-03,40,3700.4,Gold
+CUST_00268,Amanda,Hernandez,amanda.hernandez@email.com,(524) 926-3772,San Jose,PA,58005,51,Male,2023-09-22,26,2111.07,Bronze
+CUST_00269,Jane,Brown,jane.brown@email.com,(979) 713-3416,Jacksonville,IL,21005,29,Female,2020-04-01,18,3062.22,Platinum
+CUST_00270,Michael,Hernandez,michael.hernandez@email.com,(964) 203-6098,Phoenix,AZ,55964,25,Female,2022-08-12,37,4188.72,Bronze
+CUST_00271,Jessica,Davis,jessica.davis@email.com,(290) 319-2483,Chicago,PA,21326,29,Female,2023-04-25,41,4830.54,Silver
+CUST_00272,Christopher,Smith,christopher.smith@email.com,(422) 853-7136,San Diego,NY,42339,37,Other,2023-08-08,13,3749.67,Silver
+CUST_00273,David,Smith,david.smith@email.com,(588) 922-5703,Chicago,IL,28405,54,Female,2022-04-27,15,4184.61,Gold
+CUST_00274,Daniel,Brown,daniel.brown@email.com,(381) 502-5249,Jacksonville,TX,44674,23,Female,2021-12-28,38,1849.89,Platinum
+CUST_00275,Amanda,Hernandez,amanda.hernandez@email.com,(903) 374-1601,San Jose,TX,30408,52,Other,2021-03-07,45,2197.57,Gold
+CUST_00276,Sarah,Garcia,sarah.garcia@email.com,(916) 715-5406,Los Angeles,AZ,37619,34,Male,2022-08-15,17,205.67,Bronze
+CUST_00277,William,Hernandez,william.hernandez@email.com,(846) 390-8785,Chicago,TX,86915,38,Female,2023-02-28,25,3308.61,Bronze
+CUST_00278,Lisa,Lopez,lisa.lopez@email.com,(307) 844-6879,New York,CA,65234,48,Female,2021-11-20,42,4519.75,Silver
+CUST_00279,Daniel,Garcia,daniel.garcia@email.com,(513) 366-8648,Dallas,CA,12850,46,Other,2022-07-23,38,2901.03,Platinum
+CUST_00280,Ashley,Miller,ashley.miller@email.com,(684) 449-5138,Jacksonville,IL,88766,39,Female,2023-10-21,26,1535.86,Silver
+CUST_00281,Christopher,Rodriguez,christopher.rodriguez@email.com,(310) 631-7977,Phoenix,AZ,62527,55,Male,2020-12-01,33,873.6,Gold
+CUST_00282,Daniel,Martinez,daniel.martinez@email.com,(914) 736-4251,San Jose,FL,28290,26,Other,2021-11-13,4,4853.11,Gold
+CUST_00283,Christopher,Gonzalez,christopher.gonzalez@email.com,(344) 554-8515,San Antonio,CA,70370,18,Other,2020-10-29,13,4420.63,Gold
+CUST_00284,David,Johnson,david.johnson@email.com,(389) 441-4331,San Antonio,NY,42077,27,Other,2023-02-11,50,1902.58,Platinum
+CUST_00285,Michael,Garcia,michael.garcia@email.com,(302) 682-7456,Jacksonville,CA,71906,60,Female,2022-08-07,46,1251.57,Bronze
+CUST_00286,Robert,Williams,robert.williams@email.com,(525) 981-3187,San Antonio,FL,52875,75,Female,2023-10-13,47,4369.78,Platinum
+CUST_00287,William,Johnson,william.johnson@email.com,(555) 700-1440,Houston,AZ,33351,67,Male,2022-01-25,24,1732.26,Bronze
+CUST_00288,Jessica,Martinez,jessica.martinez@email.com,(969) 607-2265,Austin,CA,28098,49,Male,2020-03-31,14,1544.59,Bronze
+CUST_00289,Lisa,Miller,lisa.miller@email.com,(869) 384-7974,Chicago,IL,50775,42,Other,2022-09-11,3,1342.05,Platinum
+CUST_00290,Michael,Williams,michael.williams@email.com,(607) 898-9476,Los Angeles,TX,20831,40,Other,2020-07-26,42,4319.21,Bronze
+CUST_00291,Michael,Garcia,michael.garcia@email.com,(331) 788-9306,San Antonio,PA,69597,18,Female,2023-09-01,43,2038.43,Bronze
+CUST_00292,David,Miller,david.miller@email.com,(464) 959-2899,San Jose,FL,69017,50,Female,2022-08-27,46,1708.56,Gold
+CUST_00293,Jane,Gonzalez,jane.gonzalez@email.com,(383) 634-9711,San Antonio,FL,98436,23,Male,2020-01-15,22,4743.6,Gold
+CUST_00294,Sarah,Rodriguez,sarah.rodriguez@email.com,(829) 945-8454,San Antonio,NY,70917,36,Male,2020-09-05,32,2328.24,Bronze
+CUST_00295,Daniel,Martinez,daniel.martinez@email.com,(902) 578-5134,San Antonio,IL,98473,36,Male,2023-01-16,18,934.7,Gold
+CUST_00296,Robert,Smith,robert.smith@email.com,(657) 532-5877,Austin,NY,88089,25,Female,2020-03-15,35,3706.47,Silver
+CUST_00297,Michael,Johnson,michael.johnson@email.com,(747) 296-3065,Jacksonville,CA,92958,49,Female,2021-07-16,23,4860.67,Silver
+CUST_00298,Daniel,Wilson,daniel.wilson@email.com,(950) 736-8510,New York,NY,52806,41,Male,2020-10-27,39,4885.37,Bronze
+CUST_00299,Robert,Rodriguez,robert.rodriguez@email.com,(942) 280-6534,Austin,PA,49581,45,Female,2020-02-15,12,4754.28,Gold
+CUST_00300,Ashley,Hernandez,ashley.hernandez@email.com,(960) 281-8101,Los Angeles,FL,35119,54,Female,2021-09-12,40,2594.5,Silver
+CUST_00301,Ashley,Gonzalez,ashley.gonzalez@email.com,(250) 583-8748,Houston,FL,67271,35,Other,2023-11-11,50,969.28,Bronze
+CUST_00302,Jessica,Miller,jessica.miller@email.com,(385) 894-5668,Phoenix,NY,63370,31,Male,2022-04-28,43,692.35,Gold
+CUST_00303,Emily,Martinez,emily.martinez@email.com,(850) 525-2591,Houston,CA,12368,63,Female,2021-03-28,5,3076.36,Platinum
+CUST_00304,Jessica,Miller,jessica.miller@email.com,(850) 809-6386,Dallas,TX,72338,77,Other,2020-01-26,22,1735.95,Gold
+CUST_00305,Amanda,Davis,amanda.davis@email.com,(355) 673-9175,Houston,AZ,32283,61,Female,2021-06-07,26,209.72,Bronze
+CUST_00306,James,Davis,james.davis@email.com,(774) 553-2361,Houston,PA,79414,41,Female,2021-08-20,49,1610.92,Platinum
+CUST_00307,John,Williams,john.williams@email.com,(839) 798-3731,San Jose,IL,84041,45,Female,2020-02-17,49,4868.12,Platinum
+CUST_00308,Sarah,Miller,sarah.miller@email.com,(750) 334-7200,San Jose,FL,26186,24,Female,2021-03-23,14,4961.05,Gold
+CUST_00309,Michael,Wilson,michael.wilson@email.com,(362) 985-7571,Dallas,TX,56140,66,Male,2022-05-06,39,1430.45,Gold
+CUST_00310,James,Johnson,james.johnson@email.com,(880) 903-6206,Dallas,AZ,79796,43,Male,2022-04-07,32,3796.3,Gold
+CUST_00311,Amanda,Davis,amanda.davis@email.com,(360) 381-7554,Phoenix,NY,79817,71,Female,2022-08-08,42,902.74,Bronze
+CUST_00312,Robert,Martinez,robert.martinez@email.com,(868) 628-7852,San Antonio,CA,93416,19,Other,2021-04-04,9,3068.05,Bronze
+CUST_00313,Jessica,Martinez,jessica.martinez@email.com,(949) 618-1374,Philadelphia,AZ,42760,28,Other,2023-07-05,31,3437.6,Gold
+CUST_00314,John,Lopez,john.lopez@email.com,(815) 869-7378,Dallas,AZ,35301,72,Male,2022-07-26,24,3629.15,Silver
+CUST_00315,Michael,Davis,michael.davis@email.com,(929) 404-6287,Chicago,IL,18495,75,Male,2021-02-27,37,2332.84,Silver
+CUST_00316,James,Martinez,james.martinez@email.com,(654) 447-3897,San Diego,AZ,94066,25,Other,2021-11-09,11,1262.07,Bronze
+CUST_00317,John,Lopez,john.lopez@email.com,(233) 898-7657,Dallas,TX,60504,22,Female,2021-06-16,46,2709.84,Bronze
+CUST_00318,Emily,Davis,emily.davis@email.com,(943) 261-5799,San Antonio,FL,15230,41,Female,2022-11-13,41,3265.67,Platinum
+CUST_00319,Christopher,Johnson,christopher.johnson@email.com,(306) 349-5300,San Jose,FL,24651,64,Male,2022-01-20,27,3299.86,Silver
+CUST_00320,Daniel,Brown,daniel.brown@email.com,(694) 415-5333,Los Angeles,IL,94152,62,Male,2022-07-27,46,2483.31,Silver
+CUST_00321,Christopher,Jones,christopher.jones@email.com,(550) 502-8285,Philadelphia,FL,69031,62,Female,2023-03-09,18,2992.42,Silver
+CUST_00322,Michael,Rodriguez,michael.rodriguez@email.com,(495) 226-4621,Philadelphia,AZ,57542,63,Female,2021-09-20,46,833.6,Gold
+CUST_00323,Emily,Lopez,emily.lopez@email.com,(650) 889-5831,Chicago,PA,26849,27,Other,2021-08-21,25,1323.66,Silver
+CUST_00324,John,Wilson,john.wilson@email.com,(416) 797-5963,Chicago,AZ,11581,34,Female,2022-11-07,48,4357.65,Platinum
+CUST_00325,Emily,Martinez,emily.martinez@email.com,(374) 552-3553,San Jose,FL,75679,38,Other,2022-02-05,25,4333.77,Platinum
+CUST_00326,James,Williams,james.williams@email.com,(737) 693-3873,San Diego,TX,11865,60,Male,2021-12-02,15,1581.08,Silver
+CUST_00327,Michael,Jones,michael.jones@email.com,(823) 996-2959,Austin,CA,56727,49,Female,2023-03-12,41,4536.2,Silver
+CUST_00328,Ashley,Brown,ashley.brown@email.com,(572) 880-1538,San Antonio,PA,22955,78,Female,2022-11-05,5,1393.79,Bronze
+CUST_00329,Christopher,Smith,christopher.smith@email.com,(657) 780-9567,Houston,CA,43563,69,Other,2021-01-09,45,4684.85,Silver
+CUST_00330,Sarah,Lopez,sarah.lopez@email.com,(934) 667-3907,New York,AZ,44834,53,Female,2020-07-06,48,990.57,Bronze
+CUST_00331,Daniel,Williams,daniel.williams@email.com,(735) 510-1997,Houston,CA,41973,55,Other,2022-09-04,30,536.44,Bronze
+CUST_00332,Lisa,Gonzalez,lisa.gonzalez@email.com,(849) 274-4218,San Diego,NY,67920,23,Female,2021-02-08,7,2734.73,Silver
+CUST_00333,Jessica,Davis,jessica.davis@email.com,(507) 782-1157,San Jose,TX,24617,64,Female,2023-08-09,13,2965.24,Platinum
+CUST_00334,John,Jones,john.jones@email.com,(972) 616-5435,San Diego,PA,33138,39,Other,2022-09-16,33,1454.59,Gold
+CUST_00335,David,Wilson,david.wilson@email.com,(744) 454-6589,Phoenix,PA,83566,50,Female,2023-07-05,29,601.78,Silver
+CUST_00336,Emily,Smith,emily.smith@email.com,(526) 721-8708,San Diego,CA,33435,22,Female,2023-10-10,20,518.11,Platinum
+CUST_00337,Lisa,Hernandez,lisa.hernandez@email.com,(903) 751-3992,Houston,FL,24249,66,Male,2021-03-12,20,2533.81,Gold
+CUST_00338,Christopher,Rodriguez,christopher.rodriguez@email.com,(683) 305-5916,San Jose,CA,84843,61,Male,2021-10-25,11,999.93,Platinum
+CUST_00339,Christopher,Williams,christopher.williams@email.com,(361) 824-3574,Philadelphia,AZ,72098,59,Other,2022-05-03,50,3646.02,Silver
+CUST_00340,Daniel,Jones,daniel.jones@email.com,(683) 510-7075,Chicago,IL,53741,64,Female,2021-10-07,29,1574.68,Platinum
+CUST_00341,Christopher,Miller,christopher.miller@email.com,(205) 980-7620,New York,TX,56348,59,Male,2022-07-24,50,1407.33,Silver
+CUST_00342,Sarah,Hernandez,sarah.hernandez@email.com,(933) 462-5829,Philadelphia,NY,52184,45,Female,2021-10-29,36,2821.86,Silver
+CUST_00343,Christopher,Brown,christopher.brown@email.com,(832) 715-8210,Phoenix,NY,19755,33,Male,2021-10-28,47,2424.43,Platinum
+CUST_00344,John,Gonzalez,john.gonzalez@email.com,(875) 599-8979,Houston,IL,89522,55,Female,2020-05-01,7,327.77,Gold
+CUST_00345,David,Rodriguez,david.rodriguez@email.com,(578) 648-5656,Los Angeles,TX,27600,74,Other,2020-05-31,21,4887.03,Platinum
+CUST_00346,Amanda,Williams,amanda.williams@email.com,(354) 803-5896,San Jose,CA,83641,23,Female,2021-05-17,21,2885.03,Gold
+CUST_00347,William,Rodriguez,william.rodriguez@email.com,(498) 906-1358,Chicago,FL,18913,73,Other,2023-12-27,48,1604.11,Gold
+CUST_00348,Daniel,Gonzalez,daniel.gonzalez@email.com,(656) 965-4519,Chicago,IL,71384,32,Female,2022-01-11,22,1034.98,Gold
+CUST_00349,David,Martinez,david.martinez@email.com,(965) 223-3298,Los Angeles,PA,63841,45,Female,2022-09-23,4,4166.79,Bronze
+CUST_00350,Daniel,Rodriguez,daniel.rodriguez@email.com,(582) 216-8163,New York,AZ,52869,68,Other,2022-10-04,19,2895.34,Bronze
+CUST_00351,Ashley,Johnson,ashley.johnson@email.com,(778) 294-2840,Dallas,CA,77305,72,Male,2023-03-21,30,3069.66,Silver
+CUST_00352,Christopher,Johnson,christopher.johnson@email.com,(985) 900-8060,Phoenix,TX,69151,74,Other,2020-11-07,42,1685.63,Silver
+CUST_00353,James,Martinez,james.martinez@email.com,(547) 664-9646,Jacksonville,PA,66675,74,Male,2022-04-02,37,1504.38,Platinum
+CUST_00354,John,Smith,john.smith@email.com,(430) 530-7998,Chicago,IL,39214,55,Other,2021-10-30,35,2315.88,Silver
+CUST_00355,Christopher,Wilson,christopher.wilson@email.com,(788) 563-3500,Houston,FL,29435,31,Female,2021-01-06,7,179.81,Bronze
+CUST_00356,Christopher,Williams,christopher.williams@email.com,(753) 556-2134,Philadelphia,FL,51331,77,Male,2023-09-09,14,1048.42,Silver
+CUST_00357,Robert,Jones,robert.jones@email.com,(438) 422-6821,New York,CA,67624,25,Female,2020-02-22,29,4344.29,Silver
+CUST_00358,Robert,Smith,robert.smith@email.com,(657) 649-7540,Houston,CA,59873,55,Male,2020-07-09,12,2558.18,Bronze
+CUST_00359,Michael,Gonzalez,michael.gonzalez@email.com,(414) 323-9013,Jacksonville,AZ,56974,65,Female,2022-04-30,13,1091.12,Bronze
+CUST_00360,Christopher,Rodriguez,christopher.rodriguez@email.com,(568) 689-5182,Dallas,NY,69893,19,Male,2022-02-17,27,2031.53,Bronze
+CUST_00361,Lisa,Garcia,lisa.garcia@email.com,(517) 266-8113,Austin,IL,40062,62,Male,2023-08-25,42,4060.34,Platinum
+CUST_00362,John,Jones,john.jones@email.com,(947) 862-6296,New York,CA,42636,29,Other,2020-01-19,9,2617.18,Silver
+CUST_00363,Ashley,Davis,ashley.davis@email.com,(980) 239-2002,San Jose,FL,37502,73,Other,2023-09-15,19,1889.93,Platinum
+CUST_00364,Amanda,Williams,amanda.williams@email.com,(629) 376-3861,Dallas,CA,97643,29,Female,2020-08-12,11,198.4,Silver
+CUST_00365,David,Miller,david.miller@email.com,(840) 582-5344,San Jose,IL,13732,68,Male,2021-11-10,2,4449.66,Bronze
+CUST_00366,Ashley,Wilson,ashley.wilson@email.com,(347) 617-1761,Dallas,TX,88447,64,Other,2020-12-13,11,545.57,Gold
+CUST_00367,Daniel,Brown,daniel.brown@email.com,(294) 629-2086,Los Angeles,TX,70874,80,Female,2023-01-04,29,715.31,Bronze
+CUST_00368,David,Davis,david.davis@email.com,(680) 463-3100,Philadelphia,PA,80777,41,Other,2023-09-30,46,527.17,Platinum
+CUST_00369,Ashley,Wilson,ashley.wilson@email.com,(784) 400-3061,Houston,AZ,27014,69,Male,2021-04-06,43,456.84,Bronze
+CUST_00370,Ashley,Miller,ashley.miller@email.com,(489) 829-2724,Houston,CA,42855,29,Other,2023-09-12,20,1676.7,Platinum
+CUST_00371,James,Martinez,james.martinez@email.com,(732) 729-5370,Chicago,IL,65315,41,Other,2020-10-24,38,3695.23,Bronze
+CUST_00372,Ashley,Gonzalez,ashley.gonzalez@email.com,(594) 847-1786,Houston,CA,11877,27,Other,2020-03-10,16,851.33,Gold
+CUST_00373,John,Martinez,john.martinez@email.com,(692) 695-6634,Houston,PA,85654,43,Female,2021-03-15,30,3125.5,Platinum
+CUST_00374,Jane,Lopez,jane.lopez@email.com,(486) 871-9429,Philadelphia,IL,34421,34,Female,2022-09-25,50,2767.06,Bronze
+CUST_00375,James,Wilson,james.wilson@email.com,(550) 981-9504,Phoenix,NY,57896,45,Other,2020-02-22,35,674.83,Silver
+CUST_00376,Emily,Wilson,emily.wilson@email.com,(313) 323-5844,Chicago,FL,55563,37,Female,2022-06-12,36,4922.34,Bronze
+CUST_00377,Amanda,Rodriguez,amanda.rodriguez@email.com,(386) 607-9370,Houston,CA,99204,32,Male,2021-02-10,47,3735.75,Silver
+CUST_00378,Jessica,Wilson,jessica.wilson@email.com,(743) 737-1769,Dallas,IL,80707,32,Other,2022-12-23,11,1903.64,Bronze
+CUST_00379,James,Williams,james.williams@email.com,(850) 849-4707,Jacksonville,CA,80886,78,Other,2022-05-18,13,1428.19,Platinum
+CUST_00380,David,Miller,david.miller@email.com,(734) 631-8807,San Diego,IL,27841,64,Female,2020-01-01,5,1294.08,Gold
+CUST_00381,Sarah,Lopez,sarah.lopez@email.com,(827) 808-2094,New York,FL,63788,26,Male,2022-09-11,11,3834.74,Silver
+CUST_00382,Robert,Gonzalez,robert.gonzalez@email.com,(363) 861-7865,San Antonio,AZ,35345,33,Female,2020-05-24,15,4818.62,Gold
+CUST_00383,Michael,Miller,michael.miller@email.com,(326) 943-3487,Houston,TX,28665,61,Female,2021-11-01,1,3201.95,Gold
+CUST_00384,William,Johnson,william.johnson@email.com,(990) 843-8718,Houston,PA,67445,37,Male,2023-01-13,48,3069.68,Silver
+CUST_00385,Jane,Gonzalez,jane.gonzalez@email.com,(937) 549-5458,New York,TX,43482,25,Other,2022-08-13,28,2945.64,Platinum
+CUST_00386,Christopher,Jones,christopher.jones@email.com,(430) 735-2688,Los Angeles,PA,89077,79,Other,2022-01-12,16,4353.34,Platinum
+CUST_00387,Amanda,Lopez,amanda.lopez@email.com,(642) 631-1928,Austin,NY,46726,71,Other,2021-07-18,17,3219.31,Gold
+CUST_00388,Robert,Hernandez,robert.hernandez@email.com,(457) 565-2361,New York,NY,73641,33,Other,2022-10-10,15,2975.87,Gold
+CUST_00389,Jane,Gonzalez,jane.gonzalez@email.com,(925) 699-7157,San Jose,AZ,97498,42,Male,2023-05-17,7,2972.2,Bronze
+CUST_00390,Jessica,Johnson,jessica.johnson@email.com,(320) 982-4909,Philadelphia,AZ,98160,63,Other,2022-05-13,26,3605.53,Bronze
+CUST_00391,Lisa,Hernandez,lisa.hernandez@email.com,(650) 671-9564,New York,TX,92328,65,Female,2023-10-02,2,1119.4,Silver
+CUST_00392,John,Hernandez,john.hernandez@email.com,(536) 301-5788,San Antonio,FL,13719,64,Female,2021-06-03,23,4100.92,Gold
+CUST_00393,Lisa,Brown,lisa.brown@email.com,(483) 656-1783,Philadelphia,TX,93205,34,Male,2021-03-04,36,3865.5,Gold
+CUST_00394,Ashley,Miller,ashley.miller@email.com,(971) 556-3818,San Diego,FL,21648,39,Female,2023-06-16,35,3712.3,Silver
+CUST_00395,Lisa,Wilson,lisa.wilson@email.com,(513) 303-2481,Austin,TX,51015,57,Female,2023-08-02,12,3794.99,Silver
+CUST_00396,David,Wilson,david.wilson@email.com,(924) 697-6744,Philadelphia,FL,67379,75,Female,2020-11-22,11,1647.66,Bronze
+CUST_00397,Sarah,Martinez,sarah.martinez@email.com,(517) 718-5853,Dallas,AZ,33318,43,Other,2023-11-25,5,1033.17,Bronze
+CUST_00398,Ashley,Martinez,ashley.martinez@email.com,(879) 614-5315,Chicago,PA,54585,52,Female,2022-03-23,9,4610.23,Bronze
+CUST_00399,Amanda,Lopez,amanda.lopez@email.com,(500) 828-2346,Philadelphia,CA,68004,70,Male,2021-05-18,36,817.31,Gold
+CUST_00400,John,Davis,john.davis@email.com,(429) 911-4587,Houston,CA,67718,59,Male,2020-10-24,1,1519.13,Bronze
+CUST_00401,Amanda,Martinez,amanda.martinez@email.com,(694) 649-7791,Dallas,AZ,84460,30,Female,2021-01-16,34,2925.43,Platinum
+CUST_00402,Ashley,Jones,ashley.jones@email.com,(923) 572-5318,San Antonio,IL,57777,75,Male,2021-10-17,35,1817.52,Silver
+CUST_00403,Lisa,Wilson,lisa.wilson@email.com,(919) 452-9819,San Jose,CA,22664,80,Other,2023-12-21,31,2700.03,Bronze
+CUST_00404,Christopher,Wilson,christopher.wilson@email.com,(818) 433-6707,Jacksonville,PA,94536,80,Other,2021-04-03,30,1382.21,Bronze
+CUST_00405,Emily,Martinez,emily.martinez@email.com,(648) 709-8146,Los Angeles,CA,12898,53,Female,2023-02-18,42,334.85,Gold
+CUST_00406,Emily,Wilson,emily.wilson@email.com,(923) 351-2044,Austin,IL,18573,79,Other,2021-07-19,37,1297.46,Bronze
+CUST_00407,Ashley,Martinez,ashley.martinez@email.com,(702) 641-3184,San Antonio,CA,96743,46,Female,2023-01-07,45,3389.6,Gold
+CUST_00408,Sarah,Martinez,sarah.martinez@email.com,(720) 616-3363,Dallas,PA,86922,38,Male,2023-06-02,4,3574.96,Gold
+CUST_00409,Jessica,Johnson,jessica.johnson@email.com,(993) 272-2042,Dallas,TX,31129,64,Male,2021-05-24,39,3879.98,Silver
+CUST_00410,Amanda,Williams,amanda.williams@email.com,(230) 864-9109,Jacksonville,NY,53488,23,Male,2022-04-06,37,3519.6,Platinum
+CUST_00411,Christopher,Miller,christopher.miller@email.com,(590) 913-8772,Chicago,FL,54996,29,Male,2021-09-29,23,928.18,Platinum
+CUST_00412,Daniel,Jones,daniel.jones@email.com,(711) 292-4023,Phoenix,TX,36293,32,Female,2023-08-18,41,453.76,Platinum
+CUST_00413,Christopher,Johnson,christopher.johnson@email.com,(736) 463-1334,San Jose,NY,83023,21,Other,2022-02-03,7,884.14,Bronze
+CUST_00414,John,Garcia,john.garcia@email.com,(593) 513-1453,San Jose,AZ,59130,72,Male,2020-12-19,13,3200.58,Platinum
+CUST_00415,Michael,Rodriguez,michael.rodriguez@email.com,(423) 553-2588,Austin,CA,88606,41,Other,2020-12-28,29,3546.52,Silver
+CUST_00416,William,Williams,william.williams@email.com,(655) 231-1635,Dallas,FL,25765,69,Female,2021-08-19,7,1777.82,Silver
+CUST_00417,Jessica,Rodriguez,jessica.rodriguez@email.com,(371) 302-9153,Houston,AZ,30349,57,Female,2022-07-20,43,2762.5,Platinum
+CUST_00418,Christopher,Davis,christopher.davis@email.com,(319) 884-2072,Philadelphia,CA,57932,27,Male,2022-10-02,13,3980.57,Bronze
+CUST_00419,Lisa,Smith,lisa.smith@email.com,(691) 875-2618,Dallas,NY,96967,59,Female,2022-12-15,37,2896.68,Platinum
+CUST_00420,Christopher,Rodriguez,christopher.rodriguez@email.com,(858) 405-5629,Philadelphia,CA,68707,66,Male,2021-08-22,41,2160.28,Platinum
+CUST_00421,Robert,Johnson,robert.johnson@email.com,(702) 224-9048,Los Angeles,IL,83564,48,Other,2022-03-07,20,2513.19,Gold
+CUST_00422,Christopher,Hernandez,christopher.hernandez@email.com,(915) 256-9643,New York,CA,21689,37,Other,2023-03-15,35,908.13,Gold
+CUST_00423,Ashley,Smith,ashley.smith@email.com,(747) 228-1773,Phoenix,TX,34672,40,Other,2020-04-17,44,4374.84,Silver
+CUST_00424,William,Garcia,william.garcia@email.com,(897) 915-1732,Houston,NY,69930,78,Male,2021-03-29,46,1635.54,Silver
+CUST_00425,Emily,Brown,emily.brown@email.com,(784) 855-1255,New York,TX,37004,75,Other,2020-08-26,19,73.46,Silver
+CUST_00426,James,Wilson,james.wilson@email.com,(538) 381-7388,Houston,IL,62685,20,Male,2020-10-17,39,1268.56,Gold
+CUST_00427,Daniel,Miller,daniel.miller@email.com,(896) 784-6074,Houston,PA,45732,44,Other,2020-01-21,27,4126.6,Platinum
+CUST_00428,David,Wilson,david.wilson@email.com,(394) 997-8998,Phoenix,AZ,11367,58,Other,2022-03-20,3,3495.21,Platinum
+CUST_00429,Michael,Hernandez,michael.hernandez@email.com,(906) 428-2155,Austin,NY,25109,28,Female,2020-05-16,12,2707.85,Silver
+CUST_00430,Ashley,Jones,ashley.jones@email.com,(897) 932-7524,Phoenix,AZ,47544,36,Other,2021-06-19,7,3816.9,Platinum
+CUST_00431,Amanda,Brown,amanda.brown@email.com,(288) 768-9158,Houston,CA,77924,20,Female,2022-09-07,7,601.46,Bronze
+CUST_00432,Amanda,Miller,amanda.miller@email.com,(388) 285-2104,Houston,TX,90651,41,Female,2020-10-19,29,3005.16,Bronze
+CUST_00433,James,Rodriguez,james.rodriguez@email.com,(985) 393-4447,Jacksonville,IL,15735,54,Male,2020-11-08,22,4304.46,Gold
+CUST_00434,Daniel,Williams,daniel.williams@email.com,(558) 673-4287,Austin,NY,61290,42,Male,2021-08-20,33,365.06,Silver
+CUST_00435,James,Brown,james.brown@email.com,(543) 873-8190,New York,FL,67741,22,Male,2023-05-17,34,1474.64,Silver
+CUST_00436,Michael,Rodriguez,michael.rodriguez@email.com,(525) 258-2824,Austin,NY,63729,51,Other,2020-02-05,40,3616.39,Gold
+CUST_00437,Lisa,Smith,lisa.smith@email.com,(346) 306-4828,New York,TX,10448,54,Male,2022-03-04,50,2856.43,Silver
+CUST_00438,Christopher,Hernandez,christopher.hernandez@email.com,(236) 777-9938,Los Angeles,NY,95047,70,Female,2023-03-16,42,1960.97,Platinum
+CUST_00439,Emily,Lopez,emily.lopez@email.com,(443) 899-9037,San Jose,IL,55239,80,Other,2022-07-20,31,4601.16,Silver
+CUST_00440,Emily,Rodriguez,emily.rodriguez@email.com,(568) 429-3365,Phoenix,PA,32852,79,Female,2021-06-10,11,1871.99,Bronze
+CUST_00441,Robert,Gonzalez,robert.gonzalez@email.com,(507) 347-1697,San Diego,TX,80975,72,Male,2022-04-03,9,4208.67,Gold
+CUST_00442,Sarah,Miller,sarah.miller@email.com,(631) 627-8546,Jacksonville,TX,68181,78,Female,2022-08-07,24,1722.12,Platinum
+CUST_00443,Michael,Lopez,michael.lopez@email.com,(742) 410-5030,Houston,PA,35030,54,Male,2023-09-12,40,1848.9,Platinum
+CUST_00444,William,Wilson,william.wilson@email.com,(982) 618-7140,Austin,IL,37985,43,Male,2022-08-21,7,2737.0,Platinum
+CUST_00445,David,Wilson,david.wilson@email.com,(993) 838-7752,New York,CA,38465,39,Other,2020-11-16,43,1952.24,Platinum
+CUST_00446,Michael,Davis,michael.davis@email.com,(224) 910-4382,San Antonio,AZ,97424,29,Female,2023-10-25,37,3857.74,Platinum
+CUST_00447,Jessica,Gonzalez,jessica.gonzalez@email.com,(402) 354-7738,Philadelphia,TX,42204,73,Other,2020-09-24,49,4659.7,Gold
+CUST_00448,Jessica,Gonzalez,jessica.gonzalez@email.com,(827) 743-1578,Austin,NY,18566,23,Male,2020-01-18,4,1690.97,Bronze
+CUST_00449,Lisa,Garcia,lisa.garcia@email.com,(407) 961-3467,Houston,IL,18653,41,Other,2021-10-08,38,4527.35,Platinum
+CUST_00450,Emily,Garcia,emily.garcia@email.com,(920) 379-5747,Phoenix,NY,83647,28,Male,2020-11-30,27,636.28,Platinum
+CUST_00451,Michael,Rodriguez,michael.rodriguez@email.com,(765) 843-8693,Jacksonville,IL,42688,80,Male,2023-09-21,10,4550.46,Bronze
+CUST_00452,Christopher,Smith,christopher.smith@email.com,(338) 590-8746,San Antonio,TX,32342,67,Male,2023-04-15,45,4939.48,Gold
+CUST_00453,Daniel,Davis,daniel.davis@email.com,(798) 785-3979,San Diego,NY,74456,78,Other,2023-03-06,23,4433.74,Bronze
+CUST_00454,Daniel,Garcia,daniel.garcia@email.com,(270) 381-3210,San Jose,IL,98784,43,Male,2020-08-15,43,1025.8,Gold
+CUST_00455,David,Lopez,david.lopez@email.com,(285) 563-9105,New York,AZ,87374,44,Male,2022-01-17,17,1000.51,Gold
+CUST_00456,William,Smith,william.smith@email.com,(701) 526-3734,New York,PA,41300,62,Female,2021-06-22,29,4980.96,Gold
+CUST_00457,John,Jones,john.jones@email.com,(967) 977-8505,Austin,NY,53636,53,Male,2020-09-24,40,102.86,Bronze
+CUST_00458,David,Miller,david.miller@email.com,(404) 681-7226,San Antonio,NY,98067,35,Other,2022-02-07,22,1865.63,Platinum
+CUST_00459,Robert,Lopez,robert.lopez@email.com,(550) 335-6672,Jacksonville,IL,82401,30,Female,2021-07-30,18,462.37,Platinum
+CUST_00460,Daniel,Hernandez,daniel.hernandez@email.com,(286) 882-6220,Dallas,NY,13015,69,Male,2020-08-07,16,418.35,Gold
+CUST_00461,Jane,Williams,jane.williams@email.com,(785) 442-2431,Los Angeles,NY,11762,65,Female,2023-06-18,5,823.41,Platinum
+CUST_00462,James,Wilson,james.wilson@email.com,(538) 880-2733,San Jose,NY,17361,63,Male,2021-02-12,48,4636.48,Silver
+CUST_00463,Jane,Lopez,jane.lopez@email.com,(293) 203-8093,Austin,CA,37553,21,Other,2020-06-11,25,1636.0,Silver
+CUST_00464,Emily,Wilson,emily.wilson@email.com,(402) 925-9115,San Jose,PA,34387,48,Female,2023-10-16,38,4331.79,Bronze
+CUST_00465,Emily,Williams,emily.williams@email.com,(719) 206-2303,Chicago,CA,44506,27,Other,2023-03-24,13,3514.84,Bronze
+CUST_00466,Sarah,Williams,sarah.williams@email.com,(529) 974-4730,Chicago,TX,93269,71,Other,2021-08-30,39,2090.8,Gold
+CUST_00467,Sarah,Miller,sarah.miller@email.com,(456) 553-4944,Dallas,NY,95831,74,Other,2021-05-30,19,3783.77,Bronze
+CUST_00468,John,Johnson,john.johnson@email.com,(705) 552-1989,San Jose,FL,66373,23,Other,2022-07-02,1,4886.98,Bronze
+CUST_00469,Lisa,Martinez,lisa.martinez@email.com,(989) 570-2079,San Jose,IL,51820,46,Female,2022-09-10,24,2523.49,Platinum
+CUST_00470,Lisa,Rodriguez,lisa.rodriguez@email.com,(962) 394-4737,San Jose,CA,15596,62,Female,2022-04-19,30,4405.87,Gold
+CUST_00471,Daniel,Gonzalez,daniel.gonzalez@email.com,(612) 674-8608,San Diego,CA,28623,65,Female,2022-05-09,2,4373.14,Gold
+CUST_00472,Robert,Wilson,robert.wilson@email.com,(847) 352-7544,Philadelphia,NY,66935,68,Other,2020-12-19,10,2985.04,Silver
+CUST_00473,Sarah,Johnson,sarah.johnson@email.com,(216) 600-8737,Chicago,IL,54212,30,Male,2022-10-15,26,833.67,Gold
+CUST_00474,Sarah,Brown,sarah.brown@email.com,(698) 821-9177,San Antonio,TX,30948,49,Other,2020-05-02,23,4809.13,Bronze
+CUST_00475,Lisa,Lopez,lisa.lopez@email.com,(688) 822-5740,Chicago,CA,77995,78,Female,2021-03-19,27,2478.01,Gold
+CUST_00476,James,Williams,james.williams@email.com,(546) 845-6089,Austin,AZ,66229,57,Male,2023-05-11,9,2671.7,Gold
+CUST_00477,Ashley,Garcia,ashley.garcia@email.com,(905) 331-7054,San Jose,TX,18273,19,Female,2022-01-27,27,1268.24,Gold
+CUST_00478,Ashley,Brown,ashley.brown@email.com,(520) 849-8801,Phoenix,AZ,54663,54,Female,2023-12-01,13,4514.19,Gold
+CUST_00479,Christopher,Hernandez,christopher.hernandez@email.com,(786) 434-4883,Houston,TX,83832,48,Male,2021-10-03,33,4409.6,Platinum
+CUST_00480,Christopher,Williams,christopher.williams@email.com,(838) 529-2332,Dallas,TX,70645,56,Other,2021-06-28,5,2274.95,Silver
+CUST_00481,Christopher,Gonzalez,christopher.gonzalez@email.com,(482) 928-3344,Philadelphia,FL,17736,48,Male,2021-04-02,41,65.11,Gold
+CUST_00482,Amanda,Martinez,amanda.martinez@email.com,(694) 775-3394,Phoenix,IL,73530,38,Other,2023-01-03,13,4129.48,Silver
+CUST_00483,Daniel,Martinez,daniel.martinez@email.com,(819) 323-5843,Jacksonville,NY,35551,51,Other,2021-08-01,16,3964.01,Platinum
+CUST_00484,Ashley,Wilson,ashley.wilson@email.com,(211) 505-5276,Houston,CA,48810,19,Male,2023-08-27,42,3823.75,Bronze
+CUST_00485,Lisa,Davis,lisa.davis@email.com,(994) 351-8318,Austin,TX,82779,28,Other,2022-06-28,49,1604.73,Gold
+CUST_00486,Emily,Jones,emily.jones@email.com,(402) 923-8427,Phoenix,CA,86871,26,Female,2020-02-04,8,309.5,Gold
+CUST_00487,William,Davis,william.davis@email.com,(577) 345-6165,Jacksonville,TX,82106,19,Other,2022-06-08,42,1653.23,Silver
+CUST_00488,Lisa,Martinez,lisa.martinez@email.com,(978) 235-5635,Philadelphia,AZ,84518,20,Other,2020-04-24,47,3600.49,Silver
+CUST_00489,Emily,Johnson,emily.johnson@email.com,(269) 343-3483,Los Angeles,AZ,31414,78,Other,2021-04-26,6,3785.56,Gold
+CUST_00490,Lisa,Johnson,lisa.johnson@email.com,(622) 551-2139,San Diego,TX,81448,21,Other,2022-05-02,42,3959.16,Silver
+CUST_00491,William,Wilson,william.wilson@email.com,(291) 412-8348,Chicago,NY,44177,32,Male,2020-04-25,42,3433.43,Bronze
+CUST_00492,John,Hernandez,john.hernandez@email.com,(914) 430-8842,New York,NY,38704,66,Male,2020-11-08,9,2527.89,Gold
+CUST_00493,Robert,Gonzalez,robert.gonzalez@email.com,(849) 886-7484,New York,AZ,47963,49,Male,2023-10-03,46,3500.77,Bronze
+CUST_00494,John,Brown,john.brown@email.com,(803) 236-4421,Houston,AZ,74417,18,Female,2023-12-08,6,2928.84,Gold
+CUST_00495,William,Wilson,william.wilson@email.com,(368) 606-4486,Chicago,AZ,10963,76,Other,2023-06-29,19,1364.95,Gold
+CUST_00496,William,Miller,william.miller@email.com,(363) 406-5198,Philadelphia,CA,52868,75,Female,2022-03-15,8,3269.79,Platinum
+CUST_00497,John,Davis,john.davis@email.com,(817) 867-9385,San Antonio,CA,34226,25,Male,2022-03-04,7,3726.93,Silver
+CUST_00498,Sarah,Gonzalez,sarah.gonzalez@email.com,(783) 953-5892,Jacksonville,PA,38094,74,Other,2021-09-13,24,2345.71,Silver
+CUST_00499,Jessica,Wilson,jessica.wilson@email.com,(458) 422-9373,New York,IL,11620,31,Male,2021-11-14,14,2522.98,Platinum
+CUST_00500,Ashley,Garcia,ashley.garcia@email.com,(668) 600-3707,San Diego,TX,83509,56,Female,2023-09-28,16,434.49,Bronze

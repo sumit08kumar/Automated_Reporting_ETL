@@ -1,0 +1,1001 @@
+Date,Product_Category,Product_Name,Quantity,Unit_Price,Total_Amount,Discount_Percent,Sales_Rep,Region,Customer_Type,Payment_Method
+2023-03-13,Toys,Action Figure,9,20.62,185.58,7.3,Bob Smith,Central,Individual,Check
+2023-01-14,Electronics,Laptop,8,47.43,379.47,15.2,Ivy Chen,South,Government,Check
+2023-03-23,Clothing,Jacket,1,230.73,230.73,22.8,Grace Lee,East,Business,Cash
+2023-06-26,Clothing,Dress,13,58.34,758.42,2.9,Jack Anderson,East,Individual,Check
+2023-05-31,Sports,Running Shoes,13,475.32,6179.14,2.4,Jack Anderson,East,Government,Cash
+2023-02-10,Toys,Action Figure,8,24.93,199.42,23.2,David Wilson,North,Business,Bank Transfer
+2023-05-17,Home & Garden,Bedding,12,84.06,1008.75,6.3,Bob Smith,Central,Government,Cash
+2023-11-24,Sports,Gym Equipment,13,82.77,1076.05,8.1,Ivy Chen,South,Government,Bank Transfer
+2023-02-03,Electronics,Smartphone,11,363.02,3993.19,12.0,David Wilson,Central,Government,Bank Transfer
+2023-03-13,Clothing,Jacket,15,195.12,2926.83,4.3,David Wilson,Central,Government,Bank Transfer
+2023-04-23,Toys,Doll,19,193.58,3678.02,12.0,Carol Davis,Central,Business,Credit Card
+2023-08-05,Electronics,Laptop,6,64.72,388.32,23.8,Jack Anderson,North,Business,Check
+2023-01-06,Sports,Outdoor Gear,18,199.73,3595.18,25.8,Bob Smith,Central,Business,Bank Transfer
+2024-01-05,Electronics,Tablet,15,222.82,3342.27,0.1,Eva Brown,Central,Individual,Credit Card
+2023-03-20,Toys,Educational Toy,17,345.25,5869.18,18.3,Frank Miller,South,Government,Credit Card
+2023-06-07,Sports,Sports Apparel,4,179.9,719.59,27.9,David Wilson,North,Individual,Credit Card
+2023-03-07,Electronics,Headphones,18,315.69,5682.38,23.0,Henry Taylor,Central,Individual,Bank Transfer
+2024-01-22,Sports,Supplements,7,156.77,1097.4,27.9,David Wilson,East,Business,Bank Transfer
+2023-06-23,Home & Garden,Plants,8,215.64,1725.13,6.7,Alice Johnson,Central,Government,Cash
+2023-01-17,Sports,Gym Equipment,2,12.59,25.19,6.9,Frank Miller,North,Government,Cash
+2023-10-20,Books,Biography,5,90.03,450.13,21.7,Jack Anderson,West,Individual,Check
+2023-07-30,Home & Garden,Kitchenware,14,50.24,703.42,10.6,Henry Taylor,North,Government,Credit Card
+2023-04-08,Electronics,Headphones,4,339.46,1357.84,7.5,Ivy Chen,West,Individual,Check
+2023-10-09,Clothing,Dress,3,205.22,615.67,13.3,Bob Smith,North,Government,Credit Card
+2023-07-25,Electronics,Smartphone,16,78.28,1252.48,14.4,Alice Johnson,South,Business,Credit Card
+2023-12-23,Home & Garden,Bedding,15,424.29,6364.32,8.6,Ivy Chen,West,Individual,Cash
+2023-02-01,Books,Textbook,19,377.69,7176.13,22.1,Frank Miller,North,Individual,Check
+2023-04-06,Sports,Supplements,17,85.05,1445.81,2.4,Bob Smith,Central,Individual,Cash
+2023-11-01,Home & Garden,Furniture,19,436.56,8294.71,7.4,Alice Johnson,Central,Individual,Check
+2023-04-15,Toys,Doll,11,206.49,2271.43,28.0,Frank Miller,South,Business,Check
+2023-11-15,Clothing,Dress,3,233.39,700.16,0.3,Jack Anderson,North,Individual,Cash
+2023-05-06,Sports,Sports Apparel,12,55.11,661.32,26.4,Frank Miller,East,Individual,Check
+2023-10-11,Sports,Sports Apparel,17,309.0,5252.92,0.2,Eva Brown,North,Individual,Bank Transfer
+2023-11-06,Electronics,Laptop,5,343.24,1716.22,8.2,David Wilson,East,Individual,Bank Transfer
+2023-08-05,Sports,Outdoor Gear,2,129.37,258.73,2.8,Eva Brown,North,Individual,Bank Transfer
+2023-08-07,Clothing,Dress,15,74.42,1116.24,16.6,Ivy Chen,North,Individual,Credit Card
+2023-03-17,Toys,Board Game,12,228.87,2746.48,17.5,Grace Lee,South,Individual,Bank Transfer
+2023-12-08,Books,Fiction Novel,7,358.3,2508.08,20.5,Bob Smith,East,Government,Check
+2023-04-01,Sports,Gym Equipment,8,343.37,2746.95,25.9,Grace Lee,North,Individual,Bank Transfer
+2023-01-20,Home & Garden,Kitchenware,4,124.58,498.33,11.5,Henry Taylor,South,Individual,Check
+2023-12-04,Books,Cookbook,8,384.51,3076.04,6.7,David Wilson,West,Business,Bank Transfer
+2023-10-02,Electronics,Tablet,17,160.23,2723.94,12.0,Frank Miller,North,Individual,Bank Transfer
+2023-11-02,Clothing,Shoes,9,476.11,4285.03,1.1,Grace Lee,East,Government,Bank Transfer
+2023-10-23,Home & Garden,Plants,4,435.39,1741.56,11.6,David Wilson,East,Individual,Check
+2024-01-15,Electronics,Camera,18,368.02,6624.32,20.6,David Wilson,East,Business,Credit Card
+2023-06-03,Toys,Educational Toy,4,247.25,989.02,21.6,Ivy Chen,East,Government,Check
+2023-08-04,Books,Biography,18,338.2,6087.68,3.8,Grace Lee,South,Government,Bank Transfer
+2023-08-09,Home & Garden,Plants,10,382.5,3825.01,8.6,Jack Anderson,Central,Government,Bank Transfer
+2024-01-12,Home & Garden,Tools,7,191.9,1343.3,15.3,Carol Davis,North,Business,Bank Transfer
+2023-03-17,Electronics,Smartphone,8,257.48,2059.84,24.2,Alice Johnson,North,Individual,Check
+2023-12-23,Sports,Running Shoes,19,219.55,4171.52,5.8,Grace Lee,West,Business,Cash
+2023-04-23,Clothing,T-Shirt,4,342.92,1371.69,23.4,Carol Davis,Central,Business,Credit Card
+2023-08-26,Sports,Gym Equipment,4,396.63,1586.52,13.7,Ivy Chen,Central,Government,Bank Transfer
+2023-10-08,Home & Garden,Plants,17,356.95,6068.1,12.8,Henry Taylor,South,Government,Check
+2023-09-24,Home & Garden,Bedding,9,291.44,2622.98,23.0,Henry Taylor,South,Business,Check
+2023-10-04,Electronics,Tablet,11,112.92,1242.14,9.6,Bob Smith,South,Individual,Cash
+2023-06-19,Home & Garden,Kitchenware,3,311.82,935.46,12.4,Ivy Chen,West,Business,Credit Card
+2023-01-11,Clothing,Jacket,19,143.84,2732.97,28.4,Jack Anderson,West,Business,Credit Card
+2024-01-12,Books,Cookbook,14,317.97,4451.64,16.1,Ivy Chen,Central,Individual,Check
+2023-12-09,Clothing,Dress,1,197.48,197.48,11.7,Grace Lee,South,Business,Cash
+2023-12-06,Sports,Supplements,13,19.09,248.19,17.8,Alice Johnson,North,Government,Check
+2023-04-19,Clothing,Jacket,9,87.78,790.04,11.4,Henry Taylor,East,Business,Check
+2024-01-19,Books,Biography,3,114.76,344.28,14.1,Ivy Chen,North,Business,Cash
+2023-05-07,Toys,Action Figure,2,303.92,607.85,22.6,David Wilson,North,Government,Cash
+2023-04-22,Clothing,Jeans,4,201.09,804.37,16.9,Henry Taylor,East,Business,Cash
+2023-03-25,Sports,Supplements,4,369.71,1478.83,23.3,Eva Brown,North,Government,Credit Card
+2024-01-02,Books,Self-Help,13,301.22,3915.8,11.9,David Wilson,North,Government,Cash
+2023-10-17,Electronics,Tablet,20,323.54,6470.83,24.2,Alice Johnson,East,Government,Check
+2023-08-04,Toys,Educational Toy,11,43.62,479.85,0.4,Henry Taylor,North,Business,Bank Transfer
+2023-09-25,Toys,Puzzle,14,337.74,4728.35,5.3,Eva Brown,Central,Government,Check
+2023-05-06,Home & Garden,Tools,19,381.23,7243.3,8.1,Bob Smith,East,Business,Cash
+2023-09-11,Home & Garden,Plants,13,277.87,3612.34,10.1,Frank Miller,South,Business,Cash
+2023-05-22,Books,Cookbook,20,139.58,2791.65,21.0,Ivy Chen,North,Government,Cash
+2023-05-04,Electronics,Smartphone,16,302.41,4838.48,16.7,Henry Taylor,West,Business,Credit Card
+2023-10-25,Electronics,Tablet,8,107.69,861.51,9.2,Frank Miller,West,Government,Bank Transfer
+2023-05-09,Home & Garden,Plants,15,158.1,2371.52,8.1,David Wilson,North,Government,Cash
+2024-01-14,Books,Fiction Novel,6,352.52,2115.12,5.7,Henry Taylor,East,Government,Bank Transfer
+2023-01-08,Electronics,Smartphone,12,146.81,1761.7,5.4,Ivy Chen,South,Business,Credit Card
+2024-01-21,Electronics,Camera,5,123.84,619.2,19.1,Henry Taylor,North,Individual,Bank Transfer
+2023-05-10,Home & Garden,Tools,6,160.42,962.51,29.0,Henry Taylor,North,Individual,Check
+2023-10-16,Home & Garden,Furniture,2,279.42,558.83,4.6,Eva Brown,North,Individual,Credit Card
+2023-09-25,Sports,Outdoor Gear,20,286.3,5726.07,6.8,Grace Lee,West,Business,Bank Transfer
+2024-01-14,Sports,Outdoor Gear,20,156.75,3135.04,1.8,Bob Smith,South,Government,Cash
+2023-03-22,Books,Fiction Novel,6,72.56,435.35,16.6,Alice Johnson,West,Business,Check
+2023-08-21,Books,Fiction Novel,10,97.39,973.94,21.1,Bob Smith,South,Business,Cash
+2023-03-14,Home & Garden,Furniture,5,201.39,1006.96,27.3,Bob Smith,North,Individual,Bank Transfer
+2023-12-19,Sports,Supplements,15,444.17,6662.58,3.7,Eva Brown,West,Business,Check
+2023-11-06,Home & Garden,Furniture,14,236.26,3307.65,22.0,Eva Brown,North,Individual,Cash
+2023-12-11,Toys,Doll,1,208.42,208.42,30.0,Eva Brown,Central,Individual,Cash
+2023-10-27,Home & Garden,Plants,9,311.31,2801.82,5.4,Grace Lee,West,Individual,Check
+2023-06-18,Books,Biography,4,128.72,514.89,25.7,Grace Lee,West,Business,Check
+2023-03-01,Sports,Running Shoes,11,215.23,2367.55,7.6,Grace Lee,Central,Individual,Check
+2023-09-13,Home & Garden,Furniture,12,82.88,994.54,18.7,Henry Taylor,North,Individual,Bank Transfer
+2023-09-06,Sports,Gym Equipment,15,341.8,5126.97,26.4,Bob Smith,North,Government,Cash
+2023-02-17,Toys,Board Game,1,135.38,135.38,16.6,David Wilson,North,Business,Credit Card
+2023-05-20,Toys,Board Game,10,215.4,2153.97,15.3,Grace Lee,West,Business,Cash
+2023-09-18,Home & Garden,Plants,7,58.51,409.56,27.7,Carol Davis,North,Business,Check
+2023-06-02,Books,Self-Help,1,128.96,128.96,8.5,Jack Anderson,Central,Government,Check
+2024-01-26,Clothing,Jacket,12,246.59,2959.05,10.0,Ivy Chen,West,Business,Bank Transfer
+2023-07-30,Clothing,Jeans,8,215.66,1725.29,25.7,Alice Johnson,East,Government,Check
+2023-01-19,Toys,Puzzle,5,169.58,847.9,14.9,Carol Davis,Central,Government,Bank Transfer
+2023-03-15,Electronics,Headphones,15,58.59,878.82,0.5,Grace Lee,South,Individual,Check
+2023-06-18,Books,Cookbook,13,253.91,3300.83,19.5,Ivy Chen,West,Business,Check
+2023-05-28,Sports,Running Shoes,8,253.37,2026.99,18.9,David Wilson,North,Business,Credit Card
+2023-01-24,Toys,Action Figure,10,165.77,1657.7,27.1,Frank Miller,North,Business,Bank Transfer
+2023-12-16,Books,Biography,17,71.28,1211.69,12.4,Carol Davis,South,Individual,Credit Card
+2023-10-26,Sports,Outdoor Gear,8,266.83,2134.63,14.9,Carol Davis,South,Business,Bank Transfer
+2023-12-13,Home & Garden,Bedding,15,245.71,3685.6,27.0,Ivy Chen,South,Individual,Check
+2023-08-22,Books,Self-Help,14,124.16,1738.21,20.7,Eva Brown,South,Business,Check
+2023-12-25,Electronics,Smartphone,12,162.92,1955.04,17.2,Eva Brown,North,Government,Check
+2024-01-17,Books,Fiction Novel,2,208.82,417.64,27.3,Henry Taylor,East,Individual,Bank Transfer
+2023-11-18,Clothing,Jeans,5,255.01,1275.06,18.8,Alice Johnson,East,Business,Credit Card
+2023-06-17,Sports,Sports Apparel,3,268.2,804.6,27.3,Grace Lee,South,Individual,Cash
+2023-05-12,Sports,Sports Apparel,9,202.82,1825.38,24.9,Henry Taylor,East,Government,Bank Transfer
+2023-04-26,Electronics,Headphones,5,372.81,1864.04,22.6,Grace Lee,Central,Business,Credit Card
+2023-12-11,Home & Garden,Furniture,4,120.54,482.16,13.6,Eva Brown,Central,Business,Bank Transfer
+2023-10-15,Electronics,Smartphone,20,177.09,3541.74,26.5,Frank Miller,Central,Individual,Credit Card
+2023-03-01,Toys,Puzzle,10,366.86,3668.62,19.5,Carol Davis,North,Individual,Bank Transfer
+2023-08-21,Home & Garden,Furniture,18,55.28,995.02,4.1,Frank Miller,Central,Business,Cash
+2023-05-24,Home & Garden,Furniture,20,367.27,7345.39,12.2,Alice Johnson,East,Individual,Check
+2023-07-08,Home & Garden,Kitchenware,4,302.87,1211.5,29.4,Ivy Chen,East,Individual,Check
+2023-04-19,Books,Textbook,15,471.1,7066.48,2.8,Jack Anderson,North,Individual,Bank Transfer
+2024-01-27,Clothing,Jeans,7,387.48,2712.33,2.1,Ivy Chen,South,Government,Cash
+2023-03-16,Clothing,Dress,20,389.11,7782.19,0.1,Carol Davis,Central,Business,Cash
+2023-05-02,Electronics,Laptop,12,56.91,682.89,23.7,Jack Anderson,East,Individual,Cash
+2024-01-17,Books,Fiction Novel,14,60.73,850.23,15.8,Bob Smith,West,Business,Bank Transfer
+2023-11-11,Sports,Supplements,17,59.22,1006.74,6.6,Alice Johnson,Central,Business,Check
+2023-08-07,Toys,Action Figure,16,29.69,474.99,25.4,Bob Smith,West,Government,Check
+2023-05-21,Electronics,Laptop,5,164.53,822.64,2.0,Jack Anderson,Central,Government,Bank Transfer
+2023-08-09,Home & Garden,Plants,15,229.03,3435.41,15.2,Bob Smith,North,Government,Cash
+2023-08-21,Home & Garden,Tools,14,399.9,5598.61,10.2,Grace Lee,West,Government,Credit Card
+2023-03-20,Books,Biography,9,144.82,1303.36,11.2,Henry Taylor,North,Individual,Credit Card
+2023-10-12,Electronics,Headphones,12,43.36,520.3,24.4,Alice Johnson,Central,Government,Bank Transfer
+2024-01-05,Toys,Action Figure,14,156.27,2187.76,26.0,Alice Johnson,East,Government,Bank Transfer
+2023-09-04,Books,Fiction Novel,7,279.57,1957.0,4.6,David Wilson,North,Business,Bank Transfer
+2024-01-28,Electronics,Tablet,14,217.45,3044.28,25.4,Jack Anderson,Central,Government,Credit Card
+2023-06-08,Sports,Sports Apparel,9,19.09,171.79,21.1,Frank Miller,East,Individual,Cash
+2023-11-21,Clothing,Shoes,3,317.96,953.89,4.3,Alice Johnson,North,Government,Cash
+2024-01-05,Home & Garden,Tools,6,206.5,1238.99,11.1,Frank Miller,Central,Government,Credit Card
+2023-02-11,Electronics,Smartphone,20,85.83,1716.6,1.5,Eva Brown,West,Government,Check
+2023-09-20,Home & Garden,Plants,9,211.95,1907.52,6.5,Bob Smith,East,Business,Credit Card
+2023-07-22,Books,Self-Help,10,245.06,2450.65,1.4,Jack Anderson,North,Individual,Cash
+2023-03-03,Books,Textbook,9,352.48,3172.35,8.7,Alice Johnson,West,Government,Check
+2023-12-09,Clothing,Jeans,8,166.84,1334.73,15.0,Frank Miller,North,Business,Credit Card
+2023-10-22,Home & Garden,Furniture,3,174.43,523.29,25.9,Grace Lee,Central,Business,Check
+2023-11-13,Books,Fiction Novel,11,197.72,2174.89,5.2,Henry Taylor,East,Individual,Check
+2023-07-22,Electronics,Smartphone,13,188.35,2448.59,15.7,Eva Brown,East,Individual,Bank Transfer
+2023-04-10,Clothing,T-Shirt,4,218.73,874.91,15.9,Frank Miller,East,Government,Cash
+2023-03-20,Clothing,T-Shirt,7,77.5,542.52,5.2,Bob Smith,South,Government,Check
+2023-10-17,Home & Garden,Plants,15,304.21,4563.19,20.4,Jack Anderson,East,Government,Bank Transfer
+2023-05-21,Clothing,Jacket,15,35.23,528.42,18.9,Jack Anderson,North,Business,Credit Card
+2023-05-27,Books,Biography,2,205.84,411.67,11.1,Bob Smith,North,Government,Check
+2023-10-20,Home & Garden,Plants,2,243.62,487.24,13.5,David Wilson,East,Government,Check
+2023-06-25,Sports,Gym Equipment,15,464.4,6966.03,3.1,Bob Smith,Central,Government,Cash
+2023-11-09,Electronics,Smartphone,15,300.65,4509.73,15.7,Carol Davis,East,Business,Bank Transfer
+2023-11-20,Home & Garden,Tools,20,383.37,7667.38,1.6,Frank Miller,North,Business,Credit Card
+2023-06-20,Sports,Outdoor Gear,20,110.14,2202.71,26.2,Bob Smith,Central,Government,Cash
+2023-12-29,Books,Cookbook,13,465.44,6050.73,3.9,Bob Smith,East,Government,Check
+2023-12-10,Toys,Educational Toy,17,397.01,6749.15,2.8,Grace Lee,Central,Business,Credit Card
+2024-01-28,Books,Cookbook,7,88.25,617.74,10.3,Henry Taylor,South,Individual,Cash
+2023-10-04,Clothing,T-Shirt,4,131.34,525.36,15.2,Ivy Chen,North,Government,Bank Transfer
+2023-12-21,Sports,Gym Equipment,5,287.92,1439.6,4.9,Jack Anderson,South,Government,Check
+2023-11-09,Electronics,Headphones,8,133.67,1069.4,29.1,Eva Brown,West,Individual,Cash
+2023-10-20,Books,Biography,7,402.96,2820.75,11.0,Henry Taylor,West,Business,Check
+2023-11-06,Sports,Supplements,6,162.42,974.51,24.5,Carol Davis,East,Individual,Check
+2023-05-26,Books,Self-Help,17,348.35,5921.95,25.5,Bob Smith,South,Business,Check
+2023-04-24,Sports,Gym Equipment,3,298.76,896.27,28.4,Henry Taylor,East,Individual,Check
+2023-02-11,Electronics,Headphones,8,226.33,1810.62,11.6,Frank Miller,South,Individual,Bank Transfer
+2023-08-30,Electronics,Tablet,5,393.21,1966.03,1.1,Carol Davis,West,Business,Credit Card
+2024-01-08,Electronics,Laptop,5,113.11,565.55,16.5,Jack Anderson,Central,Business,Credit Card
+2023-11-24,Books,Textbook,2,146.29,292.59,7.2,Jack Anderson,West,Individual,Credit Card
+2024-01-03,Home & Garden,Plants,17,225.63,3835.67,17.3,Carol Davis,East,Business,Credit Card
+2023-12-09,Sports,Sports Apparel,14,120.69,1689.67,5.6,Bob Smith,Central,Business,Credit Card
+2023-07-19,Sports,Supplements,17,215.6,3665.22,16.6,Henry Taylor,North,Government,Check
+2023-06-26,Books,Cookbook,12,287.2,3446.36,23.7,David Wilson,North,Government,Bank Transfer
+2023-03-31,Clothing,T-Shirt,11,138.06,1518.62,24.4,Henry Taylor,West,Government,Cash
+2023-04-14,Clothing,T-Shirt,15,356.86,5352.87,1.1,Alice Johnson,South,Individual,Bank Transfer
+2023-01-19,Books,Self-Help,18,176.0,3167.95,14.2,David Wilson,East,Business,Credit Card
+2023-07-24,Toys,Educational Toy,12,125.02,1500.19,13.1,Henry Taylor,West,Business,Cash
+2023-02-12,Home & Garden,Tools,17,174.8,2971.55,8.0,Grace Lee,North,Business,Cash
+2023-06-01,Sports,Sports Apparel,3,150.93,452.78,9.8,Eva Brown,West,Government,Check
+2023-06-30,Clothing,Jacket,2,142.52,285.04,21.8,Jack Anderson,West,Business,Credit Card
+2023-03-15,Electronics,Headphones,6,134.28,805.67,28.6,Jack Anderson,West,Individual,Cash
+2023-10-18,Electronics,Smartphone,12,348.94,4187.29,10.9,Alice Johnson,Central,Individual,Check
+2023-09-29,Books,Cookbook,3,188.35,565.06,17.2,Frank Miller,West,Business,Bank Transfer
+2023-07-18,Clothing,T-Shirt,6,19.3,115.8,15.0,Ivy Chen,North,Business,Bank Transfer
+2023-09-09,Toys,Puzzle,20,105.28,2105.5,8.6,David Wilson,North,Individual,Credit Card
+2023-12-16,Home & Garden,Kitchenware,15,315.62,4734.25,29.9,Frank Miller,East,Government,Credit Card
+2023-12-31,Sports,Supplements,10,113.38,1133.85,25.5,Carol Davis,East,Government,Cash
+2023-01-14,Electronics,Smartphone,8,303.72,2429.72,23.7,Frank Miller,Central,Government,Bank Transfer
+2023-07-23,Home & Garden,Plants,3,72.14,216.41,2.0,Henry Taylor,Central,Business,Check
+2023-08-19,Sports,Running Shoes,11,57.65,634.14,19.3,Henry Taylor,Central,Business,Cash
+2023-01-29,Sports,Supplements,5,86.29,431.46,13.0,Bob Smith,Central,Individual,Bank Transfer
+2023-09-23,Clothing,Jeans,8,150.65,1205.23,10.4,Eva Brown,North,Business,Cash
+2023-02-17,Toys,Doll,10,117.85,1178.49,18.4,Ivy Chen,South,Government,Cash
+2023-10-16,Clothing,Shoes,20,326.33,6526.64,10.1,Alice Johnson,North,Individual,Credit Card
+2023-08-02,Toys,Doll,7,107.54,752.8,23.0,Jack Anderson,North,Business,Bank Transfer
+2023-02-07,Toys,Educational Toy,13,224.63,2920.25,8.9,Alice Johnson,South,Business,Check
+2024-01-03,Home & Garden,Tools,20,105.23,2104.63,4.3,Frank Miller,East,Business,Cash
+2023-03-04,Books,Self-Help,11,264.53,2909.78,7.3,Eva Brown,West,Individual,Cash
+2023-08-03,Electronics,Laptop,13,112.75,1465.69,25.9,David Wilson,South,Business,Bank Transfer
+2023-06-07,Clothing,Jeans,17,218.56,3715.48,14.0,Henry Taylor,North,Individual,Check
+2023-01-25,Sports,Outdoor Gear,7,399.03,2793.22,17.5,Alice Johnson,East,Business,Check
+2023-05-16,Books,Self-Help,4,12.2,48.78,12.9,Frank Miller,West,Business,Credit Card
+2023-05-28,Home & Garden,Furniture,7,257.96,1805.72,10.9,Bob Smith,West,Government,Check
+2023-03-02,Sports,Sports Apparel,20,329.81,6596.3,20.4,Carol Davis,North,Business,Bank Transfer
+2023-09-18,Books,Self-Help,5,442.01,2210.06,6.0,Grace Lee,Central,Individual,Credit Card
+2023-03-18,Electronics,Smartphone,16,303.63,4858.0,15.6,Jack Anderson,Central,Individual,Bank Transfer
+2023-06-03,Sports,Sports Apparel,20,69.75,1394.95,22.2,Jack Anderson,East,Government,Check
+2023-12-11,Toys,Doll,1,139.56,139.56,11.1,Bob Smith,West,Government,Bank Transfer
+2023-10-24,Toys,Action Figure,9,214.73,1932.55,29.0,Jack Anderson,South,Government,Credit Card
+2023-07-14,Sports,Outdoor Gear,20,71.81,1436.23,23.2,Carol Davis,South,Individual,Credit Card
+2023-12-20,Clothing,T-Shirt,14,215.84,3021.72,4.5,David Wilson,West,Government,Check
+2023-06-16,Toys,Action Figure,17,333.7,5672.84,6.2,Henry Taylor,Central,Business,Bank Transfer
+2023-12-13,Clothing,Jacket,11,382.06,4202.62,16.4,Eva Brown,Central,Business,Cash
+2023-06-02,Clothing,Dress,8,203.4,1627.2,28.2,Eva Brown,South,Government,Check
+2023-10-21,Books,Biography,9,165.29,1487.65,8.6,Ivy Chen,West,Business,Bank Transfer
+2023-08-15,Clothing,Dress,3,27.43,82.29,10.4,Eva Brown,West,Individual,Cash
+2023-11-12,Sports,Sports Apparel,9,447.94,4031.48,4.1,Jack Anderson,South,Individual,Credit Card
+2023-07-31,Toys,Doll,8,118.68,949.44,1.6,Frank Miller,West,Individual,Cash
+2023-09-01,Electronics,Camera,6,429.46,2576.77,12.2,Henry Taylor,South,Business,Bank Transfer
+2023-04-29,Books,Fiction Novel,3,365.87,1097.62,19.6,Ivy Chen,North,Individual,Check
+2023-04-06,Clothing,T-Shirt,13,380.75,4949.72,23.6,Eva Brown,North,Individual,Bank Transfer
+2023-11-25,Sports,Supplements,11,57.24,629.59,8.5,Ivy Chen,Central,Business,Cash
+2024-01-10,Sports,Outdoor Gear,4,129.44,517.74,9.9,Henry Taylor,East,Government,Cash
+2023-04-09,Electronics,Tablet,19,317.06,6024.11,20.2,Carol Davis,Central,Government,Check
+2023-04-05,Home & Garden,Plants,13,136.41,1773.39,20.1,Carol Davis,West,Business,Cash
+2023-06-18,Electronics,Tablet,15,153.19,2297.84,22.6,Eva Brown,Central,Government,Credit Card
+2023-08-27,Books,Cookbook,2,279.45,558.9,20.0,Eva Brown,South,Business,Bank Transfer
+2023-04-24,Toys,Action Figure,10,287.36,2873.57,11.0,David Wilson,South,Business,Cash
+2024-01-23,Home & Garden,Plants,18,140.2,2523.68,27.4,Ivy Chen,South,Individual,Credit Card
+2023-10-16,Sports,Outdoor Gear,12,262.51,3150.08,2.3,Bob Smith,North,Government,Cash
+2023-08-15,Sports,Supplements,11,62.04,682.45,25.6,Bob Smith,South,Government,Check
+2023-09-20,Electronics,Camera,2,197.23,394.47,13.6,Grace Lee,West,Government,Credit Card
+2023-07-22,Sports,Outdoor Gear,10,265.96,2659.56,21.7,Eva Brown,North,Government,Cash
+2023-10-05,Sports,Running Shoes,12,25.43,305.14,21.0,Alice Johnson,North,Business,Credit Card
+2024-01-09,Books,Biography,5,75.63,378.16,23.0,Grace Lee,East,Business,Check
+2023-06-28,Home & Garden,Tools,18,47.35,852.38,4.0,Bob Smith,South,Government,Check
+2024-01-23,Sports,Gym Equipment,8,274.82,2198.59,25.0,Alice Johnson,East,Business,Check
+2023-03-21,Sports,Outdoor Gear,8,356.31,2850.51,13.8,Eva Brown,South,Government,Credit Card
+2023-02-04,Electronics,Headphones,1,288.84,288.84,7.2,Bob Smith,Central,Individual,Check
+2023-04-30,Sports,Running Shoes,2,114.24,228.48,12.1,Ivy Chen,South,Individual,Cash
+2023-11-03,Sports,Sports Apparel,19,112.81,2143.3,9.6,Frank Miller,South,Business,Cash
+2023-10-13,Toys,Doll,10,108.54,1085.45,8.3,Jack Anderson,South,Government,Check
+2023-12-10,Sports,Outdoor Gear,12,23.66,283.91,28.2,Grace Lee,Central,Business,Check
+2023-08-31,Home & Garden,Kitchenware,6,121.42,728.55,22.6,David Wilson,South,Business,Cash
+2023-03-10,Home & Garden,Furniture,14,237.83,3329.56,16.7,Grace Lee,South,Business,Cash
+2024-01-06,Books,Fiction Novel,12,449.08,5388.94,2.8,David Wilson,North,Business,Check
+2024-01-25,Toys,Doll,3,288.19,864.57,5.6,Jack Anderson,Central,Individual,Check
+2023-04-08,Clothing,Dress,1,148.49,148.49,6.4,Bob Smith,West,Individual,Cash
+2023-10-01,Home & Garden,Kitchenware,10,248.48,2484.84,11.4,Frank Miller,East,Business,Bank Transfer
+2023-06-13,Sports,Outdoor Gear,16,183.88,2942.14,22.8,David Wilson,East,Business,Check
+2023-10-11,Electronics,Camera,5,431.29,2156.46,0.5,Jack Anderson,Central,Government,Check
+2023-05-06,Books,Textbook,8,94.04,752.32,11.4,Henry Taylor,Central,Government,Bank Transfer
+2024-01-11,Books,Biography,16,416.73,6667.74,13.8,Frank Miller,South,Individual,Check
+2023-02-08,Clothing,Shoes,2,417.41,834.82,15.7,Alice Johnson,North,Business,Cash
+2023-09-16,Toys,Board Game,5,43.19,215.93,0.3,Henry Taylor,East,Individual,Check
+2023-01-07,Toys,Puzzle,18,14.78,266.0,16.5,Alice Johnson,Central,Government,Bank Transfer
+2023-04-02,Sports,Sports Apparel,14,13.95,195.3,24.2,Bob Smith,North,Government,Cash
+2023-05-17,Clothing,Jeans,9,236.97,2132.77,24.5,Grace Lee,North,Business,Check
+2023-02-11,Home & Garden,Plants,8,117.55,940.38,9.0,Alice Johnson,North,Business,Check
+2023-02-12,Home & Garden,Plants,1,191.95,191.95,21.1,Henry Taylor,West,Government,Bank Transfer
+2023-12-21,Sports,Running Shoes,2,417.54,835.07,6.9,Jack Anderson,West,Business,Credit Card
+2023-04-02,Electronics,Tablet,19,361.69,6872.06,19.7,Frank Miller,North,Individual,Cash
+2023-05-04,Toys,Puzzle,10,442.48,4424.8,4.9,Jack Anderson,West,Government,Bank Transfer
+2023-06-27,Home & Garden,Kitchenware,3,337.65,1012.94,15.0,Alice Johnson,North,Business,Cash
+2023-07-23,Electronics,Tablet,20,218.72,4374.48,28.6,Frank Miller,North,Government,Bank Transfer
+2023-08-10,Home & Garden,Tools,18,87.4,1573.23,28.2,Carol Davis,Central,Government,Check
+2023-02-12,Electronics,Camera,8,121.63,973.06,21.4,Eva Brown,South,Business,Cash
+2023-06-07,Toys,Puzzle,4,160.64,642.55,2.7,Henry Taylor,East,Business,Credit Card
+2023-09-20,Clothing,T-Shirt,15,84.81,1272.12,16.7,Grace Lee,North,Individual,Credit Card
+2023-07-17,Books,Self-Help,20,42.52,850.33,23.5,Alice Johnson,East,Business,Check
+2023-03-28,Electronics,Camera,8,375.73,3005.82,17.2,Grace Lee,South,Individual,Bank Transfer
+2023-05-22,Books,Cookbook,3,239.01,717.03,5.0,Grace Lee,East,Business,Credit Card
+2023-04-11,Books,Cookbook,16,388.47,6215.47,17.8,Henry Taylor,North,Individual,Bank Transfer
+2023-06-18,Electronics,Headphones,20,153.09,3061.89,11.4,Henry Taylor,East,Business,Cash
+2023-04-01,Books,Cookbook,7,261.66,1831.63,14.4,Grace Lee,East,Business,Check
+2023-07-21,Sports,Gym Equipment,9,128.12,1153.08,24.5,Frank Miller,North,Government,Cash
+2024-01-08,Sports,Supplements,18,97.37,1752.69,0.8,Henry Taylor,South,Business,Bank Transfer
+2023-03-13,Toys,Action Figure,14,328.26,4595.58,20.2,Eva Brown,South,Business,Cash
+2023-11-03,Toys,Puzzle,3,343.21,1029.63,13.5,Henry Taylor,Central,Business,Check
+2023-10-02,Sports,Running Shoes,12,313.79,3765.52,21.0,Jack Anderson,North,Individual,Cash
+2023-11-27,Toys,Educational Toy,20,90.29,1805.8,1.3,Grace Lee,East,Business,Credit Card
+2023-10-13,Electronics,Laptop,17,106.14,1804.3,22.4,Jack Anderson,Central,Individual,Check
+2023-03-19,Books,Biography,19,187.83,3568.8,20.7,Frank Miller,North,Business,Credit Card
+2024-01-09,Books,Biography,3,445.01,1335.04,3.5,Carol Davis,East,Business,Bank Transfer
+2023-08-13,Home & Garden,Kitchenware,12,227.44,2729.3,14.3,Henry Taylor,East,Individual,Bank Transfer
+2023-12-13,Electronics,Laptop,11,16.97,186.69,19.4,Carol Davis,South,Government,Cash
+2023-04-29,Sports,Gym Equipment,14,122.68,1717.45,28.8,Grace Lee,South,Individual,Check
+2023-08-08,Home & Garden,Furniture,7,321.24,2248.68,13.5,Grace Lee,North,Government,Cash
+2023-10-02,Clothing,Dress,3,313.06,939.17,17.3,Carol Davis,East,Business,Cash
+2023-11-24,Home & Garden,Furniture,16,116.62,1865.89,15.8,Frank Miller,Central,Business,Check
+2023-12-11,Sports,Running Shoes,15,147.06,2205.84,18.5,Eva Brown,Central,Government,Credit Card
+2023-04-04,Toys,Board Game,8,148.49,1187.89,9.2,Frank Miller,South,Government,Check
+2023-09-07,Home & Garden,Plants,13,67.71,880.26,12.7,Ivy Chen,South,Government,Cash
+2023-11-14,Home & Garden,Bedding,11,58.85,647.4,25.3,Alice Johnson,East,Individual,Check
+2023-09-11,Clothing,Jeans,18,347.37,6252.65,15.2,Grace Lee,West,Business,Check
+2023-04-23,Home & Garden,Kitchenware,1,38.45,38.45,23.9,Eva Brown,North,Business,Cash
+2024-01-31,Sports,Sports Apparel,15,76.74,1151.08,17.0,Henry Taylor,Central,Government,Credit Card
+2023-07-07,Sports,Running Shoes,18,106.38,1914.75,24.7,Ivy Chen,North,Government,Check
+2023-12-01,Sports,Gym Equipment,4,385.7,1542.79,22.1,David Wilson,East,Individual,Check
+2023-03-02,Books,Cookbook,3,375.51,1126.53,13.2,David Wilson,South,Government,Bank Transfer
+2023-04-16,Toys,Doll,6,260.9,1565.38,18.5,David Wilson,North,Government,Bank Transfer
+2023-12-27,Sports,Sports Apparel,6,273.09,1638.56,9.7,Eva Brown,East,Government,Bank Transfer
+2023-05-22,Sports,Running Shoes,14,55.37,775.18,27.6,Carol Davis,South,Individual,Cash
+2023-10-23,Toys,Educational Toy,13,354.88,4613.42,14.7,Eva Brown,West,Business,Check
+2023-07-08,Electronics,Laptop,9,164.17,1477.56,20.8,Henry Taylor,West,Business,Credit Card
+2023-12-24,Toys,Action Figure,15,298.04,4470.61,19.0,Frank Miller,North,Government,Check
+2023-05-26,Clothing,Jacket,16,380.81,6092.94,8.1,Frank Miller,Central,Government,Cash
+2023-11-17,Sports,Outdoor Gear,2,390.81,781.61,1.4,Henry Taylor,North,Individual,Cash
+2023-12-19,Home & Garden,Tools,14,9.7,135.86,6.1,Carol Davis,East,Individual,Bank Transfer
+2023-11-29,Electronics,Tablet,12,106.24,1274.86,19.9,Carol Davis,North,Business,Bank Transfer
+2023-01-01,Toys,Board Game,3,173.81,521.43,21.1,David Wilson,West,Individual,Cash
+2023-12-23,Sports,Gym Equipment,15,263.79,3956.86,0.3,Frank Miller,North,Business,Cash
+2023-02-22,Home & Garden,Furniture,3,95.4,286.19,21.9,Bob Smith,East,Business,Bank Transfer
+2023-12-13,Clothing,Jacket,5,314.12,1570.62,19.2,Carol Davis,North,Government,Credit Card
+2023-03-19,Sports,Gym Equipment,7,183.13,1281.92,18.8,Grace Lee,Central,Government,Check
+2023-10-29,Clothing,T-Shirt,5,347.9,1739.51,22.6,Grace Lee,East,Business,Bank Transfer
+2023-11-04,Clothing,Jeans,3,134.87,404.6,7.4,Jack Anderson,Central,Business,Credit Card
+2024-01-18,Toys,Educational Toy,20,93.75,1875.04,15.3,Grace Lee,East,Government,Credit Card
+2023-11-01,Clothing,Jacket,8,169.25,1353.97,15.0,Bob Smith,Central,Individual,Bank Transfer
+2023-10-07,Books,Textbook,19,174.36,3312.76,12.6,Carol Davis,West,Individual,Credit Card
+2023-01-31,Sports,Running Shoes,7,16.56,115.91,1.2,Grace Lee,Central,Business,Check
+2023-03-20,Home & Garden,Tools,18,42.26,760.72,16.1,Eva Brown,North,Business,Credit Card
+2023-07-20,Sports,Gym Equipment,5,408.98,2044.9,16.1,Jack Anderson,North,Business,Check
+2023-03-01,Toys,Board Game,3,27.73,83.19,27.7,Henry Taylor,Central,Government,Credit Card
+2023-03-25,Books,Textbook,5,54.11,270.53,21.0,Henry Taylor,East,Government,Bank Transfer
+2023-03-02,Clothing,Dress,9,56.32,506.89,22.0,Alice Johnson,East,Business,Bank Transfer
+2023-09-12,Sports,Running Shoes,19,112.71,2141.42,18.8,Henry Taylor,Central,Business,Credit Card
+2023-02-22,Home & Garden,Plants,6,84.75,508.49,7.7,Jack Anderson,North,Individual,Credit Card
+2023-03-18,Electronics,Laptop,16,115.65,1850.46,10.9,Carol Davis,North,Government,Check
+2023-02-09,Clothing,Dress,11,120.94,1330.29,8.1,Jack Anderson,East,Individual,Credit Card
+2023-02-05,Clothing,Jeans,2,288.46,576.91,28.6,Henry Taylor,East,Business,Bank Transfer
+2023-10-16,Electronics,Camera,12,219.73,2636.76,6.0,Eva Brown,Central,Individual,Check
+2023-10-07,Books,Self-Help,7,379.37,2655.6,22.0,David Wilson,South,Individual,Check
+2023-01-01,Electronics,Smartphone,1,196.8,196.8,28.5,Grace Lee,East,Individual,Cash
+2023-03-14,Sports,Gym Equipment,2,152.77,305.55,29.2,Eva Brown,North,Individual,Cash
+2024-01-18,Sports,Outdoor Gear,12,304.81,3657.69,13.8,Bob Smith,Central,Individual,Cash
+2023-12-06,Toys,Puzzle,19,45.79,870.1,1.9,Carol Davis,South,Business,Bank Transfer
+2023-05-20,Books,Biography,11,319.64,3516.03,9.5,David Wilson,North,Individual,Cash
+2023-06-10,Sports,Running Shoes,6,74.53,447.19,13.5,Grace Lee,North,Government,Bank Transfer
+2023-02-16,Clothing,Jacket,9,119.88,1078.9,25.6,Carol Davis,East,Government,Credit Card
+2023-07-22,Clothing,Dress,8,58.66,469.27,29.1,Ivy Chen,North,Government,Bank Transfer
+2023-10-12,Books,Textbook,13,18.76,243.9,25.6,Ivy Chen,South,Individual,Check
+2023-04-24,Electronics,Smartphone,2,52.2,104.39,24.9,Carol Davis,South,Business,Bank Transfer
+2023-02-08,Toys,Action Figure,9,214.05,1926.48,27.5,Alice Johnson,North,Individual,Check
+2023-08-25,Clothing,T-Shirt,11,436.82,4805.01,3.7,Alice Johnson,South,Government,Check
+2023-03-30,Toys,Puzzle,13,201.23,2615.93,20.5,Frank Miller,South,Individual,Bank Transfer
+2023-11-12,Books,Biography,2,361.29,722.57,18.4,David Wilson,East,Business,Check
+2023-08-03,Sports,Outdoor Gear,9,35.3,317.68,11.5,David Wilson,Central,Individual,Credit Card
+2023-10-17,Home & Garden,Bedding,16,219.75,3516.07,10.3,Ivy Chen,East,Business,Bank Transfer
+2023-05-24,Clothing,T-Shirt,8,164.79,1318.31,0.9,Alice Johnson,West,Government,Bank Transfer
+2023-05-04,Sports,Gym Equipment,4,451.02,1804.08,7.4,Eva Brown,Central,Government,Credit Card
+2023-03-30,Clothing,Shoes,13,379.57,4934.44,10.6,Carol Davis,South,Government,Bank Transfer
+2023-06-30,Toys,Educational Toy,1,361.23,361.23,21.1,Jack Anderson,Central,Individual,Cash
+2023-01-29,Home & Garden,Plants,16,159.6,2553.56,1.1,David Wilson,Central,Individual,Credit Card
+2023-03-08,Sports,Outdoor Gear,20,9.71,194.21,6.0,Frank Miller,South,Business,Credit Card
+2023-09-27,Electronics,Smartphone,5,228.34,1141.7,23.2,Frank Miller,North,Business,Check
+2023-03-22,Sports,Running Shoes,11,167.75,1845.3,4.1,Grace Lee,West,Government,Bank Transfer
+2023-04-25,Clothing,Shoes,20,267.25,5344.94,23.6,Jack Anderson,South,Business,Bank Transfer
+2023-10-21,Toys,Educational Toy,1,51.79,51.79,28.5,Grace Lee,Central,Individual,Cash
+2023-10-17,Sports,Sports Apparel,20,430.74,8614.77,6.6,Bob Smith,West,Individual,Bank Transfer
+2023-02-15,Toys,Action Figure,11,120.24,1322.65,5.0,Frank Miller,West,Individual,Bank Transfer
+2023-02-25,Clothing,Jeans,12,322.73,3872.8,7.7,Alice Johnson,North,Business,Check
+2023-07-13,Toys,Puzzle,14,413.14,5783.92,14.8,Frank Miller,Central,Business,Credit Card
+2023-02-07,Home & Garden,Plants,8,312.92,2503.38,4.9,Alice Johnson,East,Individual,Bank Transfer
+2023-03-24,Books,Fiction Novel,6,34.01,204.06,26.6,Bob Smith,Central,Individual,Bank Transfer
+2023-12-01,Sports,Supplements,1,389.75,389.75,12.9,Carol Davis,Central,Business,Cash
+2023-10-11,Electronics,Laptop,7,151.09,1057.62,12.3,Ivy Chen,East,Government,Bank Transfer
+2023-09-09,Books,Textbook,13,47.22,613.88,17.2,Carol Davis,North,Business,Credit Card
+2023-02-19,Home & Garden,Furniture,20,132.09,2641.81,14.4,Alice Johnson,South,Individual,Bank Transfer
+2023-08-30,Electronics,Headphones,10,323.74,3237.41,23.5,Henry Taylor,East,Individual,Check
+2023-01-23,Clothing,Dress,12,419.04,5028.54,5.6,Eva Brown,West,Business,Bank Transfer
+2023-12-08,Clothing,Dress,5,221.83,1109.15,22.6,Bob Smith,North,Government,Bank Transfer
+2023-02-01,Sports,Outdoor Gear,19,452.5,8597.47,6.8,Grace Lee,Central,Business,Check
+2024-01-01,Sports,Gym Equipment,3,214.54,643.63,11.8,Alice Johnson,Central,Government,Cash
+2023-04-09,Electronics,Headphones,6,67.09,402.53,29.2,Carol Davis,North,Business,Credit Card
+2023-05-13,Toys,Puzzle,5,81.68,408.4,25.0,Frank Miller,North,Individual,Check
+2023-01-07,Sports,Outdoor Gear,9,236.77,2130.96,15.6,Jack Anderson,Central,Government,Check
+2024-01-24,Electronics,Headphones,19,68.63,1303.93,17.6,Bob Smith,North,Government,Credit Card
+2023-12-02,Books,Self-Help,14,406.3,5688.2,7.9,Henry Taylor,Central,Government,Check
+2023-12-15,Electronics,Smartphone,5,118.07,590.34,18.5,Grace Lee,North,Business,Bank Transfer
+2023-07-10,Toys,Board Game,16,24.72,395.49,27.6,Alice Johnson,East,Business,Bank Transfer
+2023-04-27,Books,Biography,4,304.93,1219.71,29.2,Carol Davis,East,Government,Check
+2023-04-07,Books,Cookbook,20,296.01,5920.29,19.4,Henry Taylor,South,Business,Check
+2023-02-03,Sports,Sports Apparel,17,314.4,5344.79,23.7,Eva Brown,Central,Business,Cash
+2023-04-13,Sports,Supplements,7,17.83,124.84,26.3,Alice Johnson,South,Individual,Check
+2023-08-26,Electronics,Tablet,9,316.01,2844.1,11.1,Ivy Chen,West,Government,Credit Card
+2023-04-01,Toys,Action Figure,16,105.64,1690.25,17.8,Henry Taylor,Central,Government,Bank Transfer
+2023-12-19,Books,Textbook,9,325.98,2933.82,22.5,Bob Smith,East,Individual,Check
+2023-11-28,Electronics,Smartphone,7,318.22,2227.57,25.7,David Wilson,South,Business,Check
+2023-03-09,Sports,Running Shoes,1,371.99,371.99,14.2,Carol Davis,Central,Individual,Cash
+2023-12-30,Books,Self-Help,10,318.0,3180.03,21.4,Eva Brown,West,Business,Bank Transfer
+2023-11-16,Home & Garden,Bedding,10,93.17,931.69,20.3,Grace Lee,Central,Individual,Credit Card
+2023-06-02,Sports,Sports Apparel,20,233.02,4660.39,18.3,Bob Smith,West,Individual,Bank Transfer
+2023-11-30,Books,Cookbook,9,347.07,3123.65,19.7,Eva Brown,South,Individual,Cash
+2024-01-05,Electronics,Camera,11,165.53,1820.8,20.4,Alice Johnson,West,Business,Bank Transfer
+2023-10-20,Home & Garden,Tools,2,165.23,330.46,17.5,David Wilson,East,Government,Cash
+2023-12-10,Toys,Doll,16,234.99,3759.88,27.2,Frank Miller,Central,Business,Cash
+2024-01-15,Toys,Doll,4,84.81,339.24,14.1,Eva Brown,Central,Individual,Bank Transfer
+2023-06-07,Toys,Action Figure,8,92.36,738.86,22.3,Grace Lee,East,Business,Bank Transfer
+2023-11-21,Sports,Sports Apparel,4,203.75,815.01,14.1,Jack Anderson,Central,Government,Credit Card
+2023-07-31,Home & Garden,Kitchenware,13,214.66,2790.63,15.9,Alice Johnson,South,Individual,Cash
+2024-01-02,Books,Biography,15,472.51,7087.65,4.3,Carol Davis,North,Business,Bank Transfer
+2023-05-21,Toys,Board Game,2,163.34,326.68,0.1,David Wilson,South,Government,Cash
+2023-07-26,Home & Garden,Furniture,14,59.46,832.41,19.0,Grace Lee,West,Business,Credit Card
+2023-06-14,Electronics,Camera,12,77.01,924.15,28.5,Ivy Chen,South,Individual,Credit Card
+2023-02-22,Toys,Board Game,12,109.55,1314.64,9.4,Grace Lee,Central,Government,Bank Transfer
+2023-08-22,Clothing,T-Shirt,10,295.97,2959.74,28.5,Ivy Chen,Central,Government,Bank Transfer
+2023-04-07,Home & Garden,Kitchenware,16,158.76,2540.19,10.8,Carol Davis,West,Individual,Cash
+2023-03-28,Clothing,Jeans,1,93.41,93.41,17.7,Bob Smith,East,Government,Credit Card
+2023-01-25,Home & Garden,Bedding,20,382.26,7645.16,1.5,Bob Smith,North,Individual,Credit Card
+2023-12-26,Home & Garden,Tools,18,181.44,3265.9,7.6,Carol Davis,South,Government,Credit Card
+2023-11-07,Books,Biography,17,307.15,5221.49,8.1,Carol Davis,West,Individual,Credit Card
+2023-04-13,Books,Fiction Novel,16,371.02,5936.33,6.0,Eva Brown,Central,Individual,Bank Transfer
+2023-04-17,Toys,Puzzle,2,129.28,258.56,16.4,Henry Taylor,East,Individual,Credit Card
+2023-03-18,Electronics,Laptop,19,363.18,6900.34,20.1,Bob Smith,Central,Individual,Credit Card
+2023-01-26,Books,Textbook,10,215.28,2152.82,7.9,Bob Smith,South,Individual,Bank Transfer
+2024-01-24,Books,Cookbook,4,212.5,850.01,2.8,Alice Johnson,North,Individual,Cash
+2024-01-11,Books,Cookbook,20,412.23,8244.64,8.0,Bob Smith,East,Business,Cash
+2023-07-17,Electronics,Headphones,15,189.31,2839.7,8.2,Henry Taylor,West,Government,Cash
+2023-03-23,Electronics,Smartphone,2,247.73,495.46,29.4,Bob Smith,West,Government,Check
+2023-11-10,Sports,Outdoor Gear,13,75.72,984.35,23.4,Alice Johnson,South,Business,Check
+2023-06-10,Electronics,Headphones,3,208.2,624.61,7.8,Alice Johnson,Central,Government,Cash
+2023-12-05,Toys,Educational Toy,20,256.81,5136.11,2.9,David Wilson,West,Business,Check
+2023-11-26,Clothing,Shoes,20,439.79,8795.82,1.6,Carol Davis,Central,Business,Check
+2023-05-23,Clothing,T-Shirt,11,350.87,3859.56,7.2,Alice Johnson,Central,Individual,Check
+2023-08-18,Home & Garden,Kitchenware,15,36.94,554.07,24.0,Bob Smith,West,Business,Bank Transfer
+2023-07-31,Electronics,Headphones,1,363.61,363.61,3.1,Alice Johnson,Central,Government,Credit Card
+2023-10-15,Electronics,Camera,10,353.26,3532.56,26.7,David Wilson,West,Business,Bank Transfer
+2023-11-14,Electronics,Smartphone,11,352.51,3877.63,16.8,Jack Anderson,West,Government,Bank Transfer
+2023-07-01,Toys,Puzzle,8,65.83,526.62,0.1,Eva Brown,Central,Government,Bank Transfer
+2024-01-03,Toys,Action Figure,6,27.64,165.84,14.8,Grace Lee,North,Business,Cash
+2023-04-08,Clothing,T-Shirt,13,435.68,5663.83,6.5,Frank Miller,North,Business,Credit Card
+2023-10-29,Toys,Doll,15,60.72,910.81,13.7,Ivy Chen,South,Business,Credit Card
+2023-09-05,Sports,Running Shoes,14,210.35,2944.88,25.2,Ivy Chen,South,Government,Cash
+2023-06-14,Toys,Board Game,20,49.7,993.91,18.2,Ivy Chen,West,Business,Cash
+2023-03-10,Books,Biography,10,416.66,4166.57,13.6,Carol Davis,West,Government,Bank Transfer
+2023-04-13,Toys,Doll,18,349.81,6296.62,19.0,David Wilson,Central,Government,Bank Transfer
+2023-11-29,Toys,Educational Toy,5,325.55,1627.76,29.4,Carol Davis,Central,Government,Bank Transfer
+2023-10-20,Toys,Action Figure,18,327.62,5897.11,14.4,Grace Lee,Central,Business,Check
+2023-12-10,Electronics,Camera,13,59.46,772.98,4.4,Alice Johnson,South,Business,Cash
+2023-06-01,Books,Cookbook,2,64.81,129.63,20.7,David Wilson,Central,Individual,Bank Transfer
+2024-01-16,Home & Garden,Furniture,18,230.97,4157.49,25.9,Ivy Chen,West,Individual,Bank Transfer
+2023-12-17,Toys,Action Figure,13,405.99,5277.93,12.5,Frank Miller,Central,Individual,Credit Card
+2023-11-21,Toys,Educational Toy,15,82.24,1233.67,24.9,Frank Miller,Central,Government,Cash
+2023-02-08,Toys,Board Game,6,108.67,652.01,29.5,Carol Davis,South,Government,Credit Card
+2023-03-24,Home & Garden,Furniture,18,202.53,3645.57,7.9,Jack Anderson,East,Individual,Bank Transfer
+2023-11-17,Home & Garden,Kitchenware,11,24.28,267.03,17.9,Jack Anderson,East,Business,Bank Transfer
+2023-09-16,Electronics,Tablet,6,225.67,1354.04,15.6,Carol Davis,West,Government,Check
+2023-06-19,Electronics,Tablet,7,94.83,663.8,19.9,Frank Miller,East,Individual,Check
+2023-11-25,Sports,Running Shoes,12,57.36,688.33,13.4,Jack Anderson,Central,Individual,Credit Card
+2023-10-04,Toys,Educational Toy,4,174.08,696.33,11.6,Eva Brown,North,Government,Bank Transfer
+2023-11-30,Sports,Supplements,2,208.02,416.04,8.9,David Wilson,East,Government,Credit Card
+2023-11-17,Electronics,Smartphone,18,408.34,7350.14,16.0,Bob Smith,South,Government,Cash
+2023-12-26,Toys,Puzzle,7,351.8,2462.62,16.1,Grace Lee,North,Government,Cash
+2023-01-28,Electronics,Headphones,2,351.78,703.56,2.6,Carol Davis,East,Government,Credit Card
+2023-11-19,Sports,Gym Equipment,14,403.26,5645.58,11.6,Grace Lee,West,Business,Credit Card
+2024-01-17,Home & Garden,Furniture,20,266.91,5338.15,1.9,Jack Anderson,North,Government,Credit Card
+2023-05-25,Books,Self-Help,10,50.72,507.23,18.2,Henry Taylor,West,Business,Credit Card
+2023-10-07,Home & Garden,Kitchenware,5,210.6,1052.99,22.4,Eva Brown,South,Business,Bank Transfer
+2023-01-03,Electronics,Camera,5,422.42,2112.1,3.7,Jack Anderson,Central,Business,Credit Card
+2023-11-27,Books,Textbook,12,352.74,4232.87,6.4,Ivy Chen,South,Individual,Cash
+2023-12-10,Clothing,Shoes,7,404.62,2832.32,3.4,Jack Anderson,North,Government,Check
+2023-04-12,Toys,Doll,3,42.39,127.18,7.5,Jack Anderson,West,Business,Bank Transfer
+2023-04-10,Clothing,Jeans,20,57.79,1155.72,2.1,Frank Miller,West,Business,Bank Transfer
+2023-07-06,Sports,Sports Apparel,5,290.45,1452.23,17.0,Frank Miller,West,Individual,Credit Card
+2023-07-04,Books,Textbook,14,362.19,5070.65,8.3,Carol Davis,East,Business,Check
+2023-03-31,Home & Garden,Bedding,16,325.15,5202.41,16.6,Jack Anderson,North,Business,Cash
+2023-01-10,Sports,Gym Equipment,3,108.65,325.96,21.8,Ivy Chen,North,Government,Check
+2023-10-04,Sports,Gym Equipment,18,418.59,7534.55,7.8,Henry Taylor,South,Business,Check
+2023-09-14,Clothing,Shoes,10,354.45,3544.49,4.0,Ivy Chen,North,Business,Bank Transfer
+2024-01-23,Sports,Running Shoes,20,266.01,5320.26,20.5,Ivy Chen,South,Business,Cash
+2023-09-05,Clothing,Shoes,5,370.03,1850.15,22.1,Frank Miller,North,Individual,Check
+2023-04-16,Clothing,T-Shirt,8,137.74,1101.94,1.3,Ivy Chen,East,Business,Check
+2023-09-24,Home & Garden,Furniture,11,28.64,315.02,3.1,Eva Brown,East,Government,Cash
+2023-07-12,Home & Garden,Tools,3,159.7,479.1,15.5,David Wilson,Central,Business,Bank Transfer
+2023-03-13,Books,Biography,20,397.61,7952.27,0.2,Henry Taylor,South,Individual,Credit Card
+2023-11-05,Sports,Sports Apparel,6,108.28,649.67,4.7,Bob Smith,South,Business,Bank Transfer
+2023-10-30,Toys,Action Figure,16,210.6,3369.59,14.4,Carol Davis,West,Individual,Cash
+2023-09-20,Electronics,Smartphone,6,279.25,1675.48,4.0,Alice Johnson,Central,Individual,Credit Card
+2023-11-03,Clothing,Dress,17,329.19,5596.19,28.7,Jack Anderson,North,Government,Bank Transfer
+2023-03-29,Electronics,Smartphone,16,170.24,2723.8,26.0,David Wilson,West,Government,Cash
+2024-01-06,Sports,Gym Equipment,17,290.35,4935.9,7.9,Frank Miller,West,Government,Credit Card
+2023-09-25,Clothing,Jacket,4,197.89,791.55,0.5,Ivy Chen,West,Individual,Credit Card
+2023-09-30,Clothing,Jacket,20,446.5,8929.94,1.2,Ivy Chen,North,Individual,Check
+2023-12-14,Toys,Board Game,18,339.77,6115.81,24.8,Grace Lee,Central,Business,Bank Transfer
+2023-07-15,Electronics,Camera,16,168.03,2688.53,23.7,Frank Miller,Central,Government,Credit Card
+2023-02-12,Home & Garden,Kitchenware,8,97.93,783.47,27.3,Eva Brown,Central,Government,Check
+2023-03-02,Books,Textbook,1,10.48,10.48,17.3,Ivy Chen,North,Business,Cash
+2023-11-30,Toys,Educational Toy,4,200.57,802.27,4.6,Jack Anderson,East,Business,Check
+2023-07-31,Sports,Sports Apparel,13,239.65,3115.44,22.6,Ivy Chen,Central,Business,Cash
+2023-10-23,Books,Self-Help,9,198.31,1784.76,29.7,Frank Miller,West,Government,Cash
+2023-03-24,Toys,Action Figure,15,287.99,4319.9,23.5,Bob Smith,South,Government,Check
+2023-11-22,Books,Self-Help,2,295.88,591.76,4.8,Alice Johnson,North,Individual,Check
+2023-02-10,Sports,Outdoor Gear,9,49.65,446.85,6.7,Jack Anderson,North,Government,Check
+2023-11-02,Home & Garden,Plants,10,260.75,2607.51,21.3,Alice Johnson,South,Government,Check
+2023-01-18,Home & Garden,Furniture,17,99.5,1691.47,8.6,Jack Anderson,Central,Government,Cash
+2023-01-01,Sports,Gym Equipment,12,315.85,3790.18,7.2,Carol Davis,North,Business,Check
+2024-01-13,Books,Biography,7,176.26,1233.82,15.5,Bob Smith,North,Government,Bank Transfer
+2023-05-22,Toys,Doll,12,410.57,4926.89,10.4,David Wilson,Central,Individual,Check
+2023-02-24,Home & Garden,Plants,6,10.78,64.68,12.2,Ivy Chen,North,Government,Bank Transfer
+2023-10-22,Books,Fiction Novel,9,297.4,2676.63,26.3,Eva Brown,West,Business,Check
+2023-10-28,Clothing,Dress,15,382.65,5739.77,20.4,Alice Johnson,West,Individual,Bank Transfer
+2023-04-28,Electronics,Headphones,8,255.41,2043.28,20.3,Frank Miller,West,Business,Credit Card
+2024-01-19,Toys,Educational Toy,3,115.89,347.67,12.0,Frank Miller,North,Government,Cash
+2024-01-18,Home & Garden,Bedding,19,168.44,3200.41,8.1,David Wilson,West,Government,Cash
+2023-05-08,Clothing,Jeans,7,407.55,2852.85,6.9,Jack Anderson,East,Individual,Credit Card
+2024-01-27,Electronics,Laptop,16,278.33,4453.22,18.4,Ivy Chen,North,Business,Bank Transfer
+2023-09-09,Sports,Sports Apparel,19,185.76,3529.52,26.1,Carol Davis,Central,Business,Check
+2023-09-02,Clothing,Shoes,17,55.37,941.37,24.0,Ivy Chen,North,Government,Bank Transfer
+2023-08-24,Home & Garden,Kitchenware,4,185.0,740.02,20.9,Frank Miller,North,Individual,Cash
+2023-05-13,Home & Garden,Plants,12,48.45,581.43,18.4,Carol Davis,Central,Business,Cash
+2023-09-13,Books,Biography,11,427.02,4697.22,11.0,Grace Lee,South,Business,Bank Transfer
+2023-10-22,Books,Biography,6,121.82,730.9,17.1,David Wilson,North,Government,Bank Transfer
+2024-01-14,Clothing,Shoes,13,208.74,2713.64,5.9,Carol Davis,West,Individual,Cash
+2023-06-11,Home & Garden,Tools,17,63.73,1083.47,16.0,Henry Taylor,East,Business,Credit Card
+2023-05-11,Home & Garden,Furniture,2,325.85,651.7,6.5,Henry Taylor,North,Business,Bank Transfer
+2023-05-12,Books,Cookbook,18,134.4,2419.19,28.0,Frank Miller,North,Business,Credit Card
+2023-10-03,Books,Self-Help,19,86.53,1644.13,19.5,Carol Davis,East,Business,Bank Transfer
+2023-07-15,Toys,Doll,15,182.45,2736.76,26.7,Jack Anderson,East,Business,Cash
+2023-02-06,Clothing,Dress,20,179.53,3590.59,17.1,Bob Smith,South,Business,Cash
+2023-07-22,Books,Cookbook,9,270.05,2430.43,18.2,Eva Brown,West,Business,Check
+2023-05-01,Home & Garden,Kitchenware,1,96.35,96.35,3.8,Eva Brown,North,Individual,Cash
+2023-01-14,Home & Garden,Furniture,16,47.47,759.56,16.5,Grace Lee,Central,Individual,Credit Card
+2023-05-07,Books,Self-Help,13,78.09,1015.23,9.3,Eva Brown,West,Government,Cash
+2023-07-02,Clothing,Shoes,1,416.43,416.43,1.1,Frank Miller,West,Business,Bank Transfer
+2023-11-02,Sports,Outdoor Gear,18,72.16,1298.86,5.3,Henry Taylor,Central,Business,Bank Transfer
+2023-07-07,Books,Biography,3,238.06,714.18,13.3,Grace Lee,East,Individual,Bank Transfer
+2023-08-29,Electronics,Laptop,5,238.94,1194.7,10.3,Ivy Chen,North,Government,Check
+2023-11-02,Home & Garden,Bedding,14,11.01,154.14,23.9,David Wilson,North,Government,Bank Transfer
+2023-03-25,Clothing,Jacket,14,389.88,5458.38,11.8,Grace Lee,West,Individual,Bank Transfer
+2023-11-10,Electronics,Headphones,17,243.84,4145.22,22.9,Eva Brown,East,Government,Bank Transfer
+2023-02-26,Home & Garden,Kitchenware,6,410.66,2463.93,4.1,Henry Taylor,Central,Business,Bank Transfer
+2023-01-26,Toys,Doll,11,249.62,2745.79,0.6,Ivy Chen,North,Individual,Credit Card
+2023-04-30,Books,Cookbook,15,55.72,835.85,21.8,Bob Smith,South,Individual,Check
+2023-08-26,Clothing,Dress,16,151.28,2420.4,29.9,Alice Johnson,East,Individual,Cash
+2023-04-03,Electronics,Tablet,3,326.51,979.52,16.3,David Wilson,East,Business,Credit Card
+2023-01-18,Electronics,Smartphone,15,183.83,2757.43,7.4,David Wilson,West,Government,Credit Card
+2023-03-23,Sports,Gym Equipment,10,173.8,1738.04,28.1,Alice Johnson,Central,Government,Credit Card
+2023-01-27,Books,Biography,7,287.96,2015.74,10.8,David Wilson,North,Individual,Check
+2023-07-22,Books,Fiction Novel,9,75.87,682.81,17.5,David Wilson,North,Individual,Check
+2023-09-13,Toys,Doll,3,79.53,238.6,7.5,Bob Smith,Central,Business,Credit Card
+2023-03-06,Electronics,Tablet,18,248.47,4472.53,23.7,Henry Taylor,South,Business,Bank Transfer
+2023-03-10,Home & Garden,Kitchenware,13,18.26,237.43,10.7,Eva Brown,North,Business,Check
+2023-04-06,Sports,Sports Apparel,16,260.23,4163.68,5.7,Ivy Chen,East,Business,Check
+2023-09-29,Books,Self-Help,18,436.06,7849.02,4.8,Carol Davis,West,Business,Bank Transfer
+2023-04-05,Sports,Sports Apparel,17,206.06,3503.03,11.4,Alice Johnson,Central,Business,Cash
+2023-04-08,Books,Fiction Novel,18,250.85,4515.24,24.6,Ivy Chen,West,Government,Cash
+2023-09-25,Sports,Sports Apparel,11,162.5,1787.55,3.3,Bob Smith,North,Individual,Cash
+2023-10-20,Electronics,Smartphone,7,60.61,424.25,3.0,Grace Lee,West,Government,Bank Transfer
+2023-04-17,Electronics,Tablet,3,117.69,353.07,0.4,Henry Taylor,North,Business,Credit Card
+2023-12-29,Books,Self-Help,14,282.0,3947.97,24.7,Alice Johnson,Central,Business,Credit Card
+2023-09-23,Toys,Action Figure,3,300.18,900.54,28.3,Bob Smith,North,Government,Cash
+2023-10-19,Sports,Outdoor Gear,17,82.57,1403.7,19.7,Carol Davis,Central,Government,Check
+2023-08-23,Toys,Action Figure,19,344.08,6537.57,10.7,Grace Lee,North,Individual,Cash
+2023-11-04,Sports,Outdoor Gear,6,216.09,1296.53,16.0,Henry Taylor,East,Business,Bank Transfer
+2023-06-15,Books,Biography,14,289.17,4048.32,24.8,Jack Anderson,South,Government,Cash
+2023-08-20,Home & Garden,Plants,9,413.72,3723.47,10.8,Henry Taylor,West,Individual,Credit Card
+2023-06-04,Books,Self-Help,5,12.63,63.14,29.8,Alice Johnson,East,Individual,Cash
+2023-09-19,Books,Fiction Novel,9,281.05,2529.44,27.6,Ivy Chen,Central,Government,Cash
+2023-07-07,Electronics,Laptop,5,225.8,1129.0,4.2,Jack Anderson,South,Individual,Bank Transfer
+2024-01-11,Books,Fiction Novel,19,209.81,3986.39,27.5,Bob Smith,East,Business,Cash
+2023-06-03,Home & Garden,Plants,4,338.07,1352.28,17.9,Alice Johnson,Central,Business,Credit Card
+2023-03-03,Electronics,Tablet,14,157.93,2211.06,12.5,David Wilson,Central,Individual,Check
+2023-03-18,Electronics,Tablet,11,223.71,2460.79,16.2,Frank Miller,Central,Government,Cash
+2024-01-21,Clothing,T-Shirt,13,241.01,3133.15,29.1,Jack Anderson,Central,Government,Credit Card
+2023-06-22,Clothing,Jacket,13,145.24,1888.18,4.4,Bob Smith,West,Government,Credit Card
+2023-12-24,Sports,Outdoor Gear,13,117.78,1531.13,15.1,Carol Davis,South,Business,Cash
+2024-01-12,Home & Garden,Tools,7,274.11,1918.79,16.8,Ivy Chen,South,Individual,Credit Card
+2023-12-10,Books,Biography,19,163.94,3114.93,2.7,Grace Lee,West,Business,Bank Transfer
+2023-03-28,Clothing,Dress,1,137.53,137.53,23.1,Frank Miller,Central,Business,Cash
+2023-07-11,Home & Garden,Furniture,8,435.14,3481.09,6.0,Carol Davis,North,Individual,Credit Card
+2023-12-22,Clothing,Shoes,10,462.19,4621.85,0.4,Bob Smith,East,Business,Check
+2023-10-07,Electronics,Tablet,18,105.27,1894.85,6.4,Ivy Chen,East,Government,Check
+2023-12-06,Sports,Gym Equipment,1,310.98,310.98,11.3,Ivy Chen,North,Business,Cash
+2023-08-27,Electronics,Tablet,20,99.52,1990.48,8.1,Alice Johnson,North,Business,Bank Transfer
+2023-11-29,Toys,Educational Toy,1,395.46,395.46,8.8,Grace Lee,South,Business,Credit Card
+2023-04-12,Books,Biography,18,423.24,7618.31,2.6,Ivy Chen,West,Government,Credit Card
+2023-07-21,Electronics,Smartphone,10,415.69,4156.88,10.0,Carol Davis,North,Business,Bank Transfer
+2023-02-01,Books,Cookbook,17,115.33,1960.67,8.3,Eva Brown,West,Individual,Bank Transfer
+2023-02-14,Clothing,Jeans,13,142.5,1852.48,19.7,Grace Lee,Central,Government,Cash
+2023-11-06,Home & Garden,Kitchenware,14,206.07,2885.03,29.1,Frank Miller,West,Government,Cash
+2023-06-08,Clothing,Jeans,7,218.44,1529.1,25.9,Ivy Chen,South,Business,Cash
+2023-09-30,Toys,Doll,11,450.04,4950.43,2.0,Bob Smith,South,Business,Cash
+2023-06-05,Toys,Action Figure,14,274.03,3836.37,28.8,Henry Taylor,East,Individual,Cash
+2023-11-07,Electronics,Smartphone,20,81.92,1638.4,18.5,Jack Anderson,Central,Individual,Cash
+2023-11-06,Clothing,T-Shirt,16,178.55,2856.87,4.0,Henry Taylor,East,Individual,Check
+2023-07-29,Home & Garden,Tools,7,72.13,504.9,6.8,Alice Johnson,East,Business,Cash
+2023-08-13,Toys,Board Game,3,361.05,1083.16,5.3,Jack Anderson,West,Government,Bank Transfer
+2023-07-14,Home & Garden,Kitchenware,2,179.47,358.94,18.2,Frank Miller,West,Government,Credit Card
+2023-05-06,Sports,Running Shoes,2,170.38,340.77,26.3,Ivy Chen,Central,Business,Credit Card
+2023-08-14,Sports,Outdoor Gear,2,247.93,495.86,5.7,Grace Lee,East,Business,Check
+2023-03-14,Clothing,Jacket,2,122.33,244.67,20.7,Henry Taylor,West,Individual,Credit Card
+2023-07-31,Clothing,Shoes,18,450.48,8108.7,4.1,Frank Miller,West,Individual,Cash
+2023-02-16,Home & Garden,Plants,7,330.37,2312.61,26.5,Eva Brown,East,Government,Cash
+2023-02-13,Toys,Action Figure,15,44.28,664.23,19.0,Ivy Chen,West,Government,Cash
+2023-10-17,Home & Garden,Plants,6,142.72,856.33,27.4,Carol Davis,South,Individual,Cash
+2023-08-17,Toys,Action Figure,10,168.37,1683.69,21.9,Eva Brown,South,Individual,Cash
+2023-09-12,Clothing,T-Shirt,9,313.9,2825.11,0.4,Henry Taylor,Central,Individual,Check
+2023-08-15,Clothing,Jeans,16,257.9,4126.47,13.6,Bob Smith,Central,Government,Credit Card
+2023-04-17,Clothing,Shoes,18,110.29,1985.15,24.6,Alice Johnson,South,Individual,Credit Card
+2023-11-05,Toys,Educational Toy,2,22.39,44.78,20.0,Eva Brown,East,Individual,Credit Card
+2023-11-09,Electronics,Headphones,6,396.74,2380.41,20.2,Jack Anderson,Central,Government,Cash
+2023-06-03,Home & Garden,Plants,2,181.28,362.56,2.8,Frank Miller,East,Business,Credit Card
+2023-12-22,Home & Garden,Plants,16,40.13,642.01,4.0,Eva Brown,East,Government,Check
+2023-10-20,Sports,Gym Equipment,20,344.83,6896.61,1.7,Ivy Chen,North,Business,Bank Transfer
+2023-11-16,Home & Garden,Plants,9,358.37,3225.31,15.8,Frank Miller,South,Government,Check
+2023-04-30,Sports,Outdoor Gear,6,184.7,1108.2,26.5,Eva Brown,South,Individual,Credit Card
+2023-04-17,Electronics,Headphones,4,246.46,985.83,22.1,Jack Anderson,West,Business,Credit Card
+2023-04-14,Books,Cookbook,7,283.64,1985.47,0.3,Eva Brown,East,Individual,Bank Transfer
+2023-06-20,Books,Self-Help,1,269.95,269.95,3.4,Frank Miller,West,Government,Credit Card
+2023-09-03,Clothing,Jeans,11,124.38,1368.13,27.7,Henry Taylor,North,Government,Cash
+2023-08-25,Home & Garden,Kitchenware,18,232.04,4176.67,26.9,Grace Lee,North,Government,Bank Transfer
+2023-12-17,Sports,Sports Apparel,1,264.42,264.42,6.2,Frank Miller,East,Individual,Cash
+2023-03-26,Books,Fiction Novel,13,143.07,1859.91,18.8,Jack Anderson,Central,Business,Cash
+2023-06-11,Sports,Running Shoes,10,341.9,3418.99,21.2,Alice Johnson,East,Business,Credit Card
+2023-06-04,Home & Garden,Kitchenware,10,179.62,1796.21,6.5,Carol Davis,North,Business,Credit Card
+2023-09-14,Clothing,T-Shirt,1,172.93,172.93,24.0,Carol Davis,South,Business,Check
+2023-02-20,Toys,Doll,11,155.11,1706.19,4.3,Ivy Chen,South,Individual,Credit Card
+2023-06-09,Home & Garden,Tools,17,347.2,5902.43,3.5,Alice Johnson,Central,Individual,Bank Transfer
+2024-01-24,Home & Garden,Furniture,10,60.11,601.12,0.7,Eva Brown,South,Business,Cash
+2023-12-10,Clothing,Dress,11,111.81,1229.94,23.2,Bob Smith,East,Individual,Cash
+2023-02-22,Books,Fiction Novel,20,14.54,290.84,16.8,David Wilson,Central,Business,Bank Transfer
+2023-03-29,Books,Textbook,10,390.88,3908.8,17.2,Bob Smith,East,Government,Bank Transfer
+2023-12-12,Sports,Outdoor Gear,1,29.93,29.93,14.1,Alice Johnson,North,Business,Credit Card
+2023-11-19,Electronics,Headphones,20,148.02,2960.35,26.7,Henry Taylor,Central,Business,Bank Transfer
+2024-01-22,Books,Textbook,18,350.85,6315.36,2.4,Henry Taylor,Central,Individual,Credit Card
+2023-12-30,Toys,Puzzle,10,45.82,458.19,20.5,Henry Taylor,West,Individual,Cash
+2023-12-25,Clothing,Shoes,12,120.4,1444.76,11.8,Frank Miller,East,Business,Check
+2023-03-29,Electronics,Laptop,12,208.03,2496.39,14.4,Eva Brown,East,Government,Cash
+2023-11-29,Sports,Running Shoes,4,188.38,753.5,9.8,Bob Smith,East,Government,Check
+2023-03-23,Home & Garden,Plants,20,197.04,3940.9,7.3,Henry Taylor,West,Individual,Bank Transfer
+2023-06-25,Clothing,Shoes,14,183.61,2570.57,17.0,Ivy Chen,South,Individual,Credit Card
+2023-08-26,Toys,Doll,4,345.39,1381.57,17.8,Frank Miller,Central,Individual,Check
+2023-12-17,Clothing,Dress,3,392.52,1177.57,17.9,Jack Anderson,West,Business,Check
+2024-01-22,Toys,Action Figure,5,39.89,199.46,26.6,Alice Johnson,South,Government,Cash
+2023-04-11,Home & Garden,Plants,20,126.34,2526.76,17.3,David Wilson,East,Business,Bank Transfer
+2023-09-19,Home & Garden,Bedding,19,494.04,9386.67,0.2,Grace Lee,South,Business,Credit Card
+2023-07-03,Books,Self-Help,1,382.09,382.09,21.1,Bob Smith,East,Individual,Cash
+2023-07-27,Home & Garden,Plants,11,159.8,1757.84,21.4,Grace Lee,West,Government,Cash
+2023-07-04,Toys,Board Game,7,202.25,1415.74,16.7,Grace Lee,South,Business,Cash
+2023-09-07,Clothing,T-Shirt,1,43.2,43.2,4.3,Grace Lee,South,Individual,Cash
+2023-11-16,Toys,Puzzle,20,311.05,6221.06,27.9,Carol Davis,West,Government,Check
+2023-11-06,Sports,Outdoor Gear,8,187.45,1499.57,5.6,Alice Johnson,Central,Business,Cash
+2023-01-18,Toys,Doll,18,117.39,2113.05,17.3,Alice Johnson,Central,Business,Bank Transfer
+2024-01-10,Electronics,Camera,3,235.47,706.4,4.3,Ivy Chen,East,Business,Credit Card
+2023-12-06,Sports,Supplements,16,43.25,691.95,18.9,Bob Smith,Central,Government,Bank Transfer
+2023-08-29,Sports,Running Shoes,18,347.01,6246.21,23.4,Henry Taylor,Central,Business,Bank Transfer
+2023-01-19,Home & Garden,Bedding,10,438.98,4389.79,8.7,Jack Anderson,East,Government,Bank Transfer
+2023-05-30,Electronics,Headphones,19,288.75,5486.2,1.5,Jack Anderson,North,Business,Check
+2023-11-12,Electronics,Smartphone,9,238.25,2144.28,7.6,Eva Brown,East,Business,Credit Card
+2023-12-04,Toys,Action Figure,19,238.06,4523.21,22.2,Henry Taylor,East,Individual,Bank Transfer
+2023-06-25,Toys,Board Game,17,183.58,3120.81,25.9,Bob Smith,South,Government,Cash
+2024-01-07,Home & Garden,Tools,8,310.68,2485.45,19.8,Carol Davis,South,Government,Bank Transfer
+2023-08-26,Electronics,Tablet,4,374.2,1496.79,1.6,Grace Lee,West,Business,Check
+2023-03-16,Toys,Doll,13,106.77,1388.0,14.2,Ivy Chen,West,Individual,Bank Transfer
+2023-01-22,Home & Garden,Tools,17,272.3,4629.17,20.5,Bob Smith,Central,Government,Bank Transfer
+2023-05-17,Home & Garden,Plants,9,413.63,3722.68,10.0,Bob Smith,East,Government,Check
+2023-09-24,Home & Garden,Kitchenware,19,284.33,5402.3,23.1,Frank Miller,South,Business,Credit Card
+2023-09-26,Toys,Action Figure,1,366.02,366.02,12.3,Bob Smith,West,Business,Cash
+2023-02-17,Toys,Educational Toy,2,132.48,264.96,0.7,Alice Johnson,Central,Government,Cash
+2023-11-06,Sports,Running Shoes,4,347.71,1390.82,2.6,Carol Davis,West,Government,Cash
+2023-02-08,Electronics,Smartphone,15,107.56,1613.35,19.8,Henry Taylor,East,Business,Bank Transfer
+2023-07-15,Books,Textbook,9,301.04,2709.36,23.3,Grace Lee,East,Individual,Bank Transfer
+2023-04-13,Books,Textbook,16,159.51,2552.19,29.4,Jack Anderson,West,Individual,Check
+2023-11-26,Electronics,Smartphone,14,256.9,3596.58,6.6,Bob Smith,West,Government,Bank Transfer
+2023-08-17,Electronics,Laptop,19,35.75,679.24,21.8,Alice Johnson,West,Individual,Credit Card
+2023-10-22,Electronics,Headphones,11,102.41,1126.51,27.1,Alice Johnson,Central,Government,Check
+2023-01-02,Home & Garden,Tools,3,174.23,522.68,16.2,Grace Lee,West,Individual,Bank Transfer
+2023-06-24,Books,Cookbook,3,183.69,551.07,11.0,Bob Smith,West,Business,Cash
+2023-06-03,Clothing,Shoes,13,23.47,305.11,19.8,Grace Lee,North,Government,Bank Transfer
+2023-03-13,Home & Garden,Furniture,15,345.86,5187.96,22.1,Alice Johnson,South,Individual,Cash
+2023-09-13,Home & Garden,Tools,18,32.98,593.61,19.3,Ivy Chen,West,Individual,Credit Card
+2023-04-19,Books,Fiction Novel,2,154.13,308.27,12.2,Ivy Chen,West,Government,Cash
+2023-03-14,Toys,Doll,3,122.79,368.37,1.1,Henry Taylor,North,Business,Credit Card
+2023-02-19,Clothing,Jeans,2,12.41,24.83,27.1,Henry Taylor,Central,Individual,Credit Card
+2023-04-14,Electronics,Laptop,20,236.82,4736.38,6.6,Grace Lee,East,Government,Check
+2023-06-14,Books,Fiction Novel,19,408.22,7756.24,16.4,David Wilson,North,Government,Cash
+2023-03-28,Books,Fiction Novel,5,53.45,267.23,22.7,Frank Miller,Central,Individual,Check
+2023-11-20,Clothing,Shoes,4,22.84,91.35,23.7,Jack Anderson,West,Individual,Credit Card
+2023-12-28,Home & Garden,Furniture,6,9.47,56.81,27.8,Jack Anderson,East,Business,Check
+2023-07-30,Toys,Board Game,9,93.6,842.37,15.7,David Wilson,South,Government,Credit Card
+2023-11-18,Sports,Gym Equipment,20,258.39,5167.77,28.5,Eva Brown,East,Business,Credit Card
+2023-11-13,Sports,Gym Equipment,17,73.55,1250.3,29.3,Frank Miller,Central,Government,Cash
+2023-03-18,Home & Garden,Kitchenware,7,140.53,983.73,3.4,Henry Taylor,West,Individual,Cash
+2023-08-11,Toys,Action Figure,12,33.35,400.25,8.6,Eva Brown,East,Government,Check
+2023-01-15,Electronics,Laptop,18,353.13,6356.39,5.3,Henry Taylor,Central,Individual,Credit Card
+2024-01-18,Clothing,Jacket,11,262.66,2889.22,12.6,Frank Miller,South,Individual,Bank Transfer
+2023-07-12,Clothing,T-Shirt,14,93.26,1305.6,26.1,David Wilson,North,Business,Check
+2023-07-18,Electronics,Headphones,20,69.96,1399.24,13.6,Frank Miller,South,Business,Cash
+2023-01-17,Toys,Educational Toy,7,438.85,3071.92,10.1,Jack Anderson,North,Business,Cash
+2023-04-23,Electronics,Headphones,6,181.17,1087.0,22.8,Eva Brown,Central,Individual,Cash
+2023-09-25,Sports,Supplements,3,375.97,1127.92,12.4,Henry Taylor,South,Government,Check
+2023-05-07,Home & Garden,Bedding,14,13.33,186.6,22.1,David Wilson,East,Business,Cash
+2023-01-23,Sports,Gym Equipment,1,400.37,400.37,12.5,Alice Johnson,West,Government,Credit Card
+2023-05-04,Home & Garden,Plants,4,175.63,702.54,13.6,Bob Smith,Central,Individual,Check
+2023-02-16,Clothing,Jeans,8,149.55,1196.44,19.4,Alice Johnson,West,Government,Bank Transfer
+2023-08-21,Clothing,Jacket,19,427.23,8117.36,0.7,Henry Taylor,South,Government,Check
+2023-02-06,Clothing,Dress,1,235.28,235.28,25.8,Grace Lee,East,Government,Credit Card
+2023-04-17,Books,Biography,20,317.25,6345.08,16.3,Bob Smith,Central,Business,Credit Card
+2023-08-27,Sports,Sports Apparel,4,393.97,1575.89,11.5,Jack Anderson,North,Business,Bank Transfer
+2023-04-15,Clothing,Shoes,18,279.76,5035.7,21.3,Carol Davis,East,Individual,Credit Card
+2023-12-26,Toys,Puzzle,19,274.28,5211.26,26.1,David Wilson,South,Business,Bank Transfer
+2023-07-10,Books,Self-Help,9,337.7,3039.32,1.6,Frank Miller,West,Business,Credit Card
+2023-08-20,Home & Garden,Plants,18,249.99,4499.77,27.0,Jack Anderson,East,Government,Credit Card
+2023-05-28,Clothing,Jacket,13,38.56,501.32,26.9,Bob Smith,North,Individual,Bank Transfer
+2023-11-18,Electronics,Smartphone,7,213.65,1495.55,15.6,Alice Johnson,East,Business,Cash
+2023-02-02,Home & Garden,Bedding,1,196.99,196.99,8.7,Alice Johnson,South,Government,Bank Transfer
+2023-12-07,Home & Garden,Plants,11,152.01,1672.14,14.6,Ivy Chen,Central,Business,Check
+2023-05-14,Books,Self-Help,10,70.81,708.11,5.2,David Wilson,West,Business,Bank Transfer
+2023-11-13,Electronics,Smartphone,15,130.52,1957.87,28.7,Carol Davis,Central,Business,Cash
+2023-06-12,Clothing,Jeans,4,87.92,351.66,1.2,Jack Anderson,South,Business,Bank Transfer
+2023-06-26,Books,Textbook,2,88.46,176.92,20.0,Carol Davis,East,Business,Cash
+2023-09-13,Sports,Sports Apparel,1,61.09,61.09,12.1,Carol Davis,West,Business,Cash
+2023-06-01,Electronics,Camera,11,393.28,4326.07,19.4,Henry Taylor,East,Government,Cash
+2023-01-21,Sports,Outdoor Gear,4,137.33,549.34,21.9,Carol Davis,Central,Individual,Bank Transfer
+2023-02-17,Electronics,Headphones,8,270.76,2166.11,13.4,Frank Miller,North,Government,Cash
+2023-02-12,Sports,Supplements,9,111.87,1006.85,5.9,Ivy Chen,West,Government,Credit Card
+2023-09-19,Sports,Outdoor Gear,11,86.23,948.53,18.1,Alice Johnson,East,Business,Cash
+2023-06-26,Toys,Puzzle,12,190.42,2285.04,0.4,Frank Miller,East,Business,Credit Card
+2023-05-28,Clothing,Jacket,14,283.33,3966.65,24.1,Carol Davis,West,Government,Check
+2023-09-01,Clothing,Shoes,5,284.1,1420.51,6.2,Ivy Chen,East,Individual,Check
+2023-10-12,Electronics,Laptop,9,184.44,1659.98,12.4,Henry Taylor,Central,Individual,Cash
+2023-06-04,Clothing,Jacket,16,149.91,2398.61,1.3,Jack Anderson,East,Business,Check
+2023-11-24,Clothing,T-Shirt,5,366.36,1831.79,7.9,Henry Taylor,North,Government,Bank Transfer
+2024-01-27,Home & Garden,Kitchenware,8,248.88,1991.06,0.9,Eva Brown,West,Individual,Bank Transfer
+2023-09-01,Sports,Outdoor Gear,9,233.04,2097.33,18.8,Bob Smith,East,Government,Credit Card
+2023-12-21,Books,Textbook,5,266.72,1333.59,9.6,Carol Davis,East,Individual,Credit Card
+2023-05-30,Books,Cookbook,12,212.41,2548.94,1.5,Ivy Chen,North,Government,Cash
+2023-10-06,Toys,Board Game,20,297.84,5956.75,22.6,Frank Miller,East,Government,Bank Transfer
+2023-03-15,Books,Cookbook,19,50.95,968.05,10.5,Alice Johnson,South,Government,Bank Transfer
+2023-03-21,Books,Biography,6,205.37,1232.2,3.1,Ivy Chen,South,Individual,Credit Card
+2023-01-09,Home & Garden,Tools,4,346.14,1384.54,24.6,Henry Taylor,East,Business,Bank Transfer
+2023-06-25,Clothing,Jacket,20,375.98,7519.55,15.7,Carol Davis,East,Individual,Credit Card
+2023-06-07,Clothing,Jeans,5,341.11,1705.57,20.6,Carol Davis,South,Individual,Credit Card
+2023-01-22,Home & Garden,Furniture,16,37.16,594.63,22.7,David Wilson,North,Individual,Credit Card
+2023-12-08,Home & Garden,Furniture,2,446.13,892.27,2.0,Alice Johnson,North,Individual,Cash
+2023-03-16,Sports,Gym Equipment,12,99.66,1195.93,0.9,Eva Brown,Central,Business,Bank Transfer
+2023-10-19,Clothing,Shoes,20,364.11,7282.23,7.3,Bob Smith,North,Government,Credit Card
+2024-01-22,Sports,Gym Equipment,10,342.16,3421.58,5.2,Ivy Chen,North,Government,Credit Card
+2023-10-29,Clothing,Shoes,16,380.18,6082.83,11.0,Carol Davis,West,Government,Credit Card
+2023-04-27,Clothing,Dress,14,459.29,6430.0,6.4,Grace Lee,North,Business,Credit Card
+2023-12-27,Home & Garden,Furniture,16,204.14,3266.27,22.9,Eva Brown,Central,Government,Credit Card
+2023-11-04,Electronics,Tablet,13,230.49,2996.31,8.5,Eva Brown,West,Individual,Check
+2023-09-01,Books,Biography,3,74.99,224.97,26.8,Frank Miller,South,Individual,Check
+2023-02-13,Toys,Action Figure,17,163.87,2785.86,19.8,Bob Smith,South,Business,Check
+2023-04-12,Toys,Doll,6,479.52,2877.1,1.9,Frank Miller,South,Government,Check
+2024-01-01,Electronics,Smartphone,16,385.52,6168.38,8.4,Jack Anderson,Central,Business,Check
+2023-09-19,Books,Biography,13,236.93,3080.1,29.6,Eva Brown,South,Business,Credit Card
+2023-03-10,Electronics,Tablet,8,202.69,1621.53,18.9,Alice Johnson,North,Government,Credit Card
+2023-12-14,Electronics,Headphones,6,302.98,1817.9,11.5,Frank Miller,South,Business,Credit Card
+2023-12-05,Electronics,Camera,15,362.72,5440.8,6.1,Henry Taylor,West,Government,Bank Transfer
+2024-01-27,Sports,Sports Apparel,18,339.96,6119.31,16.4,Alice Johnson,West,Individual,Check
+2023-01-17,Home & Garden,Bedding,15,368.9,5533.52,13.8,Carol Davis,Central,Government,Bank Transfer
+2023-07-19,Toys,Board Game,5,227.31,1136.57,9.4,Henry Taylor,North,Government,Check
+2023-10-15,Toys,Doll,19,297.09,5644.7,14.1,Carol Davis,Central,Individual,Check
+2023-06-30,Books,Biography,13,244.16,3174.07,18.5,Eva Brown,East,Individual,Credit Card
+2024-01-15,Sports,Running Shoes,12,65.2,782.35,10.5,Jack Anderson,North,Government,Bank Transfer
+2023-01-29,Home & Garden,Furniture,12,192.63,2311.57,12.4,David Wilson,South,Individual,Bank Transfer
+2023-02-28,Sports,Running Shoes,3,337.2,1011.59,26.1,Frank Miller,South,Individual,Bank Transfer
+2023-08-04,Electronics,Headphones,14,275.68,3859.47,17.0,Eva Brown,North,Government,Check
+2023-06-15,Sports,Running Shoes,13,408.67,5312.65,17.1,Jack Anderson,North,Business,Credit Card
+2023-12-08,Toys,Board Game,17,132.11,2245.94,24.3,Frank Miller,South,Government,Bank Transfer
+2023-10-02,Books,Biography,3,81.42,244.25,25.2,David Wilson,East,Business,Credit Card
+2023-02-17,Books,Self-Help,8,168.21,1345.67,18.7,Jack Anderson,North,Government,Bank Transfer
+2023-04-18,Books,Fiction Novel,17,246.55,4191.36,14.3,Frank Miller,North,Government,Bank Transfer
+2023-08-01,Sports,Sports Apparel,18,201.24,3622.41,9.4,Grace Lee,East,Government,Check
+2023-09-22,Toys,Doll,1,79.94,79.94,18.8,Carol Davis,Central,Business,Cash
+2024-01-29,Toys,Puzzle,18,107.0,1926.01,24.3,Grace Lee,Central,Government,Credit Card
+2024-01-18,Sports,Gym Equipment,5,174.9,874.51,7.2,Eva Brown,West,Business,Bank Transfer
+2023-11-27,Electronics,Smartphone,9,319.62,2876.57,24.7,Carol Davis,East,Government,Cash
+2023-06-08,Home & Garden,Kitchenware,7,65.1,455.69,0.8,Henry Taylor,West,Government,Check
+2023-05-13,Home & Garden,Furniture,9,104.52,940.64,4.1,Eva Brown,Central,Individual,Credit Card
+2023-02-12,Toys,Puzzle,2,291.87,583.75,25.8,Frank Miller,Central,Business,Credit Card
+2024-01-06,Home & Garden,Bedding,3,298.74,896.22,11.9,Carol Davis,South,Individual,Credit Card
+2023-02-16,Sports,Supplements,17,439.43,7470.35,7.6,David Wilson,Central,Individual,Bank Transfer
+2023-04-22,Books,Self-Help,8,267.06,2136.45,28.1,Carol Davis,North,Individual,Cash
+2023-10-01,Books,Biography,19,206.58,3925.0,1.7,Frank Miller,North,Business,Check
+2024-01-02,Home & Garden,Kitchenware,5,429.53,2147.66,10.9,Frank Miller,East,Individual,Credit Card
+2023-07-16,Toys,Action Figure,8,321.99,2575.92,7.6,Eva Brown,East,Government,Credit Card
+2023-07-21,Sports,Gym Equipment,13,429.23,5580.01,0.2,Eva Brown,East,Individual,Cash
+2023-11-20,Books,Textbook,6,312.66,1875.95,27.5,Frank Miller,West,Individual,Bank Transfer
+2023-06-20,Electronics,Headphones,14,173.89,2434.53,27.8,Grace Lee,North,Individual,Bank Transfer
+2023-10-08,Sports,Running Shoes,20,142.5,2850.08,21.9,Frank Miller,West,Government,Credit Card
+2023-04-13,Electronics,Smartphone,5,318.48,1592.41,0.1,Eva Brown,East,Government,Credit Card
+2023-12-18,Electronics,Smartphone,5,98.69,493.44,25.4,Grace Lee,East,Business,Check
+2023-05-25,Toys,Board Game,19,103.57,1967.85,24.8,David Wilson,North,Business,Bank Transfer
+2023-01-12,Clothing,Jacket,19,409.84,7786.91,6.7,Ivy Chen,Central,Government,Cash
+2023-11-13,Electronics,Headphones,6,105.55,633.3,1.5,Grace Lee,Central,Business,Cash
+2024-01-03,Electronics,Tablet,19,90.07,1711.4,3.5,Ivy Chen,West,Business,Check
+2023-05-17,Electronics,Smartphone,7,257.57,1803.01,28.4,Eva Brown,West,Business,Cash
+2023-04-07,Home & Garden,Kitchenware,10,237.76,2377.56,21.8,Grace Lee,South,Business,Cash
+2023-05-08,Electronics,Tablet,8,397.82,3182.55,18.5,Frank Miller,Central,Government,Check
+2023-07-23,Electronics,Laptop,11,169.67,1866.35,29.2,David Wilson,West,Government,Check
+2023-01-27,Toys,Doll,4,112.9,451.6,16.7,Frank Miller,South,Business,Bank Transfer
+2023-09-16,Sports,Supplements,2,357.11,714.22,0.2,Jack Anderson,West,Business,Check
+2023-04-02,Toys,Educational Toy,18,73.87,1329.73,1.2,Eva Brown,South,Government,Check
+2023-08-10,Books,Biography,11,58.74,646.1,21.3,Carol Davis,East,Individual,Bank Transfer
+2023-08-09,Electronics,Smartphone,9,197.49,1777.42,22.4,Eva Brown,East,Government,Bank Transfer
+2023-09-09,Sports,Sports Apparel,6,202.37,1214.22,9.5,Carol Davis,Central,Government,Check
+2023-08-29,Electronics,Smartphone,8,78.27,626.19,5.5,Eva Brown,South,Government,Check
+2023-07-02,Home & Garden,Furniture,16,491.56,7864.94,1.2,Ivy Chen,West,Business,Check
+2023-05-26,Electronics,Smartphone,3,66.28,198.83,6.1,Carol Davis,South,Government,Bank Transfer
+2023-10-20,Sports,Supplements,1,96.07,96.07,15.8,Carol Davis,West,Individual,Cash
+2023-12-15,Home & Garden,Furniture,1,406.87,406.87,8.5,Bob Smith,West,Business,Credit Card
+2023-12-04,Books,Textbook,15,18.13,271.96,24.9,Henry Taylor,West,Government,Bank Transfer
+2023-08-20,Sports,Running Shoes,2,137.68,275.35,19.7,Frank Miller,Central,Individual,Cash
+2023-10-08,Electronics,Tablet,2,130.79,261.57,22.3,Jack Anderson,West,Individual,Check
+2023-04-17,Books,Textbook,13,124.22,1614.91,2.7,Carol Davis,West,Business,Bank Transfer
+2024-01-12,Toys,Board Game,16,52.49,839.83,24.0,Eva Brown,Central,Individual,Bank Transfer
+2023-08-17,Toys,Action Figure,17,392.66,6675.21,6.0,Grace Lee,West,Business,Check
+2023-11-19,Electronics,Headphones,20,384.61,7692.23,5.6,Grace Lee,North,Individual,Bank Transfer
+2023-09-27,Home & Garden,Kitchenware,5,235.94,1179.69,27.9,Ivy Chen,North,Business,Check
+2023-03-07,Home & Garden,Furniture,16,413.57,6617.12,9.0,Eva Brown,South,Government,Check
+2023-09-20,Books,Self-Help,3,24.2,72.6,27.5,Bob Smith,Central,Business,Check
+2023-07-01,Electronics,Headphones,19,252.42,4795.94,24.4,Eva Brown,Central,Individual,Credit Card
+2023-01-24,Electronics,Headphones,6,73.2,439.22,25.3,Bob Smith,West,Government,Bank Transfer
+2023-05-16,Books,Self-Help,15,296.54,4448.03,18.7,Frank Miller,South,Individual,Cash
+2023-01-10,Electronics,Camera,4,119.23,476.91,13.0,Alice Johnson,West,Individual,Credit Card
+2024-01-17,Clothing,Jacket,13,174.11,2263.38,26.1,Jack Anderson,West,Business,Bank Transfer
+2023-01-08,Toys,Puzzle,3,389.1,1167.31,3.8,David Wilson,North,Individual,Cash
+2023-08-12,Electronics,Smartphone,5,197.85,989.23,19.5,Ivy Chen,South,Individual,Bank Transfer
+2023-03-20,Home & Garden,Kitchenware,1,233.79,233.79,3.5,Henry Taylor,West,Business,Credit Card
+2023-07-20,Home & Garden,Plants,10,106.87,1068.71,17.1,Alice Johnson,East,Individual,Credit Card
+2023-11-02,Toys,Puzzle,16,381.61,6105.75,22.1,Ivy Chen,East,Individual,Check
+2023-09-07,Home & Garden,Tools,20,188.16,3763.18,28.1,David Wilson,North,Government,Credit Card
+2023-11-28,Home & Garden,Plants,3,151.53,454.58,8.0,Grace Lee,West,Individual,Check
+2023-05-28,Sports,Sports Apparel,14,228.25,3195.44,0.6,David Wilson,West,Business,Check
+2024-01-02,Clothing,Shoes,11,85.12,936.32,27.7,Henry Taylor,South,Business,Check
+2023-05-25,Home & Garden,Bedding,6,325.4,1952.4,18.7,Bob Smith,West,Individual,Cash
+2023-09-10,Clothing,Jeans,4,233.78,935.12,23.8,Eva Brown,South,Individual,Credit Card
+2023-03-31,Electronics,Tablet,12,351.96,4223.47,20.3,Ivy Chen,North,Individual,Bank Transfer
+2023-09-07,Home & Garden,Furniture,4,259.9,1039.61,16.9,Eva Brown,East,Business,Credit Card
+2023-02-23,Sports,Sports Apparel,17,367.76,6251.96,18.1,Alice Johnson,West,Business,Credit Card
+2023-01-22,Electronics,Camera,4,232.45,929.8,24.7,Ivy Chen,North,Individual,Credit Card
+2024-01-26,Clothing,Dress,10,68.47,684.74,21.2,Ivy Chen,West,Government,Credit Card
+2023-04-14,Clothing,Dress,5,167.54,837.7,3.7,Henry Taylor,West,Individual,Cash
+2023-07-10,Home & Garden,Bedding,6,146.66,879.98,2.6,Grace Lee,East,Government,Cash
+2023-08-08,Clothing,Shoes,8,207.68,1661.4,4.1,Grace Lee,West,Business,Bank Transfer
+2023-09-22,Electronics,Headphones,1,63.83,63.83,21.5,Bob Smith,North,Business,Bank Transfer
+2023-12-05,Home & Garden,Kitchenware,13,171.97,2235.67,22.8,Carol Davis,Central,Individual,Bank Transfer
+2024-01-05,Home & Garden,Tools,18,327.67,5898.03,26.2,Frank Miller,East,Individual,Bank Transfer
+2023-04-16,Sports,Supplements,13,399.31,5191.03,13.4,Ivy Chen,Central,Government,Check
+2023-06-04,Toys,Educational Toy,13,341.45,4438.9,23.3,Bob Smith,North,Government,Bank Transfer
+2023-02-17,Home & Garden,Kitchenware,18,242.46,4364.2,8.5,Ivy Chen,Central,Business,Bank Transfer
+2023-05-04,Toys,Board Game,18,17.66,317.86,17.8,Eva Brown,West,Government,Credit Card
+2023-07-01,Toys,Action Figure,9,342.93,3086.35,18.8,Bob Smith,North,Government,Credit Card
+2023-05-01,Home & Garden,Bedding,1,251.0,251.0,13.6,Jack Anderson,Central,Government,Cash
+2024-01-01,Books,Cookbook,19,119.28,2266.31,20.2,Grace Lee,Central,Government,Cash
+2023-07-04,Electronics,Tablet,7,198.12,1386.87,24.7,Henry Taylor,North,Individual,Check
+2023-09-01,Home & Garden,Furniture,14,40.49,566.83,26.7,David Wilson,West,Individual,Bank Transfer
+2023-07-22,Toys,Doll,18,175.07,3151.23,15.6,Eva Brown,Central,Business,Check
+2023-03-15,Home & Garden,Tools,14,277.46,3884.42,24.7,Ivy Chen,South,Business,Check
+2023-08-22,Clothing,Shoes,4,342.79,1371.16,20.8,Henry Taylor,North,Government,Cash
+2023-07-29,Sports,Sports Apparel,4,378.32,1513.27,18.0,Bob Smith,North,Business,Bank Transfer
+2023-07-11,Electronics,Camera,12,77.33,927.99,9.1,Eva Brown,East,Business,Credit Card
+2023-06-06,Clothing,Jeans,14,388.31,5436.3,1.5,Eva Brown,South,Individual,Check
+2023-08-02,Electronics,Laptop,3,205.62,616.87,26.1,Henry Taylor,Central,Business,Check
+2023-03-12,Books,Biography,20,233.19,4663.7,4.0,Ivy Chen,West,Business,Check
+2023-07-29,Clothing,Dress,20,43.05,860.93,19.9,Grace Lee,South,Business,Bank Transfer
+2023-11-27,Sports,Running Shoes,15,373.61,5604.1,22.1,Bob Smith,South,Government,Credit Card
+2023-02-13,Sports,Sports Apparel,4,229.87,919.5,19.3,David Wilson,Central,Government,Credit Card
+2023-01-10,Sports,Supplements,16,87.3,1396.83,15.1,Bob Smith,Central,Individual,Credit Card
+2023-10-01,Books,Textbook,19,112.84,2143.96,13.3,Jack Anderson,East,Business,Credit Card
+2023-09-28,Home & Garden,Furniture,6,154.6,927.59,12.4,Frank Miller,West,Business,Credit Card
+2023-05-11,Electronics,Laptop,10,263.57,2635.69,4.3,Bob Smith,South,Business,Check
+2024-01-01,Toys,Board Game,11,36.75,404.27,5.4,Alice Johnson,East,Business,Credit Card
+2023-03-03,Books,Textbook,11,195.86,2154.42,7.7,Alice Johnson,South,Individual,Cash
+2023-05-18,Home & Garden,Plants,13,270.82,3520.7,28.5,Alice Johnson,East,Business,Check
+2023-01-10,Electronics,Headphones,8,17.54,140.32,27.4,Eva Brown,Central,Government,Credit Card
+2023-07-28,Clothing,Shoes,5,299.17,1495.85,9.1,Henry Taylor,North,Government,Cash
+2023-10-03,Clothing,Dress,6,210.34,1262.05,23.5,Grace Lee,Central,Business,Credit Card
+2023-03-27,Electronics,Headphones,20,439.21,8784.24,8.7,Alice Johnson,North,Business,Bank Transfer
+2023-11-20,Sports,Sports Apparel,13,295.04,3835.52,30.0,David Wilson,Central,Government,Bank Transfer
+2023-02-15,Electronics,Smartphone,19,364.39,6923.42,2.1,Grace Lee,North,Individual,Bank Transfer
+2023-06-25,Home & Garden,Kitchenware,11,227.15,2498.61,26.5,Eva Brown,West,Business,Cash
+2023-06-18,Toys,Educational Toy,15,126.36,1895.42,28.8,Alice Johnson,South,Government,Credit Card
+2023-07-31,Sports,Outdoor Gear,1,9.66,9.66,20.2,Ivy Chen,West,Business,Credit Card
+2023-06-30,Toys,Action Figure,15,218.69,3280.38,20.2,Grace Lee,Central,Business,Check
+2023-08-16,Clothing,T-Shirt,12,51.15,613.85,28.1,Alice Johnson,South,Government,Credit Card
+2024-01-03,Books,Cookbook,20,84.36,1687.26,18.8,David Wilson,South,Business,Bank Transfer
+2023-04-11,Electronics,Tablet,20,235.72,4714.31,6.3,Grace Lee,North,Business,Check
+2023-11-05,Clothing,Shoes,19,83.78,1591.91,20.2,Jack Anderson,South,Individual,Cash
+2023-09-25,Toys,Action Figure,19,53.85,1023.14,25.7,Eva Brown,South,Government,Credit Card
+2023-01-02,Toys,Doll,18,228.67,4116.03,26.5,Grace Lee,North,Business,Check
+2023-07-05,Home & Garden,Bedding,17,59.89,1018.19,14.0,Ivy Chen,North,Government,Cash
+2023-01-03,Electronics,Tablet,18,398.07,7165.21,13.5,Grace Lee,South,Business,Credit Card
+2023-08-05,Sports,Running Shoes,8,349.92,2799.32,29.3,Bob Smith,South,Individual,Cash
+2023-08-10,Books,Cookbook,4,40.45,161.81,0.8,Alice Johnson,Central,Government,Bank Transfer
+2023-01-28,Books,Textbook,8,44.77,358.13,28.8,Frank Miller,Central,Individual,Credit Card
+2023-10-24,Sports,Supplements,4,182.69,730.76,18.8,Bob Smith,North,Individual,Credit Card
+2023-02-01,Home & Garden,Bedding,3,341.39,1024.17,23.5,Henry Taylor,North,Business,Check
+2023-07-15,Electronics,Laptop,18,336.65,6059.71,1.6,Grace Lee,North,Government,Check
+2023-07-16,Clothing,Shoes,20,394.6,7892.06,0.3,Henry Taylor,West,Government,Credit Card
+2023-02-25,Books,Fiction Novel,11,191.5,2106.48,17.6,Bob Smith,North,Government,Credit Card
+2023-05-12,Sports,Gym Equipment,5,366.5,1832.48,19.1,Frank Miller,West,Business,Check
+2023-06-09,Clothing,Jeans,2,76.05,152.11,1.8,Jack Anderson,West,Government,Bank Transfer
+2023-06-08,Books,Self-Help,5,424.13,2120.67,4.4,Jack Anderson,East,Business,Bank Transfer
+2023-09-17,Electronics,Camera,5,292.24,1461.21,1.7,Ivy Chen,North,Business,Bank Transfer
+2023-06-24,Clothing,Jeans,7,247.57,1733.02,23.6,David Wilson,West,Government,Check
+2023-11-12,Sports,Sports Apparel,19,303.98,5775.54,28.9,Eva Brown,West,Business,Cash
+2023-01-02,Electronics,Headphones,2,373.93,747.87,14.9,David Wilson,South,Business,Cash
+2023-07-12,Clothing,Jacket,11,280.35,3083.88,24.2,David Wilson,West,Individual,Credit Card
+2023-03-14,Books,Fiction Novel,1,38.45,38.45,16.6,Eva Brown,West,Individual,Bank Transfer
+2023-05-15,Electronics,Laptop,10,101.95,1019.5,5.2,Carol Davis,East,Government,Cash
+2023-01-11,Clothing,Jeans,9,14.92,134.3,27.3,Carol Davis,West,Government,Credit Card
+2023-07-10,Books,Textbook,8,141.8,1134.4,11.1,Carol Davis,Central,Government,Check
+2023-04-09,Toys,Action Figure,5,51.83,259.16,23.8,Ivy Chen,West,Government,Bank Transfer
+2024-01-26,Books,Self-Help,8,159.56,1276.45,27.6,Jack Anderson,Central,Individual,Bank Transfer
+2023-09-18,Clothing,Dress,9,96.78,871.03,26.2,Jack Anderson,West,Individual,Credit Card
+2023-11-27,Home & Garden,Plants,17,36.92,627.68,11.6,Ivy Chen,East,Business,Check
+2024-01-02,Clothing,Dress,17,284.3,4833.02,20.8,Henry Taylor,West,Business,Check
+2023-04-14,Toys,Doll,7,306.75,2147.22,6.6,Henry Taylor,South,Business,Cash
+2023-07-11,Books,Biography,19,424.46,8064.7,4.7,Eva Brown,Central,Individual,Cash
+2023-01-22,Electronics,Tablet,12,212.08,2544.92,6.9,Henry Taylor,Central,Government,Bank Transfer
+2023-09-12,Home & Garden,Tools,14,212.74,2978.34,11.0,Frank Miller,East,Business,Credit Card
+2023-02-12,Clothing,Jacket,3,111.14,333.42,10.8,Eva Brown,Central,Government,Credit Card
+2023-10-07,Books,Textbook,3,51.93,155.79,10.8,David Wilson,East,Individual,Bank Transfer
+2023-11-06,Books,Cookbook,9,353.7,3183.28,5.7,Carol Davis,Central,Business,Credit Card
+2023-10-24,Books,Cookbook,13,295.76,3844.94,28.4,Alice Johnson,West,Government,Cash
+2023-09-22,Home & Garden,Kitchenware,7,103.94,727.61,14.2,Jack Anderson,Central,Business,Check
+2023-12-24,Books,Fiction Novel,7,142.39,996.7,12.9,Grace Lee,South,Business,Check
+2023-06-06,Sports,Running Shoes,19,142.85,2714.24,26.2,Alice Johnson,West,Government,Bank Transfer
+2023-12-20,Books,Textbook,13,166.09,2159.19,22.9,Ivy Chen,East,Business,Credit Card
+2023-06-19,Sports,Running Shoes,5,326.45,1632.24,29.3,Jack Anderson,Central,Government,Check
+2023-04-07,Home & Garden,Kitchenware,3,398.72,1196.15,16.0,Henry Taylor,North,Business,Check
+2023-04-01,Toys,Educational Toy,4,44.41,177.65,20.2,Alice Johnson,Central,Business,Credit Card
+2023-04-30,Clothing,Jeans,13,40.3,523.9,8.5,Eva Brown,Central,Individual,Check
+2023-07-30,Electronics,Tablet,6,238.19,1429.15,9.8,Grace Lee,South,Individual,Cash
+2023-04-16,Sports,Outdoor Gear,3,215.83,647.49,11.7,Carol Davis,South,Business,Check
+2023-10-28,Toys,Puzzle,19,63.06,1198.23,28.2,David Wilson,Central,Government,Check
+2023-07-24,Books,Textbook,5,11.82,59.11,13.4,Jack Anderson,South,Government,Bank Transfer
+2023-02-16,Sports,Outdoor Gear,19,232.74,4422.04,1.2,Eva Brown,West,Business,Bank Transfer
+2023-04-02,Home & Garden,Plants,6,362.0,2171.97,12.5,Jack Anderson,West,Business,Check
+2023-01-23,Toys,Board Game,4,310.68,1242.74,11.8,David Wilson,South,Business,Bank Transfer
+2023-07-30,Toys,Action Figure,7,256.07,1792.47,27.3,Ivy Chen,North,Business,Credit Card
+2023-03-26,Electronics,Camera,11,338.16,3719.8,12.3,Eva Brown,South,Government,Credit Card
+2024-01-17,Home & Garden,Furniture,15,40.62,609.32,11.4,Grace Lee,South,Business,Credit Card
+2024-01-19,Electronics,Tablet,5,59.7,298.49,9.8,Henry Taylor,West,Business,Credit Card
+2023-05-23,Electronics,Camera,15,317.97,4769.61,4.2,Carol Davis,South,Individual,Credit Card
+2023-12-10,Clothing,Dress,13,67.25,874.31,5.1,Alice Johnson,East,Individual,Check
+2023-09-30,Books,Textbook,2,85.06,170.12,26.8,David Wilson,West,Government,Credit Card
+2023-06-07,Toys,Doll,4,286.12,1144.47,11.7,Henry Taylor,North,Government,Credit Card
+2023-05-03,Electronics,Headphones,8,342.51,2740.12,11.2,David Wilson,North,Individual,Check
+2023-02-02,Electronics,Laptop,7,139.45,976.16,20.4,David Wilson,North,Government,Cash
+2023-06-17,Toys,Board Game,17,30.55,519.29,3.2,Frank Miller,Central,Government,Cash
+2023-03-03,Sports,Gym Equipment,13,336.05,4368.6,28.2,David Wilson,South,Individual,Bank Transfer
+2023-04-19,Books,Textbook,11,17.28,190.13,0.4,Henry Taylor,South,Individual,Bank Transfer
+2023-07-30,Toys,Doll,3,140.12,420.35,26.6,Eva Brown,Central,Business,Credit Card
+2023-02-18,Toys,Doll,19,377.26,7167.93,5.1,Jack Anderson,East,Government,Check
+2023-12-08,Toys,Board Game,11,122.03,1342.34,29.3,Henry Taylor,North,Business,Credit Card
+2023-04-30,Sports,Supplements,17,185.77,3158.13,19.2,Ivy Chen,Central,Government,Credit Card
+2024-01-13,Clothing,T-Shirt,4,283.1,1132.41,9.3,Grace Lee,South,Government,Credit Card
+2023-07-12,Electronics,Smartphone,10,181.79,1817.89,6.1,David Wilson,North,Individual,Check
+2024-01-25,Toys,Educational Toy,11,61.16,672.73,19.3,Alice Johnson,Central,Business,Bank Transfer
+2023-04-16,Electronics,Smartphone,11,381.3,4194.3,10.3,Ivy Chen,North,Government,Cash
+2023-04-04,Toys,Board Game,13,259.77,3377.07,15.6,Henry Taylor,North,Individual,Check
+2023-03-06,Electronics,Smartphone,5,25.53,127.65,28.1,Bob Smith,South,Government,Cash
+2024-01-05,Clothing,Shoes,15,43.79,656.81,9.3,David Wilson,South,Business,Cash
+2023-11-22,Sports,Gym Equipment,19,137.2,2606.83,13.4,David Wilson,East,Business,Credit Card
+2023-09-16,Books,Biography,16,169.25,2708.0,13.2,Jack Anderson,West,Individual,Check
+2023-06-03,Electronics,Headphones,3,169.47,508.41,22.8,Jack Anderson,Central,Individual,Cash
+2023-10-15,Books,Biography,15,217.04,3255.54,8.5,Jack Anderson,West,Individual,Bank Transfer
+2023-09-14,Clothing,Jacket,7,105.77,740.38,0.1,Frank Miller,West,Business,Check
+2023-10-29,Home & Garden,Bedding,10,160.07,1600.66,19.2,Bob Smith,West,Individual,Credit Card
+2024-01-30,Home & Garden,Plants,14,63.84,893.8,28.7,Frank Miller,Central,Government,Check
+2024-01-12,Toys,Educational Toy,13,253.63,3297.16,27.8,David Wilson,South,Business,Credit Card
+2023-08-22,Books,Fiction Novel,5,324.18,1620.92,7.8,Carol Davis,East,Individual,Cash
+2023-10-28,Electronics,Laptop,13,341.51,4439.69,11.9,Bob Smith,Central,Individual,Check
+2023-09-30,Clothing,Jacket,10,113.79,1137.95,15.0,Grace Lee,Central,Business,Check
+2023-06-26,Toys,Action Figure,19,48.74,926.02,23.3,Carol Davis,East,Government,Cash
+2023-09-09,Toys,Puzzle,1,248.13,248.13,29.6,Alice Johnson,North,Individual,Check
+2023-07-11,Sports,Outdoor Gear,14,313.79,4393.0,5.1,Carol Davis,South,Individual,Check
+2023-04-19,Clothing,Shoes,15,393.99,5909.81,17.0,Carol Davis,South,Individual,Cash
+2023-11-16,Clothing,Dress,14,426.64,5972.95,13.2,Bob Smith,South,Individual,Bank Transfer
+2023-10-27,Electronics,Headphones,3,63.8,191.39,10.3,David Wilson,West,Business,Credit Card
+2023-01-22,Electronics,Laptop,1,112.36,112.36,20.0,Bob Smith,South,Government,Credit Card
+2023-08-31,Home & Garden,Plants,9,190.78,1717.0,28.0,Frank Miller,Central,Business,Bank Transfer
+2023-12-07,Books,Cookbook,8,358.66,2869.25,28.2,Grace Lee,West,Government,Credit Card
+2023-12-24,Books,Cookbook,1,349.55,349.55,13.7,Grace Lee,South,Individual,Credit Card
+2023-11-13,Sports,Sports Apparel,8,423.41,3387.25,11.1,Henry Taylor,Central,Business,Cash
+2024-01-12,Electronics,Tablet,12,13.39,160.72,26.2,Frank Miller,West,Individual,Check
+2023-09-01,Home & Garden,Plants,12,347.81,4173.77,12.8,Bob Smith,West,Business,Cash
+2024-01-02,Toys,Board Game,19,333.52,6336.81,23.5,Ivy Chen,North,Individual,Check
+2023-08-28,Electronics,Tablet,18,294.1,5293.79,29.6,Carol Davis,West,Individual,Check
+2023-12-04,Toys,Doll,7,121.5,850.47,5.1,Bob Smith,North,Business,Credit Card
+2023-05-12,Clothing,Dress,9,422.4,3801.56,6.6,Henry Taylor,North,Government,Cash
+2023-10-22,Sports,Outdoor Gear,11,40.11,441.19,26.2,Jack Anderson,North,Government,Bank Transfer
+2023-08-12,Home & Garden,Tools,18,234.64,4223.52,29.0,David Wilson,South,Business,Credit Card
+2023-04-07,Books,Fiction Novel,11,50.23,552.53,22.2,Bob Smith,Central,Business,Cash
+2023-10-30,Books,Biography,1,265.4,265.4,9.3,Ivy Chen,South,Business,Check
+2023-11-05,Books,Cookbook,5,338.29,1691.46,15.6,Jack Anderson,South,Individual,Check
+2023-06-01,Electronics,Camera,11,409.09,4500.02,4.3,David Wilson,West,Government,Check
+2023-06-08,Clothing,Shoes,2,122.12,244.23,18.0,Ivy Chen,North,Business,Check
+2023-06-20,Toys,Board Game,13,248.11,3225.38,1.8,Carol Davis,South,Government,Cash
+2024-01-08,Toys,Action Figure,6,343.51,2061.05,25.7,Grace Lee,East,Government,Cash
+2023-06-28,Electronics,Camera,14,161.09,2255.32,20.3,Grace Lee,West,Individual,Bank Transfer
+2023-03-09,Books,Textbook,18,311.78,5612.01,11.8,Frank Miller,Central,Individual,Bank Transfer
+2023-05-30,Home & Garden,Kitchenware,15,231.67,3475.09,20.9,Carol Davis,South,Individual,Cash

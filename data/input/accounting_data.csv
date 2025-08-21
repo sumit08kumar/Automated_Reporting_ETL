@@ -1,0 +1,301 @@
+Transaction_ID,Date,Account_Type,Category,Description,Amount,Reference,Department,Approved_By
+TXN_000001,2023-09-28,Expense,Salaries,Salaries transaction 1,-7250.27,REF_8059,Marketing,Manager A
+TXN_000002,2023-05-09,Asset,Asset,Asset transaction 2,18430.95,REF_2346,HR,Manager A
+TXN_000003,2023-11-20,Liability,Liability,Liability transaction 3,-8334.99,REF_7387,Marketing,Manager C
+TXN_000004,2023-01-22,Asset,Asset,Asset transaction 4,10306.32,REF_4057,HR,Manager B
+TXN_000005,2023-12-16,Asset,Asset,Asset transaction 5,-6402.77,REF_4063,Operations,Manager B
+TXN_000006,2023-06-07,Revenue,Product Sales,Product Sales transaction 6,23756.69,REF_7736,Operations,Manager C
+TXN_000007,2023-09-29,Equity,Equity,Equity transaction 7,3028.38,REF_9277,Sales,Manager B
+TXN_000008,2023-12-24,Revenue,Interest Income,Interest Income transaction 8,12451.45,REF_9207,Finance,Manager B
+TXN_000009,2023-03-10,Asset,Asset,Asset transaction 9,-6737.95,REF_8629,Finance,Manager A
+TXN_000010,2023-12-18,Asset,Asset,Asset transaction 10,-18498.36,REF_1942,Operations,Manager B
+TXN_000011,2024-01-27,Expense,Operations,Operations transaction 11,-2168.48,REF_6817,Marketing,CEO
+TXN_000012,2023-12-29,Asset,Asset,Asset transaction 12,3484.86,REF_3001,HR,Manager B
+TXN_000013,2023-02-18,Expense,Equipment,Equipment transaction 13,-1111.54,REF_8450,Finance,CFO
+TXN_000014,2023-04-12,Revenue,Product Sales,Product Sales transaction 14,30519.6,REF_4950,Finance,Manager A
+TXN_000015,2023-07-27,Expense,Rent,Rent transaction 15,-2246.14,REF_6292,Marketing,Manager A
+TXN_000016,2024-01-06,Liability,Liability,Liability transaction 16,14192.54,REF_2258,Sales,CEO
+TXN_000017,2023-06-17,Equity,Equity,Equity transaction 17,-133.34,REF_7378,Sales,CFO
+TXN_000018,2023-10-10,Equity,Equity,Equity transaction 18,14335.14,REF_9592,Sales,Manager A
+TXN_000019,2023-01-16,Expense,Operations,Operations transaction 19,-8221.45,REF_2748,Operations,CFO
+TXN_000020,2023-09-26,Revenue,Service Revenue,Service Revenue transaction 20,41961.04,REF_1214,Marketing,CFO
+TXN_000021,2023-12-26,Asset,Asset,Asset transaction 21,-1109.08,REF_9148,Operations,Manager C
+TXN_000022,2024-01-07,Equity,Equity,Equity transaction 22,-15211.96,REF_7807,Sales,CEO
+TXN_000023,2023-06-27,Expense,Rent,Rent transaction 23,-3742.26,REF_3194,Sales,Manager A
+TXN_000024,2023-03-05,Asset,Asset,Asset transaction 24,4147.66,REF_9617,IT,CEO
+TXN_000025,2023-05-30,Asset,Asset,Asset transaction 25,-15645.75,REF_4700,Marketing,CFO
+TXN_000026,2023-01-14,Equity,Equity,Equity transaction 26,-906.12,REF_3282,HR,Manager B
+TXN_000027,2023-04-21,Expense,Equipment,Equipment transaction 27,-7257.25,REF_9287,Marketing,Manager A
+TXN_000028,2023-06-22,Expense,Rent,Rent transaction 28,-2822.69,REF_7852,Sales,Manager A
+TXN_000029,2023-12-23,Asset,Asset,Asset transaction 29,17351.12,REF_5816,Marketing,CEO
+TXN_000030,2024-01-18,Equity,Equity,Equity transaction 30,-3710.08,REF_1702,Operations,Manager A
+TXN_000031,2023-07-22,Asset,Asset,Asset transaction 31,-10494.05,REF_8023,HR,Manager A
+TXN_000032,2023-03-01,Equity,Equity,Equity transaction 32,7747.45,REF_3110,HR,Manager A
+TXN_000033,2023-01-29,Revenue,Service Revenue,Service Revenue transaction 33,43804.04,REF_9523,Marketing,Manager C
+TXN_000034,2023-11-08,Liability,Liability,Liability transaction 34,-4086.79,REF_2448,Sales,CFO
+TXN_000035,2023-06-14,Expense,Travel,Travel transaction 35,-4610.72,REF_4487,Sales,Manager B
+TXN_000036,2023-07-02,Expense,Salaries,Salaries transaction 36,-8985.19,REF_1852,HR,CEO
+TXN_000037,2023-10-20,Equity,Equity,Equity transaction 37,-12663.84,REF_2782,HR,CFO
+TXN_000038,2023-11-26,Liability,Liability,Liability transaction 38,10522.08,REF_3336,Finance,Manager B
+TXN_000039,2023-05-29,Equity,Equity,Equity transaction 39,13255.66,REF_1660,Sales,Manager B
+TXN_000040,2023-01-03,Asset,Asset,Asset transaction 40,15854.42,REF_9647,HR,Manager B
+TXN_000041,2023-09-02,Asset,Asset,Asset transaction 41,-8062.39,REF_9660,Marketing,CFO
+TXN_000042,2023-07-11,Revenue,Service Revenue,Service Revenue transaction 42,12070.5,REF_3033,Sales,Manager A
+TXN_000043,2023-12-22,Asset,Asset,Asset transaction 43,-1938.64,REF_1295,Finance,Manager A
+TXN_000044,2023-10-17,Equity,Equity,Equity transaction 44,-5270.29,REF_2062,Operations,Manager C
+TXN_000045,2023-01-09,Equity,Equity,Equity transaction 45,-12728.88,REF_8423,Operations,CEO
+TXN_000046,2023-12-28,Expense,Rent,Rent transaction 46,-7586.57,REF_7893,Finance,CEO
+TXN_000047,2023-12-03,Liability,Liability,Liability transaction 47,14783.2,REF_5856,Finance,CEO
+TXN_000048,2023-12-13,Equity,Equity,Equity transaction 48,9840.76,REF_8474,Sales,CEO
+TXN_000049,2023-07-07,Asset,Asset,Asset transaction 49,-14192.76,REF_7293,IT,CEO
+TXN_000050,2023-02-22,Expense,Operations,Operations transaction 50,-3370.5,REF_5823,Sales,CEO
+TXN_000051,2023-04-10,Asset,Asset,Asset transaction 51,2779.26,REF_3869,Marketing,Manager A
+TXN_000052,2023-04-25,Expense,Equipment,Equipment transaction 52,-7825.32,REF_5823,Marketing,CFO
+TXN_000053,2023-01-29,Liability,Liability,Liability transaction 53,2556.61,REF_7681,Finance,Manager A
+TXN_000054,2023-07-23,Equity,Equity,Equity transaction 54,-1080.9,REF_2928,HR,CFO
+TXN_000055,2023-04-21,Revenue,Other Income,Other Income transaction 55,9108.77,REF_6070,Finance,Manager B
+TXN_000056,2023-06-16,Equity,Equity,Equity transaction 56,4269.24,REF_6927,IT,Manager B
+TXN_000057,2023-10-15,Equity,Equity,Equity transaction 57,-14459.08,REF_1286,Operations,Manager A
+TXN_000058,2023-12-06,Asset,Asset,Asset transaction 58,18400.82,REF_2930,Marketing,CEO
+TXN_000059,2023-01-16,Equity,Equity,Equity transaction 59,-2634.07,REF_9998,Marketing,CFO
+TXN_000060,2023-10-06,Equity,Equity,Equity transaction 60,10524.21,REF_3402,HR,Manager C
+TXN_000061,2023-06-26,Revenue,Other Income,Other Income transaction 61,28859.21,REF_7667,IT,Manager A
+TXN_000062,2023-08-07,Expense,Marketing,Marketing transaction 62,-5661.76,REF_2609,IT,Manager B
+TXN_000063,2023-10-20,Expense,Equipment,Equipment transaction 63,-5332.2,REF_6518,Sales,Manager C
+TXN_000064,2023-10-05,Expense,Equipment,Equipment transaction 64,-2743.77,REF_3440,Marketing,CEO
+TXN_000065,2023-05-20,Asset,Asset,Asset transaction 65,13990.54,REF_1664,Sales,Manager B
+TXN_000066,2023-01-01,Liability,Liability,Liability transaction 66,10093.31,REF_1106,IT,CEO
+TXN_000067,2023-07-19,Liability,Liability,Liability transaction 67,4015.7,REF_2025,Sales,Manager A
+TXN_000068,2023-02-08,Liability,Liability,Liability transaction 68,155.97,REF_2330,IT,Manager B
+TXN_000069,2023-01-14,Equity,Equity,Equity transaction 69,-6606.36,REF_1785,Sales,CFO
+TXN_000070,2023-11-28,Equity,Equity,Equity transaction 70,-17760.55,REF_5575,Sales,Manager C
+TXN_000071,2024-01-13,Equity,Equity,Equity transaction 71,-17073.49,REF_6265,Sales,CFO
+TXN_000072,2023-11-19,Liability,Liability,Liability transaction 72,10946.17,REF_9549,Marketing,CEO
+TXN_000073,2023-11-18,Liability,Liability,Liability transaction 73,5682.93,REF_3353,Sales,Manager C
+TXN_000074,2023-01-09,Expense,Travel,Travel transaction 74,-2870.02,REF_9114,HR,CFO
+TXN_000075,2023-03-25,Equity,Equity,Equity transaction 75,-8739.96,REF_1953,IT,CFO
+TXN_000076,2023-07-30,Expense,Travel,Travel transaction 76,-4091.87,REF_3130,Finance,Manager B
+TXN_000077,2023-02-17,Asset,Asset,Asset transaction 77,-19221.5,REF_9062,IT,CFO
+TXN_000078,2023-03-24,Liability,Liability,Liability transaction 78,16923.6,REF_2094,Operations,Manager A
+TXN_000079,2023-12-12,Liability,Liability,Liability transaction 79,17462.98,REF_9741,Operations,Manager A
+TXN_000080,2023-04-29,Expense,Operations,Operations transaction 80,-2106.4,REF_2461,Marketing,Manager C
+TXN_000081,2023-03-29,Asset,Asset,Asset transaction 81,8596.76,REF_4319,Operations,CFO
+TXN_000082,2023-02-10,Revenue,Other Income,Other Income transaction 82,27461.93,REF_8606,Sales,Manager B
+TXN_000083,2023-11-05,Expense,Travel,Travel transaction 83,-1106.4,REF_3676,Sales,CFO
+TXN_000084,2023-05-02,Revenue,Service Revenue,Service Revenue transaction 84,37641.72,REF_9409,IT,Manager C
+TXN_000085,2023-10-21,Expense,Rent,Rent transaction 85,-5007.91,REF_6651,HR,Manager A
+TXN_000086,2023-12-08,Expense,Operations,Operations transaction 86,-4530.14,REF_9932,Operations,Manager C
+TXN_000087,2024-01-07,Asset,Asset,Asset transaction 87,3702.2,REF_3763,Finance,Manager C
+TXN_000088,2023-05-31,Revenue,Service Revenue,Service Revenue transaction 88,43274.08,REF_9360,Sales,Manager A
+TXN_000089,2023-01-28,Liability,Liability,Liability transaction 89,-8984.33,REF_4874,HR,Manager B
+TXN_000090,2023-07-23,Asset,Asset,Asset transaction 90,13280.02,REF_8707,Finance,Manager A
+TXN_000091,2023-09-13,Expense,Rent,Rent transaction 91,-7435.07,REF_9411,Marketing,Manager B
+TXN_000092,2023-11-24,Revenue,Product Sales,Product Sales transaction 92,41780.91,REF_2511,HR,CEO
+TXN_000093,2023-02-22,Equity,Equity,Equity transaction 93,13092.91,REF_4168,Operations,CEO
+TXN_000094,2023-10-07,Liability,Liability,Liability transaction 94,-13135.22,REF_6572,IT,CFO
+TXN_000095,2024-01-24,Equity,Equity,Equity transaction 95,-2482.76,REF_7979,Marketing,CEO
+TXN_000096,2023-04-01,Expense,Marketing,Marketing transaction 96,-8495.95,REF_9904,IT,Manager C
+TXN_000097,2023-04-28,Liability,Liability,Liability transaction 97,-18833.72,REF_8366,IT,Manager A
+TXN_000098,2023-10-29,Liability,Liability,Liability transaction 98,11424.31,REF_9922,IT,CFO
+TXN_000099,2023-03-02,Liability,Liability,Liability transaction 99,7229.81,REF_8431,HR,Manager A
+TXN_000100,2023-09-12,Liability,Liability,Liability transaction 100,14436.16,REF_4865,HR,CEO
+TXN_000101,2023-07-06,Expense,Equipment,Equipment transaction 101,-7944.8,REF_1036,HR,CEO
+TXN_000102,2023-03-29,Expense,Marketing,Marketing transaction 102,-6623.21,REF_3956,Marketing,Manager C
+TXN_000103,2023-02-14,Asset,Asset,Asset transaction 103,6955.32,REF_7444,IT,Manager C
+TXN_000104,2023-08-18,Revenue,Interest Income,Interest Income transaction 104,27184.19,REF_2718,IT,Manager C
+TXN_000105,2024-01-11,Liability,Liability,Liability transaction 105,2777.27,REF_2193,Finance,Manager B
+TXN_000106,2023-07-23,Revenue,Service Revenue,Service Revenue transaction 106,16705.93,REF_8482,Finance,Manager A
+TXN_000107,2024-01-31,Equity,Equity,Equity transaction 107,3625.31,REF_5399,Marketing,CFO
+TXN_000108,2023-05-28,Equity,Equity,Equity transaction 108,4358.45,REF_9957,Sales,Manager B
+TXN_000109,2023-01-18,Expense,Marketing,Marketing transaction 109,-8523.64,REF_4765,IT,CEO
+TXN_000110,2023-11-03,Liability,Liability,Liability transaction 110,19000.37,REF_5108,Finance,Manager C
+TXN_000111,2023-06-22,Expense,Salaries,Salaries transaction 111,-8836.66,REF_9391,Finance,Manager A
+TXN_000112,2023-11-17,Revenue,Interest Income,Interest Income transaction 112,17665.58,REF_9940,Finance,CFO
+TXN_000113,2023-04-02,Revenue,Other Income,Other Income transaction 113,5037.45,REF_4854,Finance,CFO
+TXN_000114,2023-04-11,Liability,Liability,Liability transaction 114,-4380.15,REF_9835,IT,Manager B
+TXN_000115,2023-02-09,Revenue,Other Income,Other Income transaction 115,14107.55,REF_2040,IT,CFO
+TXN_000116,2023-09-10,Liability,Liability,Liability transaction 116,4417.28,REF_7299,Finance,Manager B
+TXN_000117,2023-08-12,Equity,Equity,Equity transaction 117,2983.71,REF_9287,HR,Manager B
+TXN_000118,2023-04-11,Expense,Salaries,Salaries transaction 118,-5209.56,REF_9092,IT,Manager A
+TXN_000119,2023-09-26,Equity,Equity,Equity transaction 119,-7269.85,REF_1010,HR,Manager B
+TXN_000120,2023-05-18,Expense,Salaries,Salaries transaction 120,-613.53,REF_1489,IT,Manager C
+TXN_000121,2023-11-14,Liability,Liability,Liability transaction 121,-4762.43,REF_6437,IT,CFO
+TXN_000122,2023-12-11,Equity,Equity,Equity transaction 122,-18467.37,REF_3045,Marketing,Manager C
+TXN_000123,2024-01-18,Equity,Equity,Equity transaction 123,-12963.71,REF_6613,Operations,Manager C
+TXN_000124,2023-09-26,Asset,Asset,Asset transaction 124,-12697.76,REF_7441,HR,CEO
+TXN_000125,2023-06-30,Liability,Liability,Liability transaction 125,-12155.71,REF_5819,Marketing,Manager B
+TXN_000126,2023-10-22,Expense,Travel,Travel transaction 126,-5373.76,REF_5411,HR,Manager B
+TXN_000127,2023-10-21,Expense,Utilities,Utilities transaction 127,-9608.7,REF_2689,Operations,CFO
+TXN_000128,2023-12-15,Expense,Salaries,Salaries transaction 128,-888.11,REF_6371,Marketing,CEO
+TXN_000129,2023-09-05,Asset,Asset,Asset transaction 129,8896.83,REF_3914,Operations,CFO
+TXN_000130,2023-10-29,Expense,Utilities,Utilities transaction 130,-1801.39,REF_4631,IT,Manager B
+TXN_000131,2023-12-18,Asset,Asset,Asset transaction 131,1189.64,REF_7062,Sales,Manager B
+TXN_000132,2023-12-30,Equity,Equity,Equity transaction 132,-15751.58,REF_7409,Operations,Manager C
+TXN_000133,2023-07-17,Revenue,Other Income,Other Income transaction 133,26187.28,REF_6314,Sales,CEO
+TXN_000134,2024-01-31,Asset,Asset,Asset transaction 134,10239.52,REF_5707,Operations,Manager B
+TXN_000135,2023-11-16,Revenue,Service Revenue,Service Revenue transaction 135,15677.66,REF_2965,IT,CEO
+TXN_000136,2023-02-27,Equity,Equity,Equity transaction 136,-17019.61,REF_8884,Finance,CFO
+TXN_000137,2023-12-27,Expense,Marketing,Marketing transaction 137,-2071.56,REF_6465,Finance,Manager B
+TXN_000138,2023-02-14,Asset,Asset,Asset transaction 138,11738.06,REF_6967,Marketing,CFO
+TXN_000139,2023-05-31,Asset,Asset,Asset transaction 139,-16471.71,REF_8433,Sales,Manager C
+TXN_000140,2023-04-21,Asset,Asset,Asset transaction 140,-11908.11,REF_3842,Operations,CEO
+TXN_000141,2024-01-08,Expense,Equipment,Equipment transaction 141,-4252.89,REF_9593,Sales,Manager B
+TXN_000142,2023-06-12,Liability,Liability,Liability transaction 142,-2106.93,REF_1750,Sales,CEO
+TXN_000143,2023-03-18,Asset,Asset,Asset transaction 143,18109.22,REF_2787,Operations,Manager A
+TXN_000144,2023-07-16,Revenue,Interest Income,Interest Income transaction 144,9277.58,REF_9670,Sales,CEO
+TXN_000145,2023-01-31,Equity,Equity,Equity transaction 145,-1084.49,REF_3156,HR,Manager A
+TXN_000146,2023-05-01,Asset,Asset,Asset transaction 146,-5560.54,REF_9425,Finance,CEO
+TXN_000147,2023-03-12,Asset,Asset,Asset transaction 147,-3912.26,REF_6421,Finance,CFO
+TXN_000148,2023-06-16,Liability,Liability,Liability transaction 148,-17665.23,REF_9297,HR,CFO
+TXN_000149,2023-06-02,Equity,Equity,Equity transaction 149,-2311.94,REF_3745,Marketing,CFO
+TXN_000150,2024-01-15,Asset,Asset,Asset transaction 150,408.33,REF_5581,Finance,Manager C
+TXN_000151,2023-07-06,Equity,Equity,Equity transaction 151,-3121.42,REF_6199,IT,CEO
+TXN_000152,2023-03-07,Asset,Asset,Asset transaction 152,-12889.0,REF_5989,Finance,Manager A
+TXN_000153,2023-01-14,Revenue,Other Income,Other Income transaction 153,49276.61,REF_3230,Sales,Manager A
+TXN_000154,2023-07-10,Revenue,Service Revenue,Service Revenue transaction 154,40180.26,REF_4761,Finance,Manager B
+TXN_000155,2023-03-01,Revenue,Service Revenue,Service Revenue transaction 155,6990.83,REF_6340,Operations,Manager A
+TXN_000156,2023-09-04,Expense,Marketing,Marketing transaction 156,-3307.37,REF_1553,Finance,Manager B
+TXN_000157,2023-04-04,Liability,Liability,Liability transaction 157,2221.84,REF_2644,Operations,Manager C
+TXN_000158,2023-09-26,Asset,Asset,Asset transaction 158,14044.88,REF_7276,HR,CEO
+TXN_000159,2023-09-09,Equity,Equity,Equity transaction 159,19804.02,REF_3360,HR,Manager B
+TXN_000160,2023-11-23,Liability,Liability,Liability transaction 160,-2039.83,REF_8226,IT,Manager C
+TXN_000161,2023-01-04,Liability,Liability,Liability transaction 161,-14011.81,REF_3125,Operations,CEO
+TXN_000162,2023-02-05,Expense,Salaries,Salaries transaction 162,-2950.34,REF_9615,Marketing,Manager B
+TXN_000163,2023-02-24,Equity,Equity,Equity transaction 163,12309.17,REF_3190,Marketing,Manager A
+TXN_000164,2023-11-27,Expense,Operations,Operations transaction 164,-6105.13,REF_1116,IT,Manager C
+TXN_000165,2023-07-13,Equity,Equity,Equity transaction 165,-16295.84,REF_1132,Sales,CEO
+TXN_000166,2023-03-23,Expense,Rent,Rent transaction 166,-2697.66,REF_4341,IT,CEO
+TXN_000167,2023-09-30,Liability,Liability,Liability transaction 167,-6199.72,REF_3704,HR,CFO
+TXN_000168,2023-12-07,Equity,Equity,Equity transaction 168,8246.67,REF_8471,Marketing,Manager B
+TXN_000169,2023-06-14,Asset,Asset,Asset transaction 169,-796.82,REF_5265,IT,Manager C
+TXN_000170,2023-09-05,Equity,Equity,Equity transaction 170,5109.38,REF_3222,HR,Manager B
+TXN_000171,2023-06-16,Equity,Equity,Equity transaction 171,17685.51,REF_3333,Finance,Manager A
+TXN_000172,2023-12-09,Equity,Equity,Equity transaction 172,12666.72,REF_8431,HR,CEO
+TXN_000173,2023-01-28,Expense,Travel,Travel transaction 173,-1112.27,REF_3976,IT,CFO
+TXN_000174,2023-08-23,Revenue,Other Income,Other Income transaction 174,9189.68,REF_4523,Marketing,CFO
+TXN_000175,2023-04-06,Expense,Utilities,Utilities transaction 175,-6588.42,REF_1479,Operations,Manager B
+TXN_000176,2023-10-18,Expense,Operations,Operations transaction 176,-5808.82,REF_4507,IT,CFO
+TXN_000177,2023-06-17,Expense,Marketing,Marketing transaction 177,-7354.77,REF_2234,IT,Manager C
+TXN_000178,2023-05-02,Expense,Utilities,Utilities transaction 178,-5551.52,REF_3728,Operations,Manager C
+TXN_000179,2023-10-04,Expense,Equipment,Equipment transaction 179,-5818.29,REF_4329,Operations,CEO
+TXN_000180,2023-03-04,Asset,Asset,Asset transaction 180,-9328.87,REF_9013,IT,CFO
+TXN_000181,2023-07-21,Liability,Liability,Liability transaction 181,-11245.36,REF_5748,Marketing,Manager A
+TXN_000182,2023-05-10,Equity,Equity,Equity transaction 182,-6695.03,REF_9161,Finance,Manager A
+TXN_000183,2023-10-26,Expense,Rent,Rent transaction 183,-6075.71,REF_8189,Sales,Manager B
+TXN_000184,2023-02-05,Equity,Equity,Equity transaction 184,-13026.78,REF_3655,Sales,Manager C
+TXN_000185,2023-08-28,Expense,Travel,Travel transaction 185,-9020.62,REF_9634,HR,Manager A
+TXN_000186,2023-06-17,Expense,Rent,Rent transaction 186,-7108.39,REF_3265,Finance,CEO
+TXN_000187,2023-03-18,Equity,Equity,Equity transaction 187,-10278.91,REF_1460,IT,Manager A
+TXN_000188,2024-01-09,Expense,Equipment,Equipment transaction 188,-3706.64,REF_1889,Finance,Manager B
+TXN_000189,2023-05-16,Expense,Marketing,Marketing transaction 189,-8845.38,REF_9010,Finance,CFO
+TXN_000190,2023-10-19,Equity,Equity,Equity transaction 190,138.43,REF_8182,Operations,Manager B
+TXN_000191,2023-07-02,Asset,Asset,Asset transaction 191,6693.92,REF_4025,Marketing,CEO
+TXN_000192,2024-01-20,Liability,Liability,Liability transaction 192,16972.1,REF_1662,Marketing,Manager A
+TXN_000193,2023-05-01,Asset,Asset,Asset transaction 193,19119.59,REF_7354,IT,Manager A
+TXN_000194,2023-10-21,Equity,Equity,Equity transaction 194,14207.43,REF_6254,Sales,CFO
+TXN_000195,2023-03-25,Revenue,Interest Income,Interest Income transaction 195,41841.61,REF_4441,IT,CEO
+TXN_000196,2023-11-26,Revenue,Product Sales,Product Sales transaction 196,39057.77,REF_3743,IT,CEO
+TXN_000197,2023-02-17,Asset,Asset,Asset transaction 197,6560.33,REF_5960,Marketing,CFO
+TXN_000198,2024-01-12,Asset,Asset,Asset transaction 198,6150.19,REF_9378,Marketing,Manager A
+TXN_000199,2023-01-03,Equity,Equity,Equity transaction 199,12929.97,REF_7808,HR,Manager A
+TXN_000200,2023-02-17,Expense,Travel,Travel transaction 200,-5975.5,REF_2886,Marketing,CFO
+TXN_000201,2023-03-01,Revenue,Service Revenue,Service Revenue transaction 201,36721.89,REF_4395,Marketing,Manager A
+TXN_000202,2024-01-21,Liability,Liability,Liability transaction 202,-3595.54,REF_3287,Sales,Manager A
+TXN_000203,2023-12-11,Equity,Equity,Equity transaction 203,10855.08,REF_2462,Sales,Manager A
+TXN_000204,2023-03-08,Liability,Liability,Liability transaction 204,-3892.15,REF_3960,Sales,Manager A
+TXN_000205,2023-08-17,Equity,Equity,Equity transaction 205,8866.83,REF_3228,IT,Manager C
+TXN_000206,2023-05-08,Equity,Equity,Equity transaction 206,10398.08,REF_4243,Finance,Manager B
+TXN_000207,2023-08-09,Revenue,Interest Income,Interest Income transaction 207,28808.25,REF_7230,Operations,Manager B
+TXN_000208,2023-04-02,Equity,Equity,Equity transaction 208,-19463.64,REF_8460,IT,Manager C
+TXN_000209,2024-01-27,Equity,Equity,Equity transaction 209,-15854.82,REF_5621,Marketing,Manager A
+TXN_000210,2023-10-13,Revenue,Interest Income,Interest Income transaction 210,1624.12,REF_7468,IT,CEO
+TXN_000211,2023-10-23,Expense,Salaries,Salaries transaction 211,-8612.45,REF_6351,Marketing,Manager B
+TXN_000212,2023-03-07,Equity,Equity,Equity transaction 212,-8531.48,REF_1280,Finance,Manager B
+TXN_000213,2023-06-29,Asset,Asset,Asset transaction 213,19782.68,REF_7234,Sales,Manager A
+TXN_000214,2023-11-02,Expense,Travel,Travel transaction 214,-6702.81,REF_6656,Marketing,CEO
+TXN_000215,2023-02-19,Liability,Liability,Liability transaction 215,12939.75,REF_4749,HR,Manager A
+TXN_000216,2023-07-03,Expense,Salaries,Salaries transaction 216,-1988.49,REF_6351,Finance,Manager C
+TXN_000217,2023-03-08,Liability,Liability,Liability transaction 217,-7722.19,REF_4473,Sales,Manager C
+TXN_000218,2023-09-04,Revenue,Service Revenue,Service Revenue transaction 218,1769.45,REF_1881,HR,Manager A
+TXN_000219,2023-09-03,Asset,Asset,Asset transaction 219,4570.05,REF_4781,Finance,CFO
+TXN_000220,2023-11-03,Asset,Asset,Asset transaction 220,-17587.64,REF_2007,HR,Manager A
+TXN_000221,2023-10-30,Liability,Liability,Liability transaction 221,-2952.04,REF_1366,HR,Manager B
+TXN_000222,2023-09-29,Expense,Operations,Operations transaction 222,-8614.11,REF_2753,Operations,Manager C
+TXN_000223,2023-03-23,Asset,Asset,Asset transaction 223,18116.58,REF_1124,Marketing,Manager C
+TXN_000224,2023-01-09,Revenue,Service Revenue,Service Revenue transaction 224,3403.07,REF_6950,HR,CFO
+TXN_000225,2023-11-24,Equity,Equity,Equity transaction 225,16568.26,REF_8396,Operations,CFO
+TXN_000226,2023-07-09,Asset,Asset,Asset transaction 226,4916.26,REF_8255,Finance,Manager C
+TXN_000227,2023-03-30,Asset,Asset,Asset transaction 227,-8598.26,REF_5032,Operations,CFO
+TXN_000228,2023-05-09,Revenue,Service Revenue,Service Revenue transaction 228,41920.13,REF_8565,HR,Manager A
+TXN_000229,2024-01-29,Revenue,Product Sales,Product Sales transaction 229,27969.6,REF_2941,Finance,Manager A
+TXN_000230,2024-01-13,Revenue,Service Revenue,Service Revenue transaction 230,1818.95,REF_7759,Finance,Manager B
+TXN_000231,2024-01-26,Revenue,Other Income,Other Income transaction 231,20232.6,REF_2474,HR,Manager B
+TXN_000232,2023-10-06,Liability,Liability,Liability transaction 232,651.2,REF_1215,Finance,Manager A
+TXN_000233,2023-03-17,Asset,Asset,Asset transaction 233,-2089.55,REF_1499,IT,Manager A
+TXN_000234,2023-08-26,Asset,Asset,Asset transaction 234,8172.15,REF_2383,Marketing,CEO
+TXN_000235,2023-05-07,Revenue,Other Income,Other Income transaction 235,22921.67,REF_1882,HR,Manager B
+TXN_000236,2023-01-25,Asset,Asset,Asset transaction 236,-16811.7,REF_5714,Operations,CEO
+TXN_000237,2023-04-13,Asset,Asset,Asset transaction 237,-318.67,REF_7563,Marketing,Manager A
+TXN_000238,2023-08-11,Expense,Marketing,Marketing transaction 238,-272.55,REF_3977,Operations,CEO
+TXN_000239,2023-08-17,Equity,Equity,Equity transaction 239,7054.65,REF_7978,IT,CFO
+TXN_000240,2023-01-16,Equity,Equity,Equity transaction 240,-9849.57,REF_4351,Sales,CEO
+TXN_000241,2023-12-10,Revenue,Interest Income,Interest Income transaction 241,10348.76,REF_4282,Finance,CFO
+TXN_000242,2023-08-14,Expense,Equipment,Equipment transaction 242,-8117.67,REF_5165,HR,CFO
+TXN_000243,2023-02-10,Liability,Liability,Liability transaction 243,12927.72,REF_6787,Finance,Manager A
+TXN_000244,2023-03-12,Equity,Equity,Equity transaction 244,-10378.09,REF_8782,Sales,Manager A
+TXN_000245,2023-08-06,Revenue,Interest Income,Interest Income transaction 245,20447.72,REF_2641,Operations,Manager C
+TXN_000246,2023-02-04,Equity,Equity,Equity transaction 246,-19002.66,REF_2908,Sales,CFO
+TXN_000247,2023-08-28,Equity,Equity,Equity transaction 247,-573.85,REF_3036,Operations,Manager A
+TXN_000248,2023-10-06,Revenue,Interest Income,Interest Income transaction 248,29485.45,REF_2113,IT,CEO
+TXN_000249,2023-06-11,Asset,Asset,Asset transaction 249,2966.75,REF_5084,IT,Manager A
+TXN_000250,2023-01-22,Asset,Asset,Asset transaction 250,11378.31,REF_5186,Finance,CEO
+TXN_000251,2023-10-29,Equity,Equity,Equity transaction 251,-18484.09,REF_5876,IT,CEO
+TXN_000252,2023-07-22,Liability,Liability,Liability transaction 252,17170.44,REF_9670,HR,Manager B
+TXN_000253,2023-08-13,Revenue,Service Revenue,Service Revenue transaction 253,23430.76,REF_2970,HR,CFO
+TXN_000254,2023-05-30,Equity,Equity,Equity transaction 254,2261.68,REF_2672,HR,CFO
+TXN_000255,2023-05-27,Revenue,Service Revenue,Service Revenue transaction 255,11206.04,REF_1804,HR,CFO
+TXN_000256,2023-04-30,Equity,Equity,Equity transaction 256,-9353.04,REF_3854,Operations,CFO
+TXN_000257,2023-09-21,Expense,Operations,Operations transaction 257,-7395.98,REF_5736,Finance,CEO
+TXN_000258,2023-02-04,Revenue,Other Income,Other Income transaction 258,40447.16,REF_5327,Marketing,CFO
+TXN_000259,2023-01-27,Expense,Marketing,Marketing transaction 259,-2221.99,REF_9447,HR,CEO
+TXN_000260,2023-01-29,Expense,Marketing,Marketing transaction 260,-981.33,REF_3594,IT,Manager A
+TXN_000261,2023-10-07,Asset,Asset,Asset transaction 261,-16196.88,REF_2371,Marketing,Manager C
+TXN_000262,2023-11-01,Equity,Equity,Equity transaction 262,2862.5,REF_9265,Finance,CFO
+TXN_000263,2023-08-16,Expense,Marketing,Marketing transaction 263,-926.66,REF_1367,IT,CEO
+TXN_000264,2023-05-29,Equity,Equity,Equity transaction 264,5038.43,REF_9326,Sales,Manager A
+TXN_000265,2023-05-14,Equity,Equity,Equity transaction 265,17123.03,REF_5982,Finance,Manager B
+TXN_000266,2023-07-02,Expense,Equipment,Equipment transaction 266,-1290.4,REF_9551,Finance,Manager B
+TXN_000267,2023-09-17,Equity,Equity,Equity transaction 267,19314.24,REF_7124,HR,Manager A
+TXN_000268,2023-01-14,Equity,Equity,Equity transaction 268,-13097.0,REF_5251,Finance,Manager A
+TXN_000269,2023-08-31,Liability,Liability,Liability transaction 269,-1027.69,REF_2535,Marketing,Manager B
+TXN_000270,2023-06-03,Liability,Liability,Liability transaction 270,2537.16,REF_7606,Sales,Manager A
+TXN_000271,2023-12-12,Expense,Utilities,Utilities transaction 271,-8920.8,REF_5430,Marketing,CEO
+TXN_000272,2023-09-16,Liability,Liability,Liability transaction 272,2387.56,REF_3464,HR,CFO
+TXN_000273,2023-12-10,Equity,Equity,Equity transaction 273,17730.81,REF_8817,IT,Manager A
+TXN_000274,2023-07-01,Asset,Asset,Asset transaction 274,-18274.61,REF_4757,IT,Manager A
+TXN_000275,2023-02-15,Asset,Asset,Asset transaction 275,16188.86,REF_7938,Sales,Manager C
+TXN_000276,2023-10-10,Liability,Liability,Liability transaction 276,-18239.15,REF_5065,Marketing,CFO
+TXN_000277,2023-12-20,Asset,Asset,Asset transaction 277,6967.7,REF_4672,Operations,CFO
+TXN_000278,2023-08-24,Asset,Asset,Asset transaction 278,-15719.64,REF_7523,Marketing,Manager C
+TXN_000279,2023-05-25,Revenue,Other Income,Other Income transaction 279,35249.55,REF_7165,HR,CEO
+TXN_000280,2023-11-10,Expense,Travel,Travel transaction 280,-2721.83,REF_8033,Sales,Manager C
+TXN_000281,2023-03-19,Liability,Liability,Liability transaction 281,468.02,REF_2061,HR,Manager A
+TXN_000282,2023-07-17,Expense,Utilities,Utilities transaction 282,-3446.38,REF_3332,Marketing,Manager C
+TXN_000283,2023-11-19,Equity,Equity,Equity transaction 283,10401.97,REF_7662,Operations,CEO
+TXN_000284,2023-09-15,Equity,Equity,Equity transaction 284,-14997.69,REF_4637,Operations,CEO
+TXN_000285,2023-09-14,Liability,Liability,Liability transaction 285,1308.14,REF_4734,Finance,Manager A
+TXN_000286,2023-05-13,Liability,Liability,Liability transaction 286,-14501.62,REF_7474,HR,Manager B
+TXN_000287,2023-10-22,Equity,Equity,Equity transaction 287,-2193.03,REF_2116,HR,Manager A
+TXN_000288,2023-02-15,Equity,Equity,Equity transaction 288,13320.82,REF_5913,Sales,Manager B
+TXN_000289,2024-01-22,Revenue,Service Revenue,Service Revenue transaction 289,18208.48,REF_3674,Marketing,CFO
+TXN_000290,2024-01-04,Revenue,Service Revenue,Service Revenue transaction 290,11060.52,REF_7678,Sales,Manager C
+TXN_000291,2023-05-11,Expense,Operations,Operations transaction 291,-533.53,REF_6262,Finance,CEO
+TXN_000292,2023-12-25,Revenue,Other Income,Other Income transaction 292,16956.31,REF_1359,Marketing,Manager C
+TXN_000293,2023-09-11,Asset,Asset,Asset transaction 293,10019.06,REF_3369,Operations,Manager A
+TXN_000294,2023-06-12,Equity,Equity,Equity transaction 294,-16105.54,REF_1517,Marketing,Manager C
+TXN_000295,2023-10-18,Asset,Asset,Asset transaction 295,-18869.8,REF_7822,HR,Manager A
+TXN_000296,2023-09-05,Liability,Liability,Liability transaction 296,10224.22,REF_2070,Finance,Manager B
+TXN_000297,2023-10-21,Asset,Asset,Asset transaction 297,3781.89,REF_9955,IT,Manager A
+TXN_000298,2024-01-09,Equity,Equity,Equity transaction 298,1641.67,REF_1046,HR,CFO
+TXN_000299,2023-05-20,Equity,Equity,Equity transaction 299,-14181.59,REF_2304,HR,Manager C
+TXN_000300,2023-02-23,Liability,Liability,Liability transaction 300,678.86,REF_4710,Operations,CEO

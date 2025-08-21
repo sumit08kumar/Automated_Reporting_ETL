@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Node / Vite (dashboard)
+etl-dashboard/node_modules/
+etl-dashboard/dist/
+etl-dashboard/.vite/
+
+# Logs
+*.log
+data/output/
+
+# Env/config
+.env
+.env.*
+
+

@@ -1,0 +1,41 @@
+{
+  "extraction": {
+    "file_patterns": [
+      "*.xlsx",
+      "*.csv"
+    ],
+    "add_source_column": true
+  },
+  "transformation": {
+    "standardize_columns": true,
+    "handle_missing": true,
+    "remove_duplicates": true,
+    "type_mapping": {
+      "date": "datetime",
+      "total_amount": "numeric"
+    },
+    "calculations": {
+      "revenue_per_unit": "total_amount / quantity"
+    },
+    "kpi_config": {
+      "total_revenue": {
+        "type": "simple",
+        "formula": "total_amount.sum()"
+      }
+    }
+  },
+  "loading": {
+    "formats": [
+      "csv",
+      "excel_styled",
+      "summary"
+    ],
+    "create_visualizations": true,
+    "summary_config": {
+      "custom_kpis": {
+        "Average Sale": "total_amount.mean()",
+        "Total Revenue": "total_amount.sum()"
+      }
+    }
+  }
+}

@@ -1,0 +1,201 @@
+Product_ID,Product_Name,Category,Supplier,Warehouse,Cost_Price,Selling_Price,Stock_Quantity,Reorder_Level,Last_Restocked,Expiry_Date,Status
+PROD_00001,Electronics Item 1,Electronics,Supplier A,Warehouse East,171.27,396.44,952,10,2025-07-13 09:49:00.717126,,Out of Stock
+PROD_00002,Sports Item 2,Sports,Supplier C,Warehouse South,192.44,264.6,661,34,2025-06-27 09:49:00.717148,2026-10-06 09:49:00.717151,Active
+PROD_00003,Books Item 3,Books,Supplier A,Warehouse North,86.41,107.18,309,28,2025-07-18 09:49:00.717162,,Active
+PROD_00004,Electronics Item 4,Electronics,Supplier A,Warehouse West,184.28,468.02,178,11,2025-08-06 09:49:00.717172,,Active
+PROD_00005,Home & Garden Item 5,Home & Garden,Supplier E,Warehouse East,174.61,391.75,276,12,2025-05-23 09:49:00.717184,,Active
+PROD_00006,Toys Item 6,Toys,Supplier D,Warehouse West,139.9,222.14,30,14,2025-06-18 09:49:00.717194,,Discontinued
+PROD_00007,Home & Garden Item 7,Home & Garden,Supplier A,Warehouse North,39.13,47.89,982,45,2025-07-15 09:49:00.717203,2026-04-15 09:49:00.717205,Discontinued
+PROD_00008,Electronics Item 8,Electronics,Supplier B,Warehouse South,135.89,398.67,706,67,2025-08-20 09:49:00.717220,2025-11-04 09:49:00.717223,Out of Stock
+PROD_00009,Home & Garden Item 9,Home & Garden,Supplier B,Warehouse North,113.99,281.03,293,56,2025-08-09 09:49:00.717239,,Discontinued
+PROD_00010,Home & Garden Item 10,Home & Garden,Supplier C,Warehouse South,111.2,208.14,328,91,2025-07-07 09:49:00.717249,,Out of Stock
+PROD_00011,Home & Garden Item 11,Home & Garden,Supplier C,Warehouse South,77.56,230.38,833,96,2025-06-18 09:49:00.717258,,Discontinued
+PROD_00012,Books Item 12,Books,Supplier C,Warehouse South,192.47,260.91,340,55,2025-05-30 09:49:00.717266,,Out of Stock
+PROD_00013,Toys Item 13,Toys,Supplier E,Warehouse South,37.03,47.29,613,53,2025-06-12 09:49:00.717274,,Out of Stock
+PROD_00014,Clothing Item 14,Clothing,Supplier B,Warehouse West,170.96,381.7,83,63,2025-08-06 09:49:00.717283,2027-03-31 09:49:00.717285,Active
+PROD_00015,Sports Item 15,Sports,Supplier E,Warehouse South,25.24,30.48,757,39,2025-05-25 09:49:00.717293,2026-08-28 09:49:00.717295,Discontinued
+PROD_00016,Electronics Item 16,Electronics,Supplier C,Warehouse West,68.47,185.26,535,94,2025-07-01 09:49:00.717313,,Discontinued
+PROD_00017,Toys Item 17,Toys,Supplier A,Warehouse South,84.56,215.87,655,92,2025-06-23 09:49:00.717324,,Out of Stock
+PROD_00018,Clothing Item 18,Clothing,Supplier E,Warehouse North,144.66,406.16,507,28,2025-08-11 09:49:00.717332,,Discontinued
+PROD_00019,Clothing Item 19,Clothing,Supplier B,Warehouse North,152.38,265.93,974,34,2025-08-17 09:49:00.717341,,Discontinued
+PROD_00020,Electronics Item 20,Electronics,Supplier A,Warehouse North,45.38,122.07,259,67,2025-08-05 09:49:00.717349,,Discontinued
+PROD_00021,Toys Item 21,Toys,Supplier C,Warehouse East,83.59,205.29,397,57,2025-07-25 09:49:00.717357,,Out of Stock
+PROD_00022,Sports Item 22,Sports,Supplier E,Warehouse North,184.31,431.92,695,72,2025-08-16 09:49:00.717366,,Discontinued
+PROD_00023,Electronics Item 23,Electronics,Supplier D,Warehouse North,54.88,112.63,432,98,2025-06-06 09:49:00.717374,,Discontinued
+PROD_00024,Toys Item 24,Toys,Supplier A,Warehouse West,100.61,125.68,777,21,2025-06-21 09:49:00.717383,,Active
+PROD_00025,Electronics Item 25,Electronics,Supplier A,Warehouse West,52.85,142.44,388,53,2025-07-21 09:49:00.717392,,Discontinued
+PROD_00026,Electronics Item 26,Electronics,Supplier D,Warehouse South,67.96,149.15,628,62,2025-08-08 09:49:00.717400,,Active
+PROD_00027,Sports Item 27,Sports,Supplier E,Warehouse West,173.23,451.35,70,74,2025-07-28 09:49:00.717409,,Out of Stock
+PROD_00028,Sports Item 28,Sports,Supplier A,Warehouse East,80.69,231.19,599,25,2025-05-23 09:49:00.717417,,Active
+PROD_00029,Home & Garden Item 29,Home & Garden,Supplier C,Warehouse East,62.21,92.88,436,24,2025-05-25 09:49:00.717425,,Active
+PROD_00030,Clothing Item 30,Clothing,Supplier D,Warehouse South,99.02,163.21,791,58,2025-08-15 09:49:00.717433,,Active
+PROD_00031,Books Item 31,Books,Supplier D,Warehouse South,173.79,391.09,730,66,2025-05-23 09:49:00.717441,2026-01-16 09:49:00.717444,Active
+PROD_00032,Clothing Item 32,Clothing,Supplier E,Warehouse North,32.15,81.41,448,73,2025-07-05 09:49:00.717452,2026-12-04 09:49:00.717454,Active
+PROD_00033,Toys Item 33,Toys,Supplier E,Warehouse North,107.41,263.03,428,70,2025-08-16 09:49:00.717461,,Out of Stock
+PROD_00034,Toys Item 34,Toys,Supplier C,Warehouse East,87.34,115.05,486,61,2025-06-17 09:49:00.717470,2026-02-07 09:49:00.717472,Active
+PROD_00035,Electronics Item 35,Electronics,Supplier B,Warehouse West,36.59,81.48,675,79,2025-07-04 09:49:00.717480,,Discontinued
+PROD_00036,Electronics Item 36,Electronics,Supplier E,Warehouse West,194.32,462.73,118,81,2025-08-15 09:49:00.717488,,Active
+PROD_00037,Books Item 37,Books,Supplier A,Warehouse East,30.98,76.29,61,75,2025-08-19 09:49:00.717496,,Out of Stock
+PROD_00038,Books Item 38,Books,Supplier B,Warehouse East,119.19,144.92,942,41,2025-06-20 09:49:00.717504,2026-04-01 09:49:00.717507,Out of Stock
+PROD_00039,Home & Garden Item 39,Home & Garden,Supplier B,Warehouse West,98.26,155.79,566,91,2025-06-01 09:49:00.717515,,Active
+PROD_00040,Clothing Item 40,Clothing,Supplier B,Warehouse North,135.08,370.68,489,75,2025-08-11 09:49:00.717523,,Active
+PROD_00041,Toys Item 41,Toys,Supplier C,Warehouse South,151.92,411.93,847,43,2025-06-29 09:49:00.717531,,Discontinued
+PROD_00042,Electronics Item 42,Electronics,Supplier A,Warehouse South,174.78,455.33,687,57,2025-07-01 09:49:00.717539,,Active
+PROD_00043,Toys Item 43,Toys,Supplier E,Warehouse West,181.96,375.37,661,91,2025-07-31 09:49:00.717547,,Out of Stock
+PROD_00044,Books Item 44,Books,Supplier E,Warehouse North,101.94,136.1,427,18,2025-06-10 09:49:00.717560,,Active
+PROD_00045,Toys Item 45,Toys,Supplier C,Warehouse West,12.79,21.73,665,53,2025-07-13 09:49:00.717569,2027-06-01 09:49:00.717571,Discontinued
+PROD_00046,Books Item 46,Books,Supplier D,Warehouse West,171.8,351.47,775,98,2025-06-06 09:49:00.717579,,Out of Stock
+PROD_00047,Sports Item 47,Sports,Supplier B,Warehouse West,121.87,318.63,345,21,2025-05-24 09:49:00.717587,,Discontinued
+PROD_00048,Sports Item 48,Sports,Supplier C,Warehouse East,105.81,247.23,956,44,2025-07-15 09:49:00.717596,,Active
+PROD_00049,Books Item 49,Books,Supplier B,Warehouse South,185.73,331.25,356,49,2025-07-27 09:49:00.717604,2027-03-04 09:49:00.717606,Out of Stock
+PROD_00050,Home & Garden Item 50,Home & Garden,Supplier B,Warehouse South,59.31,134.99,821,98,2025-07-14 09:49:00.717614,,Out of Stock
+PROD_00051,Books Item 51,Books,Supplier B,Warehouse West,143.96,316.03,595,76,2025-07-29 09:49:00.717622,,Out of Stock
+PROD_00052,Books Item 52,Books,Supplier C,Warehouse South,129.53,203.4,908,92,2025-06-18 09:49:00.717637,,Discontinued
+PROD_00053,Home & Garden Item 53,Home & Garden,Supplier D,Warehouse East,144.82,416.87,149,42,2025-06-04 09:49:00.717645,,Active
+PROD_00054,Home & Garden Item 54,Home & Garden,Supplier A,Warehouse North,163.56,485.92,193,42,2025-06-18 09:49:00.717653,,Out of Stock
+PROD_00055,Sports Item 55,Sports,Supplier D,Warehouse South,165.13,350.07,272,16,2025-06-27 09:49:00.717661,,Discontinued
+PROD_00056,Sports Item 56,Sports,Supplier C,Warehouse North,26.08,51.81,143,33,2025-08-05 09:49:00.717669,,Active
+PROD_00057,Electronics Item 57,Electronics,Supplier E,Warehouse East,170.2,289.21,130,22,2025-05-25 09:49:00.717677,,Active
+PROD_00058,Toys Item 58,Toys,Supplier C,Warehouse East,115.48,140.63,291,65,2025-07-21 09:49:00.717685,,Out of Stock
+PROD_00059,Sports Item 59,Sports,Supplier E,Warehouse East,116.27,195.35,860,40,2025-08-01 09:49:00.717692,,Out of Stock
+PROD_00060,Books Item 60,Books,Supplier D,Warehouse South,153.66,231.92,554,88,2025-08-18 09:49:00.717700,2025-12-22 09:49:00.717702,Out of Stock
+PROD_00061,Toys Item 61,Toys,Supplier D,Warehouse North,124.76,368.45,97,41,2025-06-29 09:49:00.717709,,Discontinued
+PROD_00062,Sports Item 62,Sports,Supplier B,Warehouse East,37.3,56.41,109,10,2025-07-21 09:49:00.717717,,Discontinued
+PROD_00063,Sports Item 63,Sports,Supplier D,Warehouse South,172.87,471.82,237,22,2025-08-10 09:49:00.717725,,Discontinued
+PROD_00064,Home & Garden Item 64,Home & Garden,Supplier E,Warehouse West,34.33,96.06,23,79,2025-07-17 09:49:00.717733,,Out of Stock
+PROD_00065,Home & Garden Item 65,Home & Garden,Supplier C,Warehouse East,90.15,250.18,21,73,2025-06-17 09:49:00.717740,,Discontinued
+PROD_00066,Sports Item 66,Sports,Supplier A,Warehouse West,45.07,65.8,172,61,2025-07-25 09:49:00.717748,,Discontinued
+PROD_00067,Home & Garden Item 67,Home & Garden,Supplier B,Warehouse West,58.46,145.38,614,70,2025-08-17 09:49:00.717755,,Out of Stock
+PROD_00068,Clothing Item 68,Clothing,Supplier A,Warehouse West,130.87,172.28,585,54,2025-07-05 09:49:00.717762,,Discontinued
+PROD_00069,Home & Garden Item 69,Home & Garden,Supplier A,Warehouse West,146.21,414.74,261,54,2025-07-22 09:49:00.717770,,Discontinued
+PROD_00070,Home & Garden Item 70,Home & Garden,Supplier E,Warehouse South,35.83,57.13,866,14,2025-07-03 09:49:00.717779,,Active
+PROD_00071,Electronics Item 71,Electronics,Supplier E,Warehouse North,142.89,212.29,256,20,2025-06-14 09:49:00.717788,2026-12-27 09:49:00.717790,Active
+PROD_00072,Books Item 72,Books,Supplier B,Warehouse South,32.62,64.74,419,49,2025-07-30 09:49:00.717798,,Active
+PROD_00073,Electronics Item 73,Electronics,Supplier B,Warehouse East,126.08,281.26,561,70,2025-06-27 09:49:00.717810,2026-05-19 09:49:00.717811,Active
+PROD_00074,Clothing Item 74,Clothing,Supplier A,Warehouse East,122.51,164.01,836,32,2025-06-13 09:49:00.717818,,Discontinued
+PROD_00075,Sports Item 75,Sports,Supplier B,Warehouse South,153.37,383.69,251,11,2025-07-10 09:49:00.717823,2026-06-25 09:49:00.717825,Out of Stock
+PROD_00076,Electronics Item 76,Electronics,Supplier D,Warehouse South,102.68,288.6,171,16,2025-06-21 09:49:00.717830,,Active
+PROD_00077,Clothing Item 77,Clothing,Supplier E,Warehouse East,173.03,467.47,473,41,2025-06-23 09:49:00.717836,,Active
+PROD_00078,Toys Item 78,Toys,Supplier A,Warehouse North,53.4,125.61,386,27,2025-08-20 09:49:00.717843,,Out of Stock
+PROD_00079,Home & Garden Item 79,Home & Garden,Supplier E,Warehouse West,137.12,262.04,910,77,2025-06-22 09:49:00.717848,2027-03-06 09:49:00.717850,Discontinued
+PROD_00080,Sports Item 80,Sports,Supplier D,Warehouse East,117.61,318.45,536,62,2025-07-30 09:49:00.717855,,Discontinued
+PROD_00081,Clothing Item 81,Clothing,Supplier E,Warehouse East,161.94,254.64,862,48,2025-08-06 09:49:00.717860,,Discontinued
+PROD_00082,Home & Garden Item 82,Home & Garden,Supplier C,Warehouse West,78.31,146.64,203,12,2025-07-24 09:49:00.717866,,Out of Stock
+PROD_00083,Clothing Item 83,Clothing,Supplier B,Warehouse East,92.74,209.85,405,41,2025-08-02 09:49:00.717872,,Active
+PROD_00084,Home & Garden Item 84,Home & Garden,Supplier D,Warehouse East,54.32,104.22,903,36,2025-06-22 09:49:00.717878,,Active
+PROD_00085,Clothing Item 85,Clothing,Supplier A,Warehouse East,189.81,534.24,383,16,2025-07-07 09:49:00.717883,,Discontinued
+PROD_00086,Toys Item 86,Toys,Supplier C,Warehouse East,175.06,234.69,840,75,2025-06-11 09:49:00.717889,,Discontinued
+PROD_00087,Electronics Item 87,Electronics,Supplier E,Warehouse South,73.73,114.16,11,22,2025-08-02 09:49:00.717894,2027-04-18 09:49:00.717896,Discontinued
+PROD_00088,Electronics Item 88,Electronics,Supplier E,Warehouse East,9.81,15.64,24,67,2025-06-30 09:49:00.717901,,Out of Stock
+PROD_00089,Home & Garden Item 89,Home & Garden,Supplier C,Warehouse North,72.65,129.88,820,76,2025-06-07 09:49:00.717906,,Discontinued
+PROD_00090,Home & Garden Item 90,Home & Garden,Supplier E,Warehouse North,89.51,190.23,991,29,2025-07-03 09:49:00.717912,,Out of Stock
+PROD_00091,Home & Garden Item 91,Home & Garden,Supplier B,Warehouse South,147.63,345.96,780,35,2025-08-09 09:49:00.717917,,Discontinued
+PROD_00092,Home & Garden Item 92,Home & Garden,Supplier A,Warehouse South,47.95,61.33,199,63,2025-06-09 09:49:00.717923,,Active
+PROD_00093,Home & Garden Item 93,Home & Garden,Supplier B,Warehouse North,111.68,185.3,67,30,2025-08-16 09:49:00.717929,,Discontinued
+PROD_00094,Electronics Item 94,Electronics,Supplier B,Warehouse West,47.72,135.88,116,20,2025-05-27 09:49:00.717937,,Discontinued
+PROD_00095,Sports Item 95,Sports,Supplier D,Warehouse East,146.94,274.76,590,81,2025-06-11 09:49:00.717943,2026-08-24 09:49:00.717944,Out of Stock
+PROD_00096,Toys Item 96,Toys,Supplier E,Warehouse East,68.67,101.64,825,86,2025-07-20 09:49:00.717950,,Active
+PROD_00097,Home & Garden Item 97,Home & Garden,Supplier E,Warehouse East,99.26,177.75,510,61,2025-08-14 09:49:00.717956,2026-07-24 09:49:00.717957,Discontinued
+PROD_00098,Electronics Item 98,Electronics,Supplier B,Warehouse South,165.69,364.36,475,29,2025-08-08 09:49:00.717963,,Out of Stock
+PROD_00099,Books Item 99,Books,Supplier E,Warehouse East,85.47,164.07,306,20,2025-07-20 09:49:00.717968,,Discontinued
+PROD_00100,Toys Item 100,Toys,Supplier A,Warehouse West,17.93,31.65,415,65,2025-08-01 09:49:00.717973,,Active
+PROD_00101,Books Item 101,Books,Supplier B,Warehouse West,187.83,265.37,900,72,2025-07-01 09:49:00.717979,,Discontinued
+PROD_00102,Home & Garden Item 102,Home & Garden,Supplier E,Warehouse South,170.64,292.76,344,30,2025-06-05 09:49:00.717984,,Discontinued
+PROD_00103,Electronics Item 103,Electronics,Supplier A,Warehouse South,24.63,33.2,553,64,2025-06-18 09:49:00.717990,2027-07-15 09:49:00.717991,Active
+PROD_00104,Electronics Item 104,Electronics,Supplier B,Warehouse East,5.41,8.22,863,56,2025-05-26 09:49:00.718000,,Out of Stock
+PROD_00105,Books Item 105,Books,Supplier B,Warehouse East,134.88,183.11,338,22,2025-08-16 09:49:00.718005,2025-12-13 09:49:00.718007,Active
+PROD_00106,Sports Item 106,Sports,Supplier B,Warehouse West,5.04,14.42,843,72,2025-08-07 09:49:00.718012,,Discontinued
+PROD_00107,Sports Item 107,Sports,Supplier E,Warehouse East,168.19,223.52,141,18,2025-06-22 09:49:00.718018,,Discontinued
+PROD_00108,Clothing Item 108,Clothing,Supplier A,Warehouse West,130.48,320.96,621,38,2025-05-24 09:49:00.718023,,Discontinued
+PROD_00109,Books Item 109,Books,Supplier D,Warehouse East,134.68,330.07,974,75,2025-07-12 09:49:00.718028,,Out of Stock
+PROD_00110,Home & Garden Item 110,Home & Garden,Supplier C,Warehouse East,86.5,248.69,215,40,2025-06-22 09:49:00.718034,,Active
+PROD_00111,Electronics Item 111,Electronics,Supplier A,Warehouse South,20.49,46.27,110,67,2025-08-04 09:49:00.718039,,Active
+PROD_00112,Books Item 112,Books,Supplier E,Warehouse South,155.22,378.42,735,71,2025-06-26 09:49:00.718044,,Out of Stock
+PROD_00113,Toys Item 113,Toys,Supplier E,Warehouse East,188.8,414.2,959,100,2025-07-25 09:49:00.718050,2027-07-23 09:49:00.718051,Active
+PROD_00114,Books Item 114,Books,Supplier A,Warehouse North,35.52,54.87,32,42,2025-07-02 09:49:00.718059,,Discontinued
+PROD_00115,Home & Garden Item 115,Home & Garden,Supplier C,Warehouse West,133.37,255.48,136,51,2025-06-27 09:49:00.718064,,Out of Stock
+PROD_00116,Toys Item 116,Toys,Supplier B,Warehouse East,40.87,112.99,425,21,2025-06-19 09:49:00.718070,2026-08-28 09:49:00.718071,Active
+PROD_00117,Electronics Item 117,Electronics,Supplier E,Warehouse West,177.42,289.56,980,45,2025-07-26 09:49:00.718077,2026-11-21 09:49:00.718078,Active
+PROD_00118,Electronics Item 118,Electronics,Supplier E,Warehouse East,128.15,317.87,345,10,2025-08-07 09:49:00.718083,,Out of Stock
+PROD_00119,Clothing Item 119,Clothing,Supplier E,Warehouse East,46.16,83.01,543,60,2025-06-14 09:49:00.718089,2027-06-09 09:49:00.718090,Out of Stock
+PROD_00120,Clothing Item 120,Clothing,Supplier A,Warehouse West,89.81,261.33,987,85,2025-06-11 09:49:00.718096,,Discontinued
+PROD_00121,Electronics Item 121,Electronics,Supplier E,Warehouse North,60.47,74.52,485,63,2025-06-22 09:49:00.718102,2027-06-05 09:49:00.718103,Out of Stock
+PROD_00122,Clothing Item 122,Clothing,Supplier B,Warehouse West,185.0,500.0,271,48,2025-05-29 09:49:00.718109,2026-05-12 09:49:00.718111,Out of Stock
+PROD_00123,Sports Item 123,Sports,Supplier E,Warehouse South,54.56,91.53,41,38,2025-06-24 09:49:00.718116,,Active
+PROD_00124,Home & Garden Item 124,Home & Garden,Supplier C,Warehouse West,14.31,19.14,16,74,2025-05-31 09:49:00.718125,2027-05-27 09:49:00.718127,Out of Stock
+PROD_00125,Electronics Item 125,Electronics,Supplier E,Warehouse East,101.84,228.57,798,24,2025-07-21 09:49:00.718132,2026-10-23 09:49:00.718134,Out of Stock
+PROD_00126,Toys Item 126,Toys,Supplier B,Warehouse North,69.07,150.66,701,64,2025-08-10 09:49:00.718139,,Active
+PROD_00127,Home & Garden Item 127,Home & Garden,Supplier C,Warehouse South,9.03,12.95,673,47,2025-05-27 09:49:00.718144,,Active
+PROD_00128,Home & Garden Item 128,Home & Garden,Supplier A,Warehouse East,44.8,66.97,316,79,2025-05-24 09:49:00.718150,,Active
+PROD_00129,Electronics Item 129,Electronics,Supplier A,Warehouse South,196.65,545.07,67,44,2025-07-29 09:49:00.718156,,Discontinued
+PROD_00130,Books Item 130,Books,Supplier E,Warehouse West,28.68,73.96,523,25,2025-06-20 09:49:00.718161,,Discontinued
+PROD_00131,Electronics Item 131,Electronics,Supplier B,Warehouse West,74.47,101.7,825,34,2025-06-12 09:49:00.718166,2025-10-08 09:49:00.718168,Out of Stock
+PROD_00132,Electronics Item 132,Electronics,Supplier C,Warehouse South,198.46,296.13,534,98,2025-06-13 09:49:00.718173,,Out of Stock
+PROD_00133,Books Item 133,Books,Supplier D,Warehouse North,10.81,29.58,826,75,2025-06-30 09:49:00.718179,,Active
+PROD_00134,Sports Item 134,Sports,Supplier A,Warehouse South,129.31,335.2,854,94,2025-06-18 09:49:00.718187,,Discontinued
+PROD_00135,Home & Garden Item 135,Home & Garden,Supplier A,Warehouse North,67.83,126.44,463,34,2025-08-20 09:49:00.718192,,Active
+PROD_00136,Toys Item 136,Toys,Supplier D,Warehouse North,187.11,443.03,992,50,2025-06-22 09:49:00.718198,,Active
+PROD_00137,Sports Item 137,Sports,Supplier E,Warehouse South,106.5,274.67,484,73,2025-06-11 09:49:00.718203,2026-09-03 09:49:00.718205,Active
+PROD_00138,Sports Item 138,Sports,Supplier C,Warehouse South,163.11,426.55,319,78,2025-06-27 09:49:00.718210,,Active
+PROD_00139,Electronics Item 139,Electronics,Supplier B,Warehouse East,188.11,450.85,835,58,2025-08-01 09:49:00.718216,,Discontinued
+PROD_00140,Electronics Item 140,Electronics,Supplier D,Warehouse East,195.15,361.97,756,48,2025-06-29 09:49:00.718221,,Discontinued
+PROD_00141,Books Item 141,Books,Supplier B,Warehouse North,41.03,56.11,371,24,2025-08-08 09:49:00.718227,2026-08-27 09:49:00.718228,Discontinued
+PROD_00142,Electronics Item 142,Electronics,Supplier A,Warehouse South,40.61,64.25,50,45,2025-07-12 09:49:00.718234,2027-04-06 09:49:00.718235,Out of Stock
+PROD_00143,Electronics Item 143,Electronics,Supplier E,Warehouse East,163.26,357.22,928,80,2025-05-28 09:49:00.718241,,Discontinued
+PROD_00144,Electronics Item 144,Electronics,Supplier A,Warehouse East,65.82,183.0,275,16,2025-08-03 09:49:00.718249,,Out of Stock
+PROD_00145,Electronics Item 145,Electronics,Supplier D,Warehouse East,25.83,53.18,415,79,2025-08-07 09:49:00.718254,,Out of Stock
+PROD_00146,Sports Item 146,Sports,Supplier C,Warehouse South,179.53,295.44,189,93,2025-06-09 09:49:00.718260,2026-01-04 09:49:00.718261,Out of Stock
+PROD_00147,Electronics Item 147,Electronics,Supplier B,Warehouse South,96.71,242.92,755,97,2025-06-16 09:49:00.718266,,Discontinued
+PROD_00148,Electronics Item 148,Electronics,Supplier E,Warehouse South,137.88,382.62,504,80,2025-07-21 09:49:00.718272,,Active
+PROD_00149,Sports Item 149,Sports,Supplier E,Warehouse East,135.04,208.84,352,27,2025-06-30 09:49:00.718277,2026-11-15 09:49:00.718279,Out of Stock
+PROD_00150,Books Item 150,Books,Supplier A,Warehouse West,57.53,132.85,261,92,2025-06-04 09:49:00.718287,,Active
+PROD_00151,Home & Garden Item 151,Home & Garden,Supplier B,Warehouse South,120.19,305.8,833,92,2025-06-07 09:49:00.718293,,Out of Stock
+PROD_00152,Clothing Item 152,Clothing,Supplier B,Warehouse North,30.83,39.22,748,19,2025-05-25 09:49:00.718300,,Active
+PROD_00153,Books Item 153,Books,Supplier B,Warehouse North,192.08,429.16,849,99,2025-08-19 09:49:00.718316,,Discontinued
+PROD_00154,Clothing Item 154,Clothing,Supplier A,Warehouse East,92.18,135.0,332,62,2025-07-03 09:49:00.718324,,Out of Stock
+PROD_00155,Books Item 155,Books,Supplier B,Warehouse South,91.47,142.94,398,55,2025-07-27 09:49:00.718329,2027-07-30 09:49:00.718331,Active
+PROD_00156,Home & Garden Item 156,Home & Garden,Supplier A,Warehouse East,100.34,169.87,3,65,2025-06-22 09:49:00.718337,,Active
+PROD_00157,Toys Item 157,Toys,Supplier D,Warehouse North,94.46,162.5,902,46,2025-08-02 09:49:00.718342,,Active
+PROD_00158,Home & Garden Item 158,Home & Garden,Supplier E,Warehouse North,154.97,317.96,600,68,2025-07-07 09:49:00.718348,,Active
+PROD_00159,Home & Garden Item 159,Home & Garden,Supplier D,Warehouse West,44.18,121.71,276,30,2025-06-20 09:49:00.718354,,Active
+PROD_00160,Electronics Item 160,Electronics,Supplier D,Warehouse South,157.3,371.44,971,80,2025-06-16 09:49:00.718359,,Active
+PROD_00161,Electronics Item 161,Electronics,Supplier C,Warehouse North,57.2,106.82,278,94,2025-06-15 09:49:00.718364,2026-11-07 09:49:00.718366,Active
+PROD_00162,Electronics Item 162,Electronics,Supplier B,Warehouse East,115.6,322.82,258,41,2025-05-27 09:49:00.718371,2027-06-10 09:49:00.718373,Out of Stock
+PROD_00163,Sports Item 163,Sports,Supplier E,Warehouse North,184.76,430.4,152,12,2025-07-10 09:49:00.718379,2027-04-10 09:49:00.718380,Discontinued
+PROD_00164,Sports Item 164,Sports,Supplier B,Warehouse North,71.55,147.82,750,49,2025-06-27 09:49:00.718388,,Discontinued
+PROD_00165,Sports Item 165,Sports,Supplier E,Warehouse East,43.9,84.43,98,58,2025-06-21 09:49:00.718394,,Active
+PROD_00166,Books Item 166,Books,Supplier D,Warehouse South,13.93,25.15,545,52,2025-06-18 09:49:00.718400,,Out of Stock
+PROD_00167,Electronics Item 167,Electronics,Supplier B,Warehouse South,139.5,193.31,420,15,2025-07-25 09:49:00.718405,,Out of Stock
+PROD_00168,Toys Item 168,Toys,Supplier E,Warehouse West,19.16,46.47,735,27,2025-07-23 09:49:00.718411,2026-05-01 09:49:00.718412,Discontinued
+PROD_00169,Electronics Item 169,Electronics,Supplier E,Warehouse West,12.14,14.82,123,45,2025-05-30 09:49:00.718418,,Discontinued
+PROD_00170,Clothing Item 170,Clothing,Supplier E,Warehouse North,23.23,66.49,95,42,2025-06-05 09:49:00.718423,,Out of Stock
+PROD_00171,Clothing Item 171,Clothing,Supplier E,Warehouse South,13.61,33.22,673,99,2025-08-20 09:49:00.718428,2027-02-03 09:49:00.718430,Active
+PROD_00172,Home & Garden Item 172,Home & Garden,Supplier E,Warehouse South,178.06,245.75,947,83,2025-07-16 09:49:00.718436,,Out of Stock
+PROD_00173,Books Item 173,Books,Supplier E,Warehouse South,187.26,478.63,27,22,2025-06-01 09:49:00.718441,,Out of Stock
+PROD_00174,Books Item 174,Books,Supplier B,Warehouse North,42.55,114.03,750,32,2025-07-26 09:49:00.718449,2026-04-10 09:49:00.718451,Active
+PROD_00175,Books Item 175,Books,Supplier B,Warehouse South,94.87,226.83,32,25,2025-07-25 09:49:00.718456,,Discontinued
+PROD_00176,Toys Item 176,Toys,Supplier B,Warehouse West,89.21,217.51,387,10,2025-07-30 09:49:00.718462,,Out of Stock
+PROD_00177,Clothing Item 177,Clothing,Supplier A,Warehouse North,138.47,388.7,782,30,2025-07-24 09:49:00.718467,,Discontinued
+PROD_00178,Electronics Item 178,Electronics,Supplier B,Warehouse East,89.75,220.74,730,76,2025-06-10 09:49:00.718472,2027-03-17 09:49:00.718474,Out of Stock
+PROD_00179,Sports Item 179,Sports,Supplier B,Warehouse South,196.96,550.6,976,67,2025-06-27 09:49:00.718480,,Discontinued
+PROD_00180,Books Item 180,Books,Supplier A,Warehouse South,66.57,152.53,415,47,2025-07-03 09:49:00.718485,2027-01-09 09:49:00.718487,Active
+PROD_00181,Sports Item 181,Sports,Supplier A,Warehouse South,27.49,67.36,754,99,2025-06-13 09:49:00.718492,2026-01-13 09:49:00.718494,Out of Stock
+PROD_00182,Home & Garden Item 182,Home & Garden,Supplier B,Warehouse North,81.95,194.17,530,33,2025-06-13 09:49:00.718499,2026-01-27 09:49:00.718500,Active
+PROD_00183,Electronics Item 183,Electronics,Supplier A,Warehouse South,104.14,238.74,551,80,2025-08-10 09:49:00.718506,,Out of Stock
+PROD_00184,Electronics Item 184,Electronics,Supplier B,Warehouse South,55.63,100.01,45,64,2025-06-19 09:49:00.718513,2026-04-18 09:49:00.718515,Active
+PROD_00185,Clothing Item 185,Clothing,Supplier B,Warehouse West,141.26,192.24,73,64,2025-05-31 09:49:00.718520,,Out of Stock
+PROD_00186,Books Item 186,Books,Supplier C,Warehouse North,94.88,230.21,33,11,2025-08-17 09:49:00.718526,2025-10-14 09:49:00.718527,Out of Stock
+PROD_00187,Electronics Item 187,Electronics,Supplier E,Warehouse North,21.31,31.9,84,98,2025-07-27 09:49:00.718533,,Active
+PROD_00188,Home & Garden Item 188,Home & Garden,Supplier C,Warehouse North,157.81,342.49,806,90,2025-06-04 09:49:00.718538,,Active
+PROD_00189,Books Item 189,Books,Supplier E,Warehouse East,66.0,159.07,770,47,2025-07-18 09:49:00.718544,,Out of Stock
+PROD_00190,Clothing Item 190,Clothing,Supplier D,Warehouse East,122.07,273.13,502,76,2025-08-11 09:49:00.718549,,Discontinued
+PROD_00191,Sports Item 191,Sports,Supplier D,Warehouse West,126.22,161.11,41,74,2025-06-26 09:49:00.718555,,Active
+PROD_00192,Sports Item 192,Sports,Supplier B,Warehouse West,14.53,34.74,353,91,2025-07-08 09:49:00.718561,,Out of Stock
+PROD_00193,Sports Item 193,Sports,Supplier D,Warehouse North,58.64,86.2,241,62,2025-08-01 09:49:00.718566,2027-02-25 09:49:00.718568,Active
+PROD_00194,Books Item 194,Books,Supplier C,Warehouse South,77.07,99.28,803,83,2025-07-03 09:49:00.718577,2027-04-08 09:49:00.718578,Out of Stock
+PROD_00195,Electronics Item 195,Electronics,Supplier B,Warehouse South,126.88,164.37,420,87,2025-06-03 09:49:00.718583,,Out of Stock
+PROD_00196,Books Item 196,Books,Supplier E,Warehouse South,158.37,194.89,128,18,2025-08-13 09:49:00.718590,,Active
+PROD_00197,Electronics Item 197,Electronics,Supplier E,Warehouse North,173.72,287.52,911,81,2025-06-14 09:49:00.718597,2026-06-14 09:49:00.718599,Out of Stock
+PROD_00198,Toys Item 198,Toys,Supplier B,Warehouse West,55.44,152.04,510,41,2025-06-15 09:49:00.718605,,Out of Stock
+PROD_00199,Clothing Item 199,Clothing,Supplier C,Warehouse South,108.02,142.1,158,96,2025-08-12 09:49:00.718610,,Discontinued
+PROD_00200,Sports Item 200,Sports,Supplier E,Warehouse East,137.19,343.91,417,48,2025-07-31 09:49:00.718616,,Discontinued
