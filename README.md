@@ -169,26 +169,26 @@ Create a `config.json` file to customize the ETL pipeline:
 
 ```json
 {
-  \"extraction\": {
-    \"file_patterns\": [\"*.xlsx\", \"*.xls\", \"*.csv\"],
-    \"add_source_column\": true
+  "extraction": {
+    "file_patterns": ["*.xlsx", "*.xls", "*.csv"],
+    "add_source_column": true
   },
-  \"transformation\": {
-    \"standardize_columns\": true,
-    \"handle_missing\": true,
-    \"remove_duplicates\": true,
-    \"type_mapping\": {
-      \"date\": \"datetime\",
-      \"amount\": \"numeric\"
+  "transformation": {
+    "standardize_columns": true,
+    "handle_missing": true,
+    "remove_duplicates": true,
+    "type_mapping": {
+      "date": "datetime",
+      "amount": "numeric"
     },
-    \"calculations\": {
-      \"profit_margin\": \"revenue * 0.2\",
-      \"total_value\": \"quantity * unit_price\"
+    "calculations": {
+      "profit_margin": "revenue * 0.2",
+      "total_value": "quantity * unit_price"
     }
   },
-  \"loading\": {
-    \"formats\": [\"csv\", \"excel_styled\", \"summary\"],
-    \"create_visualizations\": true
+  "loading": {
+    "formats": ["csv", "excel_styled", "summary"],
+    "create_visualizations": true
   }
 }
 ```
@@ -199,14 +199,14 @@ Create a `config.json` file to customize the ETL pipeline:
 ```python
 business_rules = [
     {
-        \"name\": \"High Value Sales\",
-        \"condition\": \"total_amount > 1000\",
-        \"action\": \"set_category=High Value\"
+        "name": "High Value Sales",
+        "condition": "total_amount > 1000",
+        "action": "set_category=High Value"
     },
     {
-        \"name\": \"Remove Invalid Records\",
-        \"condition\": \"quantity <= 0\",
-        \"action\": \"drop\"
+        "name": "Remove Invalid Records",
+        "condition": "quantity <= 0",
+        "action": "drop"
     }
 ]
 ```
@@ -214,19 +214,19 @@ business_rules = [
 #### KPI Calculations
 ```python
 kpi_config = {
-    \"total_revenue\": {
-        \"type\": \"simple\",
-        \"formula\": \"total_amount.sum()\"
+    "total_revenue": {
+        "type": "simple",
+        "formula": "total_amount.sum()"
     },
-    \"growth_rate\": {
-        \"type\": \"growth\",
-        \"base_column\": \"monthly_sales\",
-        \"period_column\": \"month\"
+    "growth_rate": {
+        "type": "growth",
+        "base_column": "monthly_sales",
+        "period_column": "month"
     },
-    \"conversion_rate\": {
-        \"type\": \"ratio\",
-        \"numerator\": \"conversions\",
-        \"denominator\": \"total_visits\"
+    "conversion_rate": {
+        "type": "ratio",
+        "numerator": "conversions",
+        "denominator": "total_visits"
     }
 }
 ```
@@ -240,25 +240,25 @@ from src.report_generator import ReportGenerator
 
 # Configure for sales data
 config = {
-    \"transformation\": {
-        \"type_mapping\": {
-            \"date\": \"datetime\",
-            \"sales_amount\": \"numeric\",
-            \"quantity\": \"int\"
+    "transformation": {
+        "type_mapping": {
+            "date": "datetime",
+            "sales_amount": "numeric",
+            "quantity": "int"
         },
-        \"calculations\": {
-            \"unit_price\": \"sales_amount / quantity\",
-            \"profit\": \"sales_amount * 0.3\"
+        "calculations": {
+            "unit_price": "sales_amount / quantity",
+            "profit": "sales_amount * 0.3"
         },
-        \"kpi_config\": {
-            \"total_sales\": {\"type\": \"simple\", \"formula\": \"sales_amount.sum()\"},
-            \"avg_order_value\": {\"type\": \"simple\", \"formula\": \"sales_amount.mean()\"}
+        "kpi_config": {
+            "total_sales": {"type": "simple", "formula": "sales_amount.sum()"},
+            "avg_order_value": {"type": "simple", "formula": "sales_amount.mean()"}
         }
     }
 }
 
-generator = ReportGenerator(\"data/sales\", \"data/reports\")
-results = generator.run_complete_pipeline(transformation=config[\"transformation\"])
+generator = ReportGenerator("data/sales", "data/reports")
+results = generator.run_complete_pipeline(transformation=config["transformation"])
 ```
 
 ### Example 2: Financial Data Aggregation
@@ -266,16 +266,16 @@ results = generator.run_complete_pipeline(transformation=config[\"transformation
 ```python
 # Group financial data by department and month
 aggregation_config = {
-    \"transformation\": {
-        \"group_by\": [\"department\", \"month\"],
-        \"aggregations\": {
-            \"amount\": [\"sum\", \"mean\", \"count\"],
-            \"budget\": \"sum\"
+    "transformation": {
+        "group_by": ["department", "month"],
+        "aggregations": {
+            "amount": ["sum", "mean", "count"],
+            "budget": "sum"
         }
     }
 }
 
-generator = ReportGenerator(\"data/finance\", \"data/finance_reports\")
+generator = ReportGenerator("data/finance", "data/finance_reports")
 results = generator.run_complete_pipeline(**aggregation_config)
 ```
 
@@ -286,16 +286,16 @@ import schedule
 import time
 
 def run_daily_reports():
-    generator = ReportGenerator(\"data/daily\", \"data/daily_reports\")
+    generator = ReportGenerator("data/daily", "data/daily_reports")
     results = generator.run_complete_pipeline()
     
     if results['status'] == 'success':
-        print(f\"Daily report generated: {results['output_files']}\")
+        print(f"Daily report generated: {results['output_files']}")
     else:
-        print(f\"Report generation failed: {results['error']}\")
+        print(f"Report generation failed: {results['error']}")
 
 # Schedule daily execution at 6 AM
-schedule.every().day.at(\"06:00\").do(run_daily_reports)
+schedule.every().day.at("06:00").do(run_daily_reports)
 
 # Keep the scheduler running
 while True:
@@ -312,7 +312,7 @@ while True:
 python test_etl_pipeline.py
 
 # Test individual components
-python -c \"from test_etl_pipeline import test_basic_pipeline; test_basic_pipeline()\"
+python -c "from test_etl_pipeline import test_basic_pipeline; test_basic_pipeline()"
 ```
 
 ### Generate Sample Data
